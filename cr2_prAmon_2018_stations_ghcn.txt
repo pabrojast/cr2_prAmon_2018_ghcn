@@ -1,0 +1,1250 @@
+codigo_estacion,institucion,fuente,nombre,altura,latitud,longitud,codigo_cuenca,nombre_cuenca,codigo_sub_cuenca,nombre_sub_cuenca,inicio_observaciones,fin_observaciones,cantidad_observaciones,inicio_automatica
+1000005,DGA,dga_web,Visviri,4080,-17.595,-69.4831,10.0,Altiplanicas,100.0,Entre Limite Peru-Bolivia Y Rio Lauca,1968-05-01,2018-02-04,17503,2016-08-01
+1200002,DGA,dga_web,Villa Industrial (Tacora),4080,-17.7719,-69.7244,12.0,Rio Lluta,120.0,Rio Lluta Alto,1975-01-01,2017-03-31,14820,-
+1200003,DGA,dga_web,Humapalca,3980,-17.835,-69.7039,12.0,Rio Lluta,120.0,Rio Lluta Alto,1971-12-01,2017-03-31,16419,-
+1201005,DGA,dga_web,Rio Caracarani En Humapalca,3908,-17.8428,-69.6994,12.0,Rio Lluta,120.0,Rio Lluta Alto,2013-06-01,2018-01-30,1489,2016-08-31
+1201010,DGA,dga_web,Alcerreca,3990,-17.9931,-69.6594,12.0,Rio Lluta,120.0,Rio Lluta Alto,1971-01-01,2017-03-31,16589,-
+1201003,DGA,dga_web,Rio Lluta En Alcerreca,3550,-18.0036,-69.6331,12.0,Rio Lluta,120.0,Rio Lluta Alto,2001-12-01,2018-02-04,5582,2017-04-01
+1001005,DGA,dga_web,Caquena,4400,-18.0542,-69.2017,10.0,Altiplanicas,100.0,Entre Limite Peru-Bolivia Y Rio Lauca,1970-01-01,2017-03-31,15368,-
+1110001,DGA,dga_web,Puquios,3750,-18.1747,-69.7439,11.0,Quebrada De La Concordia,111.0,Quebrada De La Concordia,1975-05-01,1981-05-31,2105,-
+1202009,DGA,dga_web,Pacollo,4185,-18.1769,-69.5092,12.0,Rio Lluta,120.0,Rio Lluta Alto,1978-11-01,1999-05-31,7395,-
+1020014,DGA,dga_web,Cotacotani,4550,-18.1836,-69.2328,10.0,Altiplanicas,102.0,Rio Lauca,1961-04-01,2017-03-31,19522,-
+1020013,DGA,dga_web,Isla Blanca,4540,-18.1858,-69.2142,10.0,Altiplanicas,102.0,Rio Lauca,1970-01-01,1989-06-30,7026,-
+1020002,DGA,dga_web,Rio Desaguadero Cotacotani,4500,-18.1936,-69.2458,10.0,Altiplanicas,102.0,Rio Lauca,2015-04-01,2017-03-31,577,-
+1202012,DGA,dga_web,Putre (Dcp),3560,-18.195,-69.5589,12.0,Rio Lluta,120.0,Rio Lluta Alto,2001-12-01,2018-02-04,5757,2016-08-31
+1202010,DGA,dga_web,Putre,3545,-18.1992,-69.5603,12.0,Rio Lluta,120.0,Rio Lluta Alto,1968-01-01,2009-10-31,14940,-
+1020015,DGA,dga_web,Parinacota Conaf Dga,4420,-18.2014,-69.2683,10.0,Altiplanicas,102.0,Rio Lauca,1932-12-01,1989-01-31,16411,-
+1020017,DGA,dga_web,Parinacota Ex Endesa,4420,-18.2042,-69.2683,10.0,Altiplanicas,102.0,Rio Lauca,1983-01-01,2018-02-04,12067,2016-08-31
+1202011,DGA,dga_web,Las Cuevas Conaf,4060,-18.2106,-69.5103,12.0,Rio Lluta,120.0,Rio Lluta Alto,1986-01-01,1988-01-31,730,-
+1020016,DGA,dga_web,Chucuyo Reten,4400,-18.2164,-69.2956,10.0,Altiplanicas,102.0,Rio Lauca,1960-11-01,2017-03-31,19175,-
+1020018,DGA,dga_web,Chucuyo (Ex. Endesa),4400,-18.2181,-69.3214,10.0,Altiplanicas,102.0,Rio Lauca,1984-12-01,1990-03-31,1843,-
+1010010,DGA,dga_web,Chungara Ajata,4585,-18.2353,-69.1833,10.0,Altiplanicas,101.0,Lago Chungara,1983-05-01,2018-02-04,12242,2013-04-01
+1010009,DGA,dga_web,Chungara Guarderia,4600,-18.2669,-69.1167,10.0,Altiplanicas,101.0,Lago Chungara,1984-10-01,1987-12-31,824,-
+1010007,DGA,dga_web,Chungara Reten,4570,-18.2808,-69.1383,10.0,Altiplanicas,101.0,Lago Chungara,1962-07-01,2017-03-31,16986,-
+1300005,DGA,dga_web,Portezuelo Chapiquia,4375,-18.3272,-69.4661,13.0,Rio San Jose,130.0,Azapa Alto,1976-04-01,1979-12-31,488,-
+1010008,DGA,dga_web,Missituni,4720,-18.3478,-69.1342,10.0,Altiplanicas,101.0,Lago Chungara,1967-09-01,1974-02-28,363,-
+1300004,DGA,dga_web,Murmuntane,3550,-18.3519,-69.5519,13.0,Rio San Jose,130.0,Azapa Alto,1970-06-01,1987-12-31,3933,-
+1300006,DGA,dga_web,Central Chapiquia,3350,-18.3722,-69.5481,13.0,Rio San Jose,130.0,Azapa Alto,1963-01-01,2018-02-04,19242,2016-08-01
+1211006,DGA,dga_web,Lluta,290,-18.4103,-70.1692,12.0,Rio Lluta,121.0,Rio Lluta Bajo,1966-09-01,1993-12-31,5292,-
+1300007,DGA,dga_web,Belen,3240,-18.4669,-69.5167,13.0,Rio San Jose,130.0,Azapa Alto,1938-01-01,2018-02-04,23441,2006-08-03
+1310018,DGA,dga_web,Arica Oficina,20,-18.4775,-70.3208,13.0,Rio San Jose,131.0,Rio San Jose,1974-09-01,2017-03-31,15307,-
+1310021,DGA,dga_web,U. Del Norte,55,-18.4833,-70.2936,13.0,Rio San Jose,131.0,Rio San Jose,1980-12-01,1984-12-31,1191,-
+1021002,DGA,dga_web,Rio Guallatire En Guallatire,4280,-18.4931,-69.1494,10.0,Altiplanicas,102.0,Rio Lauca,2015-06-01,2018-02-04,949,2016-08-31
+1021007,DGA,dga_web,Guallatire,4240,-18.4983,-69.1547,10.0,Altiplanicas,102.0,Rio Lauca,1969-01-01,2017-03-31,16846,-
+1310022,DGA,dga_web,El Buitre Aerodromo,110,-18.5119,-70.2842,13.0,Rio San Jose,131.0,Rio San Jose,1985-09-01,2012-03-31,9676,-
+1300009,DGA,dga_web,Rio Ticnamar En Angostura,3010,-18.5133,-69.5656,13.0,Rio San Jose,130.0,Azapa Alto,2006-01-01,2018-02-04,4009,2016-08-31
+1310019,DGA,dga_web,Azapa,365,-18.5156,-70.1806,13.0,Rio San Jose,131.0,Rio San Jose,1966-08-01,2017-03-31,15763,-
+1300008,DGA,dga_web,Tignamar,3230,-18.5811,-69.4939,13.0,Rio San Jose,130.0,Azapa Alto,1968-01-01,2017-03-31,15980,-
+1030003,DGA,dga_web,Chilcaya,4270,-18.7939,-69.0844,10.0,Altiplanicas,103.0,Salar De Surire,1971-11-01,2017-03-31,11525,-
+1410011,DGA,dga_web,Chaca,350,-18.8169,-70.15,14.0,Costeras R. San Jose-Q.Camarones,141.0,Quebrada Vitor,1968-12-01,1983-12-31,5478,-
+1410012,DGA,dga_web,Codpa,1870,-18.8322,-69.7439,14.0,Costeras R. San Jose-Q.Camarones,141.0,Quebrada Vitor,1961-06-01,2017-03-31,19694,-
+1502007,DGA,dga_web,Esquia,2170,-18.9417,-69.5328,15.0,Q. Rio Camarones,150.0,Rio Camarones Antes Junta Quebrada De Chiza,1975-07-01,2017-03-31,15167,-
+1502008,DGA,dga_web,Rio Camarones En Chilpe,1565,-18.9431,-69.6197,15.0,Q. Rio Camarones,150.0,Rio Camarones Antes Junta Quebrada De Chiza,2005-12-01,2018-02-04,4402,2016-08-31
+1501001,DGA,dga_web,Caritaya Embalse,3600,-19.0247,-69.3361,15.0,Q. Rio Camarones,150.0,Rio Camarones Antes Junta Quebrada De Chiza,1932-01-01,1965-07-31,1336,-
+1610003,DGA,dga_web,Pumire,4150,-19.0953,-69.1108,16.0,Costeras R.Camarones-Pampa Del Tamarugal,161.0,Quebrada De Camina,1962-01-01,1991-10-31,10379,-
+1502006,DGA,dga_web,Cuya,200,-19.1117,-70.1269,15.0,Q. Rio Camarones,150.0,Rio Camarones Antes Junta Quebrada De Chiza,1965-11-01,1979-04-30,4502,-
+1610004,DGA,dga_web,Q. Camia 3 Km. A. Arriba De Tarcavire,3848,-19.1181,-69.2447,16.0,Costeras R.Camarones-Pampa Del Tamarugal,161.0,Quebrada De Camina,2006-08-01,2018-02-04,3965,2016-05-01
+1041004,DGA,dga_web,Enquelca (Ex Caraguano),3900,-19.2289,-68.8044,10.0,Altiplanicas,104.0,Entre Estero Sencata Y Rio Sacaya,1985-01-01,2017-03-31,10044,-
+1041003,DGA,dga_web,Colchane (T. Isluga),3700,-19.2764,-68.6378,10.0,Altiplanicas,104.0,Entre Estero Sencata Y Rio Sacaya,1975-12-01,2018-02-04,14521,2012-04-09
+1611002,DGA,dga_web,Apamilca (Camia),2600,-19.2967,-69.3867,16.0,Costeras R.Camarones-Pampa Del Tamarugal,161.0,Quebrada De Camina,1986-01-01,1990-04-30,1339,-
+1611001,DGA,dga_web,Camia,2500,-19.3136,-69.4172,16.0,Costeras R.Camarones-Pampa Del Tamarugal,161.0,Quebrada De Camina,1971-01-01,2017-03-31,14389,-
+1720004,DGA,dga_web,Puchultiza,4300,-19.4136,-68.9422,17.0,Pampa Del Tamarugal,172.0,Quebrada De Aroma,1982-09-01,1988-12-31,2314,-
+1720006,DGA,dga_web,Chiapa,3155,-19.5369,-69.205,17.0,Pampa Del Tamarugal,172.0,Quebrada De Aroma,2012-02-01,2017-01-31,1607,-
+1730020,DGA,dga_web,Chuzmiza,3400,-19.6831,-69.1833,17.0,Pampa Del Tamarugal,173.0,Quebrada De Tarapaca,1988-12-01,2017-03-31,9771,-
+1730015,DGA,dga_web,Pampa Lirima Dcp,5100,-19.7653,-68.8581,17.0,Pampa Del Tamarugal,173.0,Quebrada De Tarapaca,1982-10-01,1984-11-30,731,-
+1730007,DGA,dga_web,Q. Tarapaca En Sibaya,2830,-19.7831,-69.1433,17.0,Pampa Del Tamarugal,173.0,Quebrada De Tarapaca,2004-02-06,2018-02-04,4825,2006-02-08
+1730019,DGA,dga_web,Mocha,2150,-19.8097,-69.2731,17.0,Pampa Del Tamarugal,173.0,Quebrada De Tarapaca,1988-01-01,2017-03-31,9632,-
+1730016,DGA,dga_web,Pampa Lirima,4076,-19.8472,-68.8544,17.0,Pampa Del Tamarugal,173.0,Quebrada De Tarapaca,1977-10-01,1989-05-31,4141,-
+1042001,DGA,dga_web,Cancosa,3930,-19.8553,-68.6017,10.0,Altiplanicas,104.0,Entre Estero Sencata Y Rio Sacaya,1976-04-01,2012-04-30,12252,-
+1044001,DGA,dga_web,Rio Cancosa En El Tambo,4000,-19.8586,-68.5858,10.0,Altiplanicas,104.0,Entre Estero Sencata Y Rio Sacaya,2012-05-01,2017-03-26,1529,-
+1730017,DGA,dga_web,Poroma,2880,-19.8719,-69.1831,17.0,Pampa Del Tamarugal,173.0,Quebrada De Tarapaca,1968-04-01,2017-03-31,15060,-
+1730018,DGA,dga_web,Lagunillas (Pampa Lirima),4020,-19.9333,-68.8369,17.0,Pampa Del Tamarugal,173.0,Quebrada De Tarapaca,1982-10-01,2017-03-31,11515,-
+1042002,DGA,dga_web,Huaytani,3950,-20.0003,-68.5706,10.0,Altiplanicas,104.0,Entre Estero Sencata Y Rio Sacaya,1982-09-01,2016-11-30,11618,-
+1740001,DGA,dga_web,Parca,2650,-20.0122,-69.2033,17.0,Pampa Del Tamarugal,174.0,Quebrada De Quipisca,1977-12-01,2016-11-30,13818,-
+1050007,DGA,dga_web,Coyacagua,4013,-20.0531,-68.8075,10.0,Altiplanicas,105.0,Salar Del Huasco,1961-11-01,2017-03-31,19622,-
+1740002,DGA,dga_web,Cerro Colorado,2510,-20.065,-69.2703,17.0,Pampa Del Tamarugal,174.0,Quebrada De Quipisca,1993-04-01,2017-03-31,8515,-
+1750003,DGA,dga_web,Mamia,2730,-20.0756,-69.2147,17.0,Pampa Del Tamarugal,175.0,Quebradas Juan Morales Sagasca  Y El Tambillo,1986-01-01,2017-03-31,10954,-
+1050009,DGA,dga_web,Diablo Marca,4585,-20.1044,-68.9681,10.0,Altiplanicas,105.0,Salar Del Huasco,2011-12-01,2016-12-30,1397,-
+1050004,DGA,dga_web,Rio Collacagua En Peablanca,3853,-20.1119,-68.8408,10.0,Altiplanicas,105.0,Salar Del Huasco,2014-10-01,2016-10-18,612,-
+1700010,DGA,dga_web,Huara En Fuerte Baquedano,1100,-20.1308,-69.7497,17.0,Pampa Del Tamarugal,170.0,Pampa Del Tamarugal,1993-02-01,2017-03-31,7541,-
+1051004,DGA,dga_web,Altos Del Huasco,4044,-20.1703,-68.7703,10.0,Altiplanicas,105.0,Salar Del Huasco,2011-12-01,2016-12-30,1449,-
+1750002,DGA,dga_web,Sagasca,1822,-20.2033,-69.3397,17.0,Pampa Del Tamarugal,175.0,Quebradas Juan Morales Sagasca  Y El Tambillo,1977-09-01,1998-11-30,6236,-
+1820001,DGA,dga_web,Iquique,50,-20.2153,-70.1361,18.0,Costeras Tilviche-Loa,182.0,Pampas El Carmen Y De La Union,1984-08-01,2017-03-31,11747,-
+1051003,DGA,dga_web,Salar Huasco,3800,-20.2761,-68.8861,10.0,Altiplanicas,105.0,Salar Del Huasco,1981-03-01,1982-06-30,457,-
+1050010,DGA,dga_web,Sillillica,3840,-20.3219,-68.8936,10.0,Altiplanicas,105.0,Salar Del Huasco,2011-12-01,2016-02-28,1427,-
+1700008,DGA,dga_web,Esmeralda,1115,-20.4842,-69.3814,17.0,Pampa Del Tamarugal,170.0,Pampa Del Tamarugal,1966-09-01,1972-12-31,1069,-
+1700009,DGA,dga_web,Coposa,3760,-20.7086,-68.6942,17.0,Pampa Del Tamarugal,170.0,Pampa Del Tamarugal,1982-12-01,2017-02-27,7910,-
+2113005,DGA,dga_web,Guatacondo Dga,2460,-20.9272,-69.0456,21.0,Rio Loa,211.0,Loa Medio (Entre R.  Salado Y Q. De Barrera),1977-09-01,2017-03-31,14303,-
+1770001,DGA,dga_web,Copaquire,3540,-20.9303,-68.8922,17.0,Pampa Del Tamarugal,177.0,Quebrada De Chacarilla,1977-09-01,2011-04-30,10587,-
+2113001,DGA,dga_web,Rio Huatacondo En Copaquire,3540,-20.9333,-68.8833,21.0,Rio Loa,211.0,Loa Medio (Entre R.  Salado Y Q. De Barrera),2011-06-01,2017-03-31,1974,-
+1080001,DGA,dga_web,Ujina,4300,-20.9714,-68.6275,10.0,Altiplanicas,108.0,Salar De Michincha,1974-01-01,2017-02-27,11990,-
+1080002,DGA,dga_web,Collahuasi,4250,-20.9961,-68.8019,10.0,Altiplanicas,108.0,Salar De Michincha,1971-11-01,1991-08-31,6938,-
+2105031,DGA,dga_web,Amincha,3860,-21.2006,-68.3394,21.0,Rio Loa,210.0,Rio Loa Alto (Bajo Junta Rio Salado),1978-12-01,1981-11-30,273,-
+2000001,DGA,dga_web,Ollague,3700,-21.2233,-68.2494,20.0,Fronterizas Salar Michincha-R.Loa,200.0,Salar De Ollague,1971-11-01,2018-02-01,11001,2017-08-08
+2020001,DGA,dga_web,Cebollar,3730,-21.5311,-68.3386,20.0,Fronterizas Salar Michincha-R.Loa,202.0,Salar De Ascotan,1900-02-01,2006-12-31,9675,-
+2101003,DGA,dga_web,Lequena,3320,-21.6553,-68.6611,21.0,Rio Loa,210.0,Rio Loa Alto (Bajo Junta Rio Salado),1973-11-01,2017-03-31,15731,-
+2101001,DGA,dga_web,Rio Loa Antes Represa Lequena,3315,-21.6558,-68.6622,21.0,Rio Loa,210.0,Rio Loa Alto (Bajo Junta Rio Salado),2001-12-01,2018-02-04,5910,2012-01-23
+2112008,DGA,dga_web,Quillagua,802,-21.6603,-69.5358,21.0,Rio Loa,211.0,Loa Medio (Entre R.  Salado Y Q. De Barrera),1900-02-01,2017-04-30,15822,-
+2020002,DGA,dga_web,Ascotan,3970,-21.7253,-68.2756,20.0,Fronterizas Salar Michincha-R.Loa,202.0,Salar De Ascotan,1974-08-01,2017-04-30,13864,-
+2111004,DGA,dga_web,Tranque Sloman,985,-21.8506,-69.5139,21.0,Rio Loa,211.0,Loa Medio (Entre R.  Salado Y Q. De Barrera),1996-03-01,2004-12-31,3228,-
+2102005,DGA,dga_web,Quinchamale,3080,-21.9053,-68.5964,21.0,Rio Loa,210.0,Rio Loa Alto (Bajo Junta Rio Salado),1995-06-01,2017-03-31,7916,-
+2103007,DGA,dga_web,San Pedro De Conchi,3217,-21.9333,-68.5364,21.0,Rio Loa,210.0,Rio Loa Alto (Bajo Junta Rio Salado),1970-02-01,1993-04-30,8247,-
+2103008,DGA,dga_web,Parshall N 2,3318,-21.9428,-68.5175,21.0,Rio Loa,210.0,Rio Loa Alto (Bajo Junta Rio Salado),1969-04-01,2015-12-31,16201,-
+2104007,DGA,dga_web,Conchi Viejo,3491,-21.95,-68.7239,21.0,Rio Loa,210.0,Rio Loa Alto (Bajo Junta Rio Salado),1900-02-01,2017-04-30,14261,-
+2103009,DGA,dga_web,Ojos San Pedro,3800,-21.9706,-68.3128,21.0,Rio Loa,210.0,Rio Loa Alto (Bajo Junta Rio Salado),1900-02-01,2017-04-30,14762,-
+2103014,DGA,dga_web,Rio Siloli Antes B.T. Fcab,4000,-22.0103,-68.0269,21.0,Rio Loa,210.0,Rio Loa Alto (Bajo Junta Rio Salado),2012-10-01,2018-02-04,1516,2012-10-25
+2103012,DGA,dga_web,Silala,4305,-22.0139,-68.0289,21.0,Rio Loa,210.0,Rio Loa Alto (Bajo Junta Rio Salado),2001-01-01,2017-04-30,5923,-
+2104008,DGA,dga_web,Conchi Embalse,3010,-22.025,-68.6242,21.0,Rio Loa,210.0,Rio Loa Alto (Bajo Junta Rio Salado),1967-09-01,2017-04-30,15338,-
+2104009,DGA,dga_web,Conchi Muro Embalse,3000,-22.0267,-68.6208,21.0,Rio Loa,210.0,Rio Loa Alto (Bajo Junta Rio Salado),1978-02-01,1991-12-31,4805,-
+2103010,DGA,dga_web,Inacaliri,4040,-22.0278,-68.0661,21.0,Rio Loa,210.0,Rio Loa Alto (Bajo Junta Rio Salado),1900-02-01,2017-04-30,17271,-
+2104002,DGA,dga_web,Rio Loa En Salida Embalse Conchi,2950,-22.0278,-68.6208,21.0,Rio Loa,210.0,Rio Loa Alto (Bajo Junta Rio Salado),2012-02-01,2017-05-31,1857,-
+2210002,DGA,dga_web,Tocopilla,150,-22.0797,-70.1897,22.0,Costeras R.Loa-Q.Caracoles,221.0,Costeras Entre Q. Iquine Y Q.Tocopilla (Inclusive),1900-02-01,2017-10-18,8569,2017-06-01
+2105014,DGA,dga_web,Cupo,3370,-22.1147,-68.3167,21.0,Rio Loa,210.0,Rio Loa Alto (Bajo Junta Rio Salado),1900-02-01,2017-03-31,13568,-
+2105016,DGA,dga_web,Linzor,4100,-22.2297,-68.0228,21.0,Rio Loa,210.0,Rio Loa Alto (Bajo Junta Rio Salado),1973-11-01,2018-02-04,14456,2014-11-01
+2105015,DGA,dga_web,Turi,3070,-22.2408,-68.2881,21.0,Rio Loa,210.0,Rio Loa Alto (Bajo Junta Rio Salado),1981-01-01,1993-05-31,4411,-
+2105017,DGA,dga_web,Toconce,3310,-22.2592,-68.1733,21.0,Rio Loa,210.0,Rio Loa Alto (Bajo Junta Rio Salado),1972-03-01,2017-03-31,16333,-
+2105018,DGA,dga_web,Ayquina,3031,-22.2753,-68.3183,21.0,Rio Loa,210.0,Rio Loa Alto (Bajo Junta Rio Salado),1967-09-01,2017-03-31,17499,-
+2105001,DGA,dga_web,Rio Salado A. J. Curti,3080,-22.2792,-68.2428,21.0,Rio Loa,210.0,Rio Loa Alto (Bajo Junta Rio Salado),2012-04-01,2013-07-31,485,-
+2105019,DGA,dga_web,Sifon Ayquina,3000,-22.2833,-68.3497,21.0,Rio Loa,210.0,Rio Loa Alto (Bajo Junta Rio Salado),1975-07-01,1977-12-31,915,-
+2105020,DGA,dga_web,Salado Embalse,3200,-22.2856,-68.2028,21.0,Rio Loa,210.0,Rio Loa Alto (Bajo Junta Rio Salado),1975-10-01,2018-02-04,14789,2007-02-12
+2105002,DGA,dga_web,Rio Salado En Sifon Ayquina,2980,-22.2894,-68.3447,21.0,Rio Loa,210.0,Rio Loa Alto (Bajo Junta Rio Salado),2001-11-01,2017-02-28,5597,2015-02-01
+2105021,DGA,dga_web,Caspana,3260,-22.3367,-68.2122,21.0,Rio Loa,210.0,Rio Loa Alto (Bajo Junta Rio Salado),1971-01-01,2008-12-31,13436,-
+2104010,DGA,dga_web,Chiu-Chiu,2524,-22.3378,-68.6367,21.0,Rio Loa,210.0,Rio Loa Alto (Bajo Junta Rio Salado),1974-08-01,2017-04-30,15367,-
+2105022,DGA,dga_web,El Tatio,4370,-22.3711,-68.0133,21.0,Rio Loa,210.0,Rio Loa Alto (Bajo Junta Rio Salado),1977-06-01,2018-02-04,14074,2014-11-03
+2112009,DGA,dga_web,Coya Sur,1250,-22.3939,-69.6225,21.0,Rio Loa,211.0,Loa Medio (Entre R.  Salado Y Q. De Barrera),1974-06-01,1991-06-30,6117,-
+2110013,DGA,dga_web,Calama,2300,-22.4494,-68.9044,21.0,Rio Loa,211.0,Loa Medio (Entre R.  Salado Y Q. De Barrera),1900-02-01,2018-02-04,17703,2014-01-01
+2510007,DGA,dga_web,Rio Grande,3250,-22.6522,-68.1658,25.0,Salar De Atacama,251.0,Rio San Pedro,1900-02-01,2017-04-30,14605,-
+2700001,DGA,dga_web,Sierra Gorda,1616,-22.8892,-69.3219,27.0,Quebrada Caracoles,270.0,Quebrada Caracoles Bajo Junta Quebrada El Buitre,1994-09-01,2018-02-04,8249,2016-07-02
+2510006,DGA,dga_web,San Pedro De Atacama,2450,-22.9053,-68.2003,25.0,Salar De Atacama,251.0,Rio San Pedro,1959-01-01,2016-12-31,12781,-
+2500016,DGA,dga_web,Toconao Experimental,2500,-23.1889,-67.9978,25.0,Salar De Atacama,250.0,Salar De Atacama,1975-11-01,2009-02-28,11678,-
+2500015,DGA,dga_web,Toconao Reten,2460,-23.1936,-68.0094,25.0,Salar De Atacama,250.0,Salar De Atacama,1975-01-01,1991-01-31,5875,-
+2500021,DGA,dga_web,Talabre,3300,-23.3125,-67.8878,25.0,Salar De Atacama,250.0,Salar De Atacama,1900-02-01,2017-04-30,7817,-
+2710002,DGA,dga_web,Baquedano,1032,-23.3336,-69.8397,27.0,Quebrada Caracoles,271.0,Q. Caracoles Entre Quebrada El Buitre Y  Salar Del Carmen,1900-02-01,2018-02-04,13427,2016-06-24
+2500017,DGA,dga_web,Camar,2700,-23.4069,-67.9631,25.0,Salar De Atacama,250.0,Salar De Atacama,1900-02-01,2017-04-30,14028,-
+2240000,DGA,dga_web,Liceo CientÍFico Humanista La Chimba,0,-23.5544,-70.3933,22.0,Costeras R.Loa-Q.Caracoles,224.0,Costeras Entre Qs. Chacaya Y Caracoles (Incl.),2015-04-21,2016-07-06,435,2015-04-21
+2500019,DGA,dga_web,Socaire,3251,-23.5869,-67.8925,25.0,Salar De Atacama,250.0,Salar De Atacama,1900-02-01,2016-12-31,15153,-
+2710003,DGA,dga_web,Antofagasta,50,-23.5975,-70.3867,27.0,Quebrada Caracoles,271.0,Q. Caracoles Entre Quebrada El Buitre Y  Salar Del Carmen,1900-02-01,2017-09-27,14541,2017-05-01
+2240001,DGA,dga_web,Escuela FundaciÓN Minera Escondida,0,-23.6144,-70.3703,22.0,Costeras R.Loa-Q.Caracoles,224.0,Costeras Entre Qs. Chacaya Y Caracoles (Incl.),2015-05-01,2017-05-31,750,-
+2500020,DGA,dga_web,Peine,2460,-23.6842,-68.0581,25.0,Salar De Atacama,250.0,Salar De Atacama,1974-11-01,2017-04-30,15368,-
+2900000,DGA,dga_web,Universidad De Antofagasta,0,-23.7017,-70.4208,29.0,Qs.Entre Q. La Negra Y Q. Pan De Azucar,290.0,Quebradas Entre Quebrada La Negra Y Q. De Remedios,2015-04-22,2017-12-24,805,2015-04-22
+2640001,DGA,dga_web,Imilac,3000,-24.1631,-68.7828,26.0,Endorreicas Salar Atacama-Vertiente Pacifico,264.0,Pampa Colorado,1972-11-01,1977-04-30,1642,-
+2660001,DGA,dga_web,Monturaqui,3430,-24.3414,-68.4353,26.0,Endorreicas Salar Atacama-Vertiente Pacifico,266.0,Pampa De Socompa,1974-11-01,1979-12-31,1887,-
+2810001,DGA,dga_web,Cachinal De La Sierra,2640,-24.9611,-69.52,28.0,Quebrada La Negra,281.0,Quebrada Grande,1986-11-01,1986-12-31,61,-
+2941001,DGA,dga_web,Vaquillas,3250,-25.3958,-69.2986,29.0,Costeras Entre Q. La Negra Y Q. Pan De Azucar,294.0,Quebrada De Taltal,1987-01-01,1988-02-29,363,-
+2942001,DGA,dga_web,Aguas Verdes,1560,-25.4,-69.9633,29.0,Costeras Entre Q. La Negra Y Q. Pan De Azucar,294.0,Quebrada De Taltal,1987-09-01,2017-03-31,10485,-
+2943002,DGA,dga_web,Tal-Tal (Dcp),0,-25.4033,-70.4797,29.0,Qs.Entre Q. La Negra Y Q. Pan De Azucar,294.0,Quebrada De Taltal,2015-04-21,2018-02-04,1012,2015-04-21
+2943001,DGA,dga_web,Tal-Tal,9,-25.4047,-70.4819,29.0,Costeras Entre Q. La Negra Y Q. Pan De Azucar,294.0,Quebrada De Taltal,1900-02-01,2016-06-30,12476,-
+2960001,DGA,dga_web,Sierra Overa,1900,-25.78,-69.8881,29.0,Costeras Entre Q. La Negra Y Q. Pan De Azucar,296.0,Quebrada De La Cachina,1986-12-01,1988-06-30,578,-
+3210001,DGA,dga_web,Las Vegas,2250,-26.6781,-69.6656,32.0,Rio Salado,321.0,Quebrada Del Chanaral,1984-01-01,2018-02-04,12126,2017-01-01
+3340001,DGA,dga_web,Caldera,15,-27.0692,-70.8156,33.0,Costeras E Islas R.Salado-R.Copiapo,334.0,Costeras Entre Quebrada Del Morado Y Rio Copiapo,1992-03-01,2017-06-20,9211,2016-10-02
+5610000,DGA,dga_web,Poike,32,-27.1125,-90.2753,56.0,Islas Del Pacifico,561.0,Isla De Pascua,2010-01-01,2010-04-30,120,-
+3441001,DGA,dga_web,Pastos Grandes,2260,-27.1142,-69.5642,34.0,Rio Copiapo,344.0,Quebrada Paipote,1966-08-01,2017-05-31,18075,-
+3450004,DGA,dga_web,Copiapo,385,-27.3772,-70.3308,34.0,Rio Copiapo,345.0,R.  Copiapo Bajo,1971-01-01,2018-02-04,17037,2013-11-30
+3431004,DGA,dga_web,Elibor Campamento,750,-27.7167,-70.1953,34.0,Rio Copiapo,343.0,R.  Copiapo Medio,1978-01-01,2017-05-31,14365,-
+3431001,DGA,dga_web,Rio Copiapo En La Puerta,915,-27.8044,-70.1269,34.0,Rio Copiapo,343.0,R.  Copiapo Medio,2010-10-01,2017-05-31,2268,-
+3430007,DGA,dga_web,Los Loros,940,-27.8317,-70.1119,34.0,Rio Copiapo,343.0,R.  Copiapo Medio,1967-09-01,2017-05-31,17045,-
+3404002,DGA,dga_web,Jorquera En La Guardia,2000,-27.8364,-69.755,34.0,Rio Copiapo,340.0,Rio Jorquera,1966-10-01,2017-05-31,18139,-
+3604001,DGA,dga_web,El Totoral,150,-27.9022,-70.9575,36.0,Q.Totoral Y Costeras Hasta Q.Carrizal,360.0,Quebrada Totoral,1987-02-01,2017-05-31,11047,-
+3430006,DGA,dga_web,Lautaro Embalse,1110,-27.9783,-70.0033,34.0,Rio Copiapo,343.0,R.  Copiapo Medio,1930-05-01,2018-02-04,21363,2018-01-09
+3430003,DGA,dga_web,Rio Copiapo En Pastillo,1300,-28.0003,-69.9747,34.0,Rio Copiapo,343.0,R.  Copiapo Medio,2013-04-02,2018-02-04,1578,2013-04-02
+3414001,DGA,dga_web,Rio Pulido En Vertedero,1310,-28.0858,-69.9408,34.0,Rio Copiapo,341.0,Rio Pulido,2016-02-01,2018-02-04,604,2016-08-12
+3701001,DGA,dga_web,Canto De Agua,330,-28.0992,-70.7811,37.0,Quebrada Carrizal Y Costeras Hasta R. Huasco,370.0,Quebradas Carrizal Y Carrizalillo,1987-02-01,2017-05-31,10652,-
+3421004,DGA,dga_web,Manflas,1410,-28.1336,-69.975,34.0,Rio Copiapo,342.0,Rio Manflas,1966-07-01,2017-05-31,18050,-
+3414002,DGA,dga_web,Iglesia Colorada,1550,-28.1572,-69.8808,34.0,Rio Copiapo,341.0,Rio Pulido,1988-06-01,2017-05-31,10530,-
+3412001,DGA,dga_web,Torin En El Potro,2800,-28.2767,-69.7481,34.0,Rio Copiapo,341.0,Rio Pulido,1990-09-01,1992-08-31,397,-
+3826002,DGA,dga_web,Huasco,15,-28.4669,-71.2214,38.0,Rio Huasco,382.0,Rio Huasco,1976-01-01,1992-12-31,6118,-
+3826003,DGA,dga_web,Huasco Bajo,50,-28.4725,-71.1931,38.0,Rio Huasco,382.0,Rio Huasco,1993-01-01,2017-05-31,8794,-
+3825004,DGA,dga_web,Freirina,100,-28.5072,-71.0806,38.0,Rio Huasco,382.0,Rio Huasco,1987-05-01,2017-05-31,10258,-
+3823004,DGA,dga_web,La Compaia (Vallenar),430,-28.5761,-70.8081,38.0,Rio Huasco,382.0,Rio Huasco,1993-02-01,2017-05-31,8791,-
+3823003,DGA,dga_web,Vallenar Dga,420,-28.5861,-70.7397,38.0,Rio Huasco,382.0,Rio Huasco,1972-01-01,2018-02-04,16480,2016-08-02
+3823002,DGA,dga_web,Vallenar Dmc,535,-28.5936,-70.7572,38.0,Rio Huasco,382.0,Rio Huasco,1978-01-01,1983-07-31,1916,-
+3820004,DGA,dga_web,Santa Juana,560,-28.6672,-70.6625,38.0,Rio Huasco,382.0,Rio Huasco,1961-08-01,2018-02-04,19815,2017-06-01
+3820002,DGA,dga_web,Rio Huasco En Chepica,600,-28.6997,-70.55,38.0,Rio Huasco,382.0,Rio Huasco,2015-12-18,2017-06-06,486,2015-12-18
+3820001,DGA,dga_web,Rio Huasco En Algodones,750,-28.7306,-70.5067,38.0,Rio Huasco,382.0,Rio Huasco,2003-10-01,2017-03-30,4795,2006-08-28
+3804007,DGA,dga_web,Junta Del Carmen,770,-28.7539,-70.4817,38.0,Rio Huasco,380.0,Rio Transito,1948-05-01,2017-05-31,25108,-
+3806002,DGA,dga_web,El Transito,1100,-28.8731,-70.2822,38.0,Rio Huasco,380.0,Rio Transito,1993-01-01,2018-02-04,9126,2017-06-01
+3801002,DGA,dga_web,Junta Valerianos,1800,-28.9019,-70.0603,38.0,Rio Huasco,380.0,Rio Transito,1990-07-01,1992-08-31,336,-
+3815004,DGA,dga_web,San Felix,1150,-28.9311,-70.4614,38.0,Rio Huasco,381.0,Rio Del Carmen,1969-07-01,2017-05-31,16943,-
+3802001,DGA,dga_web,Rio Conay En Las Lozas,0,-28.9456,-70.1011,38.0,Rio Huasco,380.0,Rio Transito,2015-12-01,2018-02-04,612,2016-11-29
+3802006,DGA,dga_web,Conay En Albaricoque,1600,-28.9519,-70.1106,38.0,Rio Huasco,380.0,Rio Transito,1999-01-01,2017-05-31,6693,-
+3940001,DGA,dga_web,Domeiko,780,-28.9544,-70.8936,39.0,Costeras E Islas Entre R.Huasco Y Cuarta Region,394.0,Q. Chanaral,1994-06-01,2017-05-31,8369,-
+3802005,DGA,dga_web,Conay,1450,-28.975,-70.1533,38.0,Rio Huasco,380.0,Rio Transito,1965-01-01,2017-05-31,18377,-
+3804005,DGA,dga_web,El Parral,1400,-28.9797,-70.1986,38.0,Rio Huasco,380.0,Rio Transito,1993-02-01,2017-05-31,8657,-
+3802004,DGA,dga_web,Los Tambos,1400,-28.9817,-70.1881,38.0,Rio Huasco,380.0,Rio Transito,1959-01-01,1992-12-31,11314,-
+3814003,DGA,dga_web,Rio Carmen En El Corral,2000,-29.1094,-70.4139,38.0,Rio Huasco,381.0,Rio Del Carmen,2015-12-01,2018-02-04,626,2017-04-01
+3804006,DGA,dga_web,El Corral,1820,-29.1383,-70.3778,38.0,Rio Huasco,380.0,Rio Transito,1995-04-01,2017-05-31,7972,-
+4120001,DGA,dga_web,El Trapiche,300,-29.3731,-71.1181,41.0,Rio Los Choros,412.0,Q. Los Choros Entre Q. Del Pelicano Y Desembocadura,1979-01-01,2017-05-31,13905,-
+4334001,DGA,dga_web,Fundo San Antonio,260,-29.8369,-71.1044,43.0,Rio Elqui,433.0,R. Elqui Bajo,1961-11-01,1963-12-31,640,-
+4306002,DGA,dga_web,Huanta,1240,-29.8478,-70.3847,43.0,Rio Elqui,430.0,Rio Turbio,1989-04-01,2017-05-31,10251,-
+4335002,DGA,dga_web,La Serena (Escuela Agricola),15,-29.9061,-71.2556,43.0,Rio Elqui,433.0,R. Elqui Bajo,1971-01-01,2017-05-31,16921,-
+4308001,DGA,dga_web,Rio Turbio En Varillar,890,-29.9458,-70.5328,43.0,Rio Elqui,430.0,Rio Turbio,2014-11-01,2018-02-04,963,2016-09-13
+4331004,DGA,dga_web,Molino Yaco,1550,-29.9519,-70.28,43.0,Rio Elqui,433.0,R. Elqui Bajo,1958-09-01,1965-12-31,2679,-
+4302001,DGA,dga_web,Rio Toro Antes Junta Rio La Laguna,2165,-29.9711,-70.0928,43.0,Rio Elqui,430.0,Rio Turbio,2014-11-01,2018-02-04,1146,2016-10-02
+4302014,DGA,dga_web,Juntas,2150,-29.9769,-70.0944,43.0,Rio Elqui,430.0,Rio Turbio,1990-01-01,2017-05-31,9332,-
+4308003,DGA,dga_web,Rivadavia,820,-29.9772,-70.5617,43.0,Rio Elqui,430.0,Rio Turbio,1937-01-01,2017-05-31,25165,-
+4314002,DGA,dga_web,Rio Claro En Rivadavia,820,-29.9781,-70.5525,43.0,Rio Elqui,431.0,Rio Claro,2015-04-01,2018-02-04,765,2016-09-02
+4323007,DGA,dga_web,Almendral,370,-29.9822,-70.9186,43.0,Rio Elqui,432.0,R. Elqui Medio,1958-09-01,2017-05-31,19597,-
+4320001,DGA,dga_web,Rio Elqui En Algarrobal,760,-29.9953,-70.5867,43.0,Rio Elqui,432.0,R. Elqui Medio,2011-01-01,2018-02-03,2561,2016-10-02
+4321001,DGA,dga_web,Puclaro Embalse,460,-29.9964,-70.8556,43.0,Rio Elqui,432.0,R. Elqui Medio,1962-08-01,1966-12-31,1554,-
+4400002,DGA,dga_web,Pan De Azucar,100,-30.0022,-71.2592,44.0,Costeras Entre Elqui Y Limari,440.0,E.  El Culebron - Q. El Romeral (Incl.),1978-09-01,1993-09-30,4384,-
+4320003,DGA,dga_web,Vicua (Inia),730,-30.0567,-70.7167,43.0,Rio Elqui,432.0,R. Elqui Medio,1971-01-01,2017-05-31,16920,-
+4314003,DGA,dga_web,Monte Grande,1120,-30.0894,-70.4939,43.0,Rio Elqui,431.0,Rio Claro,1958-09-01,2017-05-31,20935,-
+4311003,DGA,dga_web,Pisco Elqui Dmc,1250,-30.1217,-70.4933,43.0,Rio Elqui,431.0,Rio Claro,1977-01-01,2017-05-31,14209,-
+4313003,DGA,dga_web,Cochiguaz,1560,-30.1414,-70.4047,43.0,Rio Elqui,431.0,Rio Claro,1989-04-01,2017-05-31,10285,-
+4311004,DGA,dga_web,Los Nichos,1330,-30.1472,-70.4983,43.0,Rio Elqui,431.0,Rio Claro,1977-01-01,2017-05-31,14001,-
+4311005,DGA,dga_web,La Ortiga,1560,-30.1939,-70.4819,43.0,Rio Elqui,431.0,Rio Claro,1979-01-01,2017-05-31,13964,-
+4301005,DGA,dga_web,La Laguna Embalse,3160,-30.2033,-70.0422,43.0,Rio Elqui,430.0,Rio Turbio,1964-01-01,2017-05-31,19413,-
+4502005,DGA,dga_web,Hurtado,1100,-30.2867,-70.6961,45.0,Rio Limari,450.0,Rio Hurtado,1943-01-01,2017-05-31,26616,-
+4410001,DGA,dga_web,Cerrillos Pobres,150,-30.2964,-71.3881,44.0,Costeras Entre Elqui Y Limari,441.0,Q. Camarones (Incl. - R. Limari,1961-08-01,1970-04-30,2555,-
+4502004,DGA,dga_web,La Cortadera,920,-30.3503,-70.77,45.0,Rio Limari,450.0,Rio Hurtado,1967-06-01,1973-11-30,2283,-
+4501004,DGA,dga_web,Las Breas,1600,-30.3694,-70.6131,45.0,Rio Limari,450.0,Rio Hurtado,1943-05-01,1977-12-31,8919,-
+4503003,DGA,dga_web,Pichasca,725,-30.3922,-70.8678,45.0,Rio Limari,450.0,Rio Hurtado,1946-05-01,2016-09-30,25343,-
+4503002,DGA,dga_web,Samo Alto,600,-30.4094,-70.9386,45.0,Rio Limari,450.0,Rio Hurtado,1968-06-01,1989-03-31,7122,-
+4501003,DGA,dga_web,Pabellon,1920,-30.4111,-70.5544,45.0,Rio Limari,450.0,Rio Hurtado,1968-05-01,2017-05-31,17862,-
+4503001,DGA,dga_web,Rio Hurtado En Angostura De Pangue,485,-30.4386,-71.0022,45.0,Rio Limari,450.0,Rio Hurtado,2017-05-29,2017-10-31,145,2017-05-29
+4502003,DGA,dga_web,Estancia Chacay,1380,-30.4453,-70.7114,45.0,Rio Limari,450.0,Rio Hurtado,1968-06-01,1971-07-31,1002,-
+4501001,DGA,dga_web,Rio Hurtado En San Agustin,2035,-30.4622,-70.5361,45.0,Rio Limari,450.0,Rio Hurtado,2017-08-04,2018-01-31,181,2017-08-04
+4506006,DGA,dga_web,Bocatoma Canal Alimentador,450,-30.4806,-71.0667,45.0,Rio Limari,450.0,Rio Hurtado,1951-01-01,1964-10-31,4563,-
+4506007,DGA,dga_web,Recoleta Embalse,350,-30.5069,-71.0997,45.0,Rio Limari,450.0,Rio Hurtado,1943-05-01,2017-05-31,25528,-
+4551004,DGA,dga_web,Ovalle (Escuela Agricola),340,-30.5528,-71.1642,45.0,Rio Limari,455.0,Rio Limari,1980-01-01,1983-04-30,1216,-
+4551005,DGA,dga_web,Ovalle Dga,220,-30.6006,-71.2,45.0,Rio Limari,455.0,Rio Limari,1971-02-01,2017-05-31,16770,-
+4552002,DGA,dga_web,La Torre,120,-30.6164,-71.3742,45.0,Rio Limari,455.0,Rio Limari,1936-06-01,2017-05-31,25753,-
+4540005,DGA,dga_web,Sotaqui,280,-30.6306,-71.1194,45.0,Rio Limari,454.0,Rio Grande Bajo (Entre Embalse Paloma Y Rio Hurtado),1954-05-01,2017-05-31,22787,-
+4557001,DGA,dga_web,Salala,100,-30.6783,-71.53,45.0,Rio Limari,455.0,Rio Limari,1968-10-01,1977-08-31,3046,-
+4524001,DGA,dga_web,Monte Patria,445,-30.6914,-70.9608,45.0,Rio Limari,452.0,R. Grande Medio (Arriba Junta R. Rapel Y R. Guatulame O Muro Emb. Paloma),1970-03-01,1989-03-31,5476,-
+4540006,DGA,dga_web,Paloma Embalse,320,-30.6958,-71.0361,45.0,Rio Limari,454.0,Rio Grande Bajo (Entre Embalse Paloma Y Rio Hurtado),1943-05-01,2017-05-31,26754,-
+4523004,DGA,dga_web,Puntilla San Juan,430,-30.7025,-70.9178,45.0,Rio Limari,452.0,R. Grande Medio (Arriba Junta R. Rapel Y R. Guatulame O Muro Emb. Paloma),1965-01-01,1978-12-31,5112,-
+4523002,DGA,dga_web,Rio Grande En Puntilla San Juan,420,-30.7047,-70.9244,45.0,Rio Limari,452.0,Rio Grande Medio (Arriba Junta Rapel Y E Paloma),2017-05-25,2018-02-03,255,2017-05-25
+4522003,DGA,dga_web,Rapel,870,-30.7211,-70.7753,45.0,Rio Limari,452.0,R. Grande Medio (Arriba Junta R. Rapel Y R. Guatulame O Muro Emb. Paloma),1969-01-01,2017-05-31,17527,-
+4520005,DGA,dga_web,Los Molles Bocatoma,2600,-30.7439,-70.4175,45.0,Rio Limari,452.0,R. Grande Medio (Arriba Junta R. Rapel Y R. Guatulame O Muro Emb. Paloma),1984-01-01,1992-04-30,1881,-
+4515004,DGA,dga_web,El Maiten,1350,-30.8058,-70.5939,45.0,Rio Limari,451.0,Rio Grande Alto (Hasta Arriba Junta Rio Rapel),1958-11-01,1974-12-31,5356,-
+4537003,DGA,dga_web,El Tome,420,-30.8178,-70.9706,45.0,Rio Limari,453.0,R. Guatulame (Muro Embalse Paloma),1966-01-01,2017-05-31,18627,-
+4555001,DGA,dga_web,Punitaqui,280,-30.8278,-71.25,45.0,Rio Limari,455.0,Rio Limari,1961-08-01,2017-05-31,19775,-
+4515005,DGA,dga_web,Pedregal,880,-30.8539,-70.7078,45.0,Rio Limari,451.0,Rio Grande Alto (Hasta Arriba Junta Rio Rapel),1967-01-01,1989-03-31,7853,-
+4513004,DGA,dga_web,Caren,740,-30.8547,-70.7708,45.0,Rio Limari,451.0,Rio Grande Alto (Hasta Arriba Junta Rio Rapel),1943-05-01,2017-05-31,25354,-
+4554003,DGA,dga_web,La Placilla,600,-30.8883,-71.3075,45.0,Rio Limari,455.0,Rio Limari,1989-05-01,2017-05-31,10104,-
+4515007,DGA,dga_web,Ramadilla,1250,-30.8933,-70.6511,45.0,Rio Limari,451.0,Rio Grande Alto (Hasta Arriba Junta Rio Rapel),1937-05-01,1964-12-31,9735,-
+4610001,DGA,dga_web,Pea Blanca,360,-30.9,-71.5503,46.0,Costeras Entre R.Limari Y R.Choapa,461.0,E.  El Teniente Y E. El Almendro (Incl.),1901-09-01,2017-05-31,10100,-
+4513001,DGA,dga_web,Rio Grande En Cuyano,870,-30.9242,-70.7731,45.0,Rio Limari,451.0,Rio Grande Alto (Hasta Arriba Junta Rio Rapel),2017-08-04,2018-02-03,166,2017-08-04
+4513003,DGA,dga_web,Tulahuen,1020,-30.9669,-70.7639,45.0,Rio Limari,451.0,Rio Grande Alto (Hasta Arriba Junta Rio Rapel),1949-05-01,2017-05-31,24481,-
+4535001,DGA,dga_web,Cogoti Embalse,740,-31.0078,-71.0856,45.0,Rio Limari,453.0,R. Guatulame (Muro Embalse Paloma),1936-01-01,2017-05-31,27356,-
+4511002,DGA,dga_web,Rio Grande En Las Ramadas,1380,-31.0117,-70.5811,45.0,Rio Limari,451.0,Rio Grande Alto (Hasta Arriba Junta Rio Rapel),2011-05-01,2018-01-28,2457,2016-07-24
+4512002,DGA,dga_web,Tascadero,1230,-31.0153,-70.6664,45.0,Rio Limari,451.0,Rio Grande Alto (Hasta Arriba Junta Rio Rapel),1961-01-01,2017-05-31,19958,-
+4511003,DGA,dga_web,Las Ramadas,1380,-31.0181,-70.5858,45.0,Rio Limari,451.0,Rio Grande Alto (Hasta Arriba Junta Rio Rapel),1943-05-01,2017-05-31,26530,-
+4531002,DGA,dga_web,Rio Cogoti Entrada Embalse Cogoti,670,-31.0325,-71.0403,45.0,Rio Limari,453.0,Rio Huatulame (Muro Embalse Paloma),2014-11-06,2018-02-03,1091,2014-11-06
+4531003,DGA,dga_web,Cogoti 18,840,-31.0836,-70.95,45.0,Rio Limari,453.0,R. Guatulame (Muro Embalse Paloma),1943-01-01,2017-05-31,26692,-
+4530001,DGA,dga_web,Rio Cogoti En Fraguita,1065,-31.1119,-70.885,45.0,Rio Limari,453.0,R. Guatulame (Muro Embalse Paloma),2014-11-01,2018-02-03,998,2015-09-29
+4532006,DGA,dga_web,Combarbala,870,-31.1736,-71.0008,45.0,Rio Limari,453.0,R. Guatulame (Muro Embalse Paloma),1977-01-01,2017-05-31,14667,-
+4732001,DGA,dga_web,La Canela Dmc,290,-31.3986,-71.4569,47.0,Rio Choapa,473.0,Rio Choapa Bajo (Entre Rio Illapel Y Desembocadura),1973-01-01,2017-05-31,15985,-
+4721001,DGA,dga_web,Rio Illapel En Las Burras,1079,-31.5069,-70.8125,47.0,Rio Choapa,472.0,Rio Illapel,2014-06-01,2018-02-03,820,2017-06-01
+4721002,DGA,dga_web,Las Burras,1150,-31.5331,-70.8211,47.0,Rio Choapa,472.0,Rio Illapel,1989-06-01,2017-05-31,10194,-
+4722001,DGA,dga_web,Santa Virginia,980,-31.5503,-70.8353,47.0,Rio Choapa,472.0,Rio Illapel,1918-05-01,1989-03-31,16383,-
+4723001,DGA,dga_web,Rio Illapel En Huintil,775,-31.5608,-70.9644,47.0,Rio Choapa,472.0,Rio Illapel,2014-08-01,2018-02-03,1091,2016-10-02
+4723002,DGA,dga_web,Huintil,650,-31.5669,-70.9817,47.0,Rio Choapa,472.0,Rio Illapel,1914-05-01,2017-05-31,27941,-
+4730004,DGA,dga_web,Mincha Norte,50,-31.5875,-71.4453,47.0,Rio Choapa,473.0,Rio Choapa Bajo (Entre Rio Illapel Y Desembocadura),1974-01-01,2017-05-31,15730,-
+4726004,DGA,dga_web,Illapel Dos,290,-31.645,-71.1908,47.0,Rio Choapa,472.0,Rio Illapel,1971-07-01,1979-12-31,1371,-
+4726003,DGA,dga_web,Illapel Dga,290,-31.645,-71.1908,47.0,Rio Choapa,472.0,Rio Illapel,1974-01-01,2017-05-31,15827,-
+4726001,DGA,dga_web,Rio Illapel En El Peral,0,-31.6647,-71.2547,47.0,Rio Choapa,472.0,Rio Illapel,2012-06-22,2018-02-03,1996,2012-06-22
+4712001,DGA,dga_web,Rio Chalinga En La Palmilla,800,-31.6958,-70.7158,47.0,Rio Choapa,471.0,Rio Choapa Medio (Entre Rios Cuncumen E Illapel),2012-06-20,2018-01-24,2003,2012-06-20
+4713004,DGA,dga_web,San Agustin,1050,-31.7289,-70.8317,47.0,Rio Choapa,471.0,Rio Choapa Medio (Entre Rios Cuncumen E Illapel),1930-01-01,2017-05-31,31492,-
+4716005,DGA,dga_web,Limahuida,300,-31.745,-71.1619,47.0,Rio Choapa,471.0,Rio Choapa Medio (Entre Rios Cuncumen E Illapel),1964-01-01,2017-05-31,19078,-
+4715002,DGA,dga_web,Mal Paso,375,-31.7533,-71.1,47.0,Rio Choapa,471.0,Rio Choapa Medio (Entre Rios Cuncumen E Illapel),1960-09-01,1989-05-31,9948,-
+4711004,DGA,dga_web,Salamanca,510,-31.7758,-70.9669,47.0,Rio Choapa,471.0,Rio Choapa Medio (Entre Rios Cuncumen E Illapel),1971-07-01,2017-05-31,15950,-
+4711001,DGA,dga_web,Rio Choapa En Salamanca,500,-31.8117,-70.9303,47.0,Rio Choapa,471.0,Rio Choapa Medio (Entre Rios Cuncumen E Illapel),2012-06-20,2018-02-03,2050,2012-06-20
+4704001,DGA,dga_web,Rio Cuncumen Antes Junta Choapa (Chacay),1030,-31.8167,-70.6,47.0,Rio Choapa,470.0,Rio Choapa Alto (Hasta Abajo Junta Rio Cuncumen),2012-06-19,2018-01-18,2038,2012-06-19
+4710001,DGA,dga_web,La Tranquilla,1000,-31.9,-70.6706,47.0,Rio Choapa,471.0,Rio Choapa Medio (Entre Rios Cuncumen E Illapel),1966-01-01,2017-05-31,18703,-
+4711003,DGA,dga_web,Coiron,840,-31.9019,-70.7708,47.0,Rio Choapa,471.0,Rio Choapa Medio (Entre Rios Cuncumen E Illapel),1974-01-01,2017-05-31,15853,-
+4820001,DGA,dga_web,Los Vilos Dmc,10,-31.9103,-71.5086,48.0,Costeras Entre R.Choapa Y R.Quilimari,482.0,Costeras Entre Estero Pupio Y Rio Quilimari,1982-01-01,2017-05-31,12934,-
+4810003,DGA,dga_web,Caimanes,450,-31.9322,-71.1361,48.0,Costeras Entre R.Choapa Y R.Quilimari,481.0,Estero Pupio,1989-08-01,2017-05-31,9611,-
+4703003,DGA,dga_web,Cuncumen,1100,-31.9336,-70.6133,47.0,Rio Choapa,470.0,Rio Choapa Alto (Hasta Abajo Junta Rio Cuncumen),1958-09-01,2017-05-31,20319,-
+4810001,DGA,dga_web,Estero Pupio En El Romero,570,-31.9481,-71.0747,48.0,Costeras Entre R.Choapa Y R.Quilimari,481.0,Estero Pupio,2012-06-21,2018-02-03,1998,2012-06-21
+4703002,DGA,dga_web,Rio Choapa En Cuncumen,1200,-31.9667,-70.5944,47.0,Rio Choapa,470.0,Rio Choapa Alto (Hasta Abajo Junta Rio Cuncumen),2001-05-01,2018-02-03,6029,2005-03-29
+4900004,DGA,dga_web,El Naranjo,720,-32.0314,-71.1522,49.0,Rio Quilimari,490.0,Rio Quilimari Hasta Muro Embalse Culimo,1977-01-01,1989-04-30,4219,-
+4901002,DGA,dga_web,Infiernillo,300,-32.0608,-71.3072,49.0,Rio Quilimari,490.0,Rio Quilimari Hasta Muro Embalse Culimo,1977-01-01,1989-04-30,4441,-
+4900002,DGA,dga_web,Culimo Embalse,380,-32.0675,-71.2225,49.0,Rio Quilimari,490.0,Rio Quilimari Hasta Muro Embalse Culimo,1972-01-01,2017-05-31,16245,-
+4902005,DGA,dga_web,Quebrada Seca,140,-32.0686,-71.4061,49.0,Rio Quilimari,490.0,Rio Quilimari Hasta Muro Embalse Culimo,1976-01-01,1989-04-30,4747,-
+5101005,DGA,dga_web,Pedernal Hacienda,1100,-32.0836,-70.8,51.0,Rio Petorca,510.0,Rio Petorca Alto (Hasta Despues Junta Rio Sobrante),1962-02-01,2017-05-31,18721,-
+4902002,DGA,dga_web,Los Condores,190,-32.1086,-71.3125,49.0,Rio Quilimari,490.0,Rio Quilimari Hasta Muro Embalse Culimo,1977-01-01,2017-05-31,14205,-
+4902003,DGA,dga_web,Quilimari,25,-32.1175,-71.5,49.0,Rio Quilimari,490.0,Rio Quilimari Hasta Muro Embalse Culimo,1979-04-01,2017-05-31,13387,-
+4900003,DGA,dga_web,Quelon,890,-32.1444,-71.1628,49.0,Rio Quilimari,490.0,Rio Quilimari Hasta Muro Embalse Culimo,1972-10-01,2017-05-31,15909,-
+5111002,DGA,dga_web,Frutillar Alto,780,-32.1567,-71.03,51.0,Rio Petorca,511.0,Petorca Medio,1972-10-01,2017-04-30,13718,-
+4902004,DGA,dga_web,Quebrada El Manzano,300,-32.1728,-71.3722,49.0,Rio Quilimari,490.0,Rio Quilimari Hasta Muro Embalse Culimo,1977-01-01,1989-02-28,4440,-
+5101006,DGA,dga_web,Chalaco,880,-32.1836,-70.7833,51.0,Rio Petorca,510.0,Rio Petorca Alto (Hasta Despues Junta Rio Sobrante),1962-05-01,2017-05-31,19799,-
+5100003,DGA,dga_web,Nacimiento Del Sobrante,3380,-32.1883,-70.4831,51.0,Rio Petorca,510.0,Rio Petorca Alto (Hasta Despues Junta Rio Sobrante),1987-11-01,1987-11-30,30,-
+5100007,DGA,dga_web,Chincolco,650,-32.215,-70.8394,51.0,Rio Petorca,510.0,Rio Petorca Alto (Hasta Despues Junta Rio Sobrante),1958-10-01,1978-07-31,7085,-
+5000001,DGA,dga_web,Quebrada El Manzano,380,-32.22,-71.4017,50.0,Costeras Quilimari-Petorca,500.0,Costera Quilimari - Petorca,1977-01-01,1984-05-31,2708,-
+5100001,DGA,dga_web,Rio Sobrante En Piadero,1300,-32.2253,-70.7119,51.0,Rio Petorca,510.0,Rio Petorca Alto (Hasta Despues Junta Rio Sobrante),2012-03-22,2018-02-03,2138,2012-03-22
+5100004,DGA,dga_web,Hacienda El Rancho,2000,-32.2256,-70.6044,51.0,Rio Petorca,510.0,Rio Petorca Alto (Hasta Despues Junta Rio Sobrante),1962-05-01,1975-11-30,4107,-
+5100006,DGA,dga_web,El Sobrante Hacienda,810,-32.2261,-70.7839,51.0,Rio Petorca,510.0,Rio Petorca Alto (Hasta Despues Junta Rio Sobrante),1944-01-01,2017-05-31,26018,-
+5100005,DGA,dga_web,El Trapiche,1180,-32.2286,-70.71,51.0,Rio Petorca,510.0,Rio Petorca Alto (Hasta Despues Junta Rio Sobrante),1901-06-01,2017-05-31,19177,-
+5111001,DGA,dga_web,Palquico,450,-32.2528,-71.1386,51.0,Rio Petorca,511.0,Petorca Medio,1903-07-01,2017-05-31,16119,-
+5110003,DGA,dga_web,Hierro Viejo,440,-32.2756,-70.9997,51.0,Rio Petorca,511.0,Petorca Medio,1978-08-01,2017-05-31,13951,-
+5110002,DGA,dga_web,Rio Petorca En Peon O Hierro Viejo,450,-32.2786,-70.9889,51.0,Rio Petorca,511.0,Petorca Medio,2003-08-01,2017-05-31,4864,-
+5200005,DGA,dga_web,La Chupalla,1300,-32.3006,-70.6414,52.0,Rio Ligua,520.0,Rio Ligua Alto (Estero Alicahue),1962-05-01,1975-02-28,3280,-
+5111004,DGA,dga_web,El Salvador,340,-32.3058,-71.0792,51.0,Rio Petorca,511.0,Petorca Medio,1972-10-01,2017-05-31,15692,-
+5120004,DGA,dga_web,Las Colmenas,80,-32.3075,-71.2425,51.0,Rio Petorca,512.0,Rio Petorca Bajo (Entre Las Palmas Y Desembocadura),1903-06-01,2017-04-30,13835,-
+5120005,DGA,dga_web,Santa Marta,100,-32.3181,-71.2597,51.0,Rio Petorca,512.0,Rio Petorca Bajo (Entre Las Palmas Y Desembocadura),1975-01-01,1978-09-30,1276,-
+5200001,DGA,dga_web,Rio Alicahue En Colliguay,780,-32.33,-70.7381,52.0,Rio Ligua,520.0,Rio Ligua Alto (Estero Alicahue),2003-07-01,2018-02-03,5224,2005-06-01
+5200006,DGA,dga_web,Alicahue,750,-32.3408,-70.7528,52.0,Rio Ligua,520.0,Rio Ligua Alto (Estero Alicahue),1962-06-01,2017-05-31,20016,-
+5120003,DGA,dga_web,Artificio,250,-32.3914,-71.0931,51.0,Rio Petorca,512.0,Rio Petorca Bajo (Entre Las Palmas Y Desembocadura),1972-10-01,2017-05-31,16250,-
+5120006,DGA,dga_web,Longotoma,20,-32.3919,-71.375,51.0,Rio Petorca,512.0,Rio Petorca Bajo (Entre Las Palmas Y Desembocadura),1979-01-01,2017-05-31,13447,-
+5200007,DGA,dga_web,La Mostaza,1200,-32.4186,-70.6808,52.0,Rio Ligua,520.0,Rio Ligua Alto (Estero Alicahue),1903-07-01,2017-05-31,13802,-
+5210002,DGA,dga_web,La Via,370,-32.4261,-70.9167,52.0,Rio Ligua,521.0,Rio Ligua Medio (Entre Quebrada La Cerrada Y Los Angeles),1979-01-01,2017-05-31,13815,-
+5220006,DGA,dga_web,Chacrilla,290,-32.4267,-71.0606,52.0,Rio Ligua,522.0,Rio Ligua Bajo (Entre Estero Los Angeles Y Desembocadura),1979-01-01,2017-05-31,12981,-
+5221005,DGA,dga_web,Valle Hermoso,80,-32.4372,-71.2067,52.0,Rio Ligua,522.0,Rio Ligua Bajo (Entre Estero Los Angeles Y Desembocadura),1976-12-01,2017-05-31,13742,-
+5221006,DGA,dga_web,Los Cardos,60,-32.4453,-71.2264,52.0,Rio Ligua,522.0,Rio Ligua Bajo (Entre Estero Los Angeles Y Desembocadura),1971-08-01,1975-11-30,1583,-
+5211004,DGA,dga_web,Las Puertas,350,-32.4856,-70.9319,52.0,Rio Ligua,521.0,Rio Ligua Medio (Entre Quebrada La Cerrada Y Los Angeles),1979-01-01,2017-05-31,13802,-
+5414004,DGA,dga_web,Resguardo Los Patos,1220,-32.4989,-70.5789,54.0,Rio Aconcagua,541.0,Aconcagua Medio,1940-08-01,2017-05-31,27656,-
+5414001,DGA,dga_web,Rio Putaendo En Resguardo Los Patos,1218,-32.5017,-70.5811,54.0,Rio Aconcagua,541.0,Aconcagua Medio,2001-09-24,2018-02-03,5502,2001-09-24
+5220007,DGA,dga_web,Las Pataguas,350,-32.5333,-71.1294,52.0,Rio Ligua,522.0,Rio Ligua Bajo (Entre Estero Los Angeles Y Desembocadura),1903-07-01,2017-05-31,13770,-
+5414005,DGA,dga_web,El Tartaro,950,-32.5669,-70.7,54.0,Rio Aconcagua,541.0,Aconcagua Medio,1990-07-01,2017-05-31,9769,-
+5211003,DGA,dga_web,Mina Cerro Negro,650,-32.5864,-70.8694,52.0,Rio Ligua,521.0,Rio Ligua Medio (Entre Quebrada La Cerrada Y Los Angeles),1979-01-01,2017-05-31,13627,-
+5310001,DGA,dga_web,Laguna De Zapallar,50,-32.5919,-71.4322,53.0,Costeras Ligua-Aconcagua,531.0,Estero Catapilco,1903-05-01,2017-05-31,10430,-
+5424005,DGA,dga_web,El Cobre,280,-32.6531,-71.1964,54.0,Rio Aconcagua,542.0,Aconcagua Bajo,1989-05-01,2017-05-31,9580,-
+5415004,DGA,dga_web,Jahuel,1020,-32.6836,-70.6,54.0,Rio Aconcagua,541.0,Aconcagua Medio,1989-04-01,2017-05-31,9764,-
+5421005,DGA,dga_web,Catemu,440,-32.7344,-70.9342,54.0,Rio Aconcagua,542.0,Aconcagua Bajo,1903-06-01,2017-05-31,22022,-
+5410008,DGA,dga_web,San Felipe,640,-32.7472,-70.7247,54.0,Rio Aconcagua,541.0,Aconcagua Medio,1962-04-01,2017-05-31,19980,-
+5410005,DGA,dga_web,Rio Aconcagua En San Felipe,650,-32.7572,-70.7367,54.0,Rio Aconcagua,541.0,Aconcagua Medio,1999-08-01,2018-02-03,6493,2017-06-01
+5320001,DGA,dga_web,Estero Quintero En Valle Alegre,40,-32.7936,-71.4161,53.0,Costeras Ligua-Aconcagua,532.0,Costeras Entre Estero Catapilco Y Rio Aconcagua,2009-11-01,2017-05-31,2081,-
+5425003,DGA,dga_web,Lo Rojas,190,-32.8119,-71.2653,54.0,Rio Aconcagua,542.0,Aconcagua Bajo,1963-12-01,2017-05-31,19254,-
+5410007,DGA,dga_web,Los Andes,820,-32.8336,-70.6,54.0,Rio Aconcagua,541.0,Aconcagua Medio,1971-08-01,2017-05-31,16053,-
+5404001,DGA,dga_web,Canal Colorado En Bocatoma,1391,-32.8347,-70.3533,54.0,Rio Aconcagua,540.0,Aconcagua Alto,2014-04-01,2018-02-03,1354,2014-07-14
+5423003,DGA,dga_web,Rio Aconcagua En Romeral,365,-32.8403,-71.0256,54.0,Rio Aconcagua,542.0,Aconcagua Bajo,2002-04-26,2018-02-03,5490,2002-04-26
+5410002,DGA,dga_web,Rio Aconcagua En Chacabuquito,950,-32.8503,-70.5094,54.0,Rio Aconcagua,541.0,Aconcagua Medio,1999-08-01,2018-02-03,6762,2017-06-01
+5423013,DGA,dga_web,Estero Rabuco,300,-32.8506,-71.1167,54.0,Rio Aconcagua,542.0,Aconcagua Bajo,1965-01-01,2017-05-31,18002,-
+5410006,DGA,dga_web,Vilcuya,1100,-32.8603,-70.4719,54.0,Rio Aconcagua,541.0,Aconcagua Medio,1964-12-01,2017-05-31,19024,-
+5401003,DGA,dga_web,Rio Juncal En Juncal,1800,-32.8625,-70.1675,54.0,Rio Aconcagua,540.0,Aconcagua Alto,2014-09-10,2018-02-03,1243,2014-09-10
+5426004,DGA,dga_web,Quillota,130,-32.8958,-71.2092,54.0,Rio Aconcagua,542.0,Aconcagua Bajo,1977-11-01,2017-05-31,13946,-
+5403002,DGA,dga_web,Rio Aconcagua En Rio Blanco,1420,-32.9067,-70.3036,54.0,Rio Aconcagua,540.0,Aconcagua Alto,2014-06-20,2018-02-03,1246,2014-06-20
+5411001,DGA,dga_web,Estero Pocuro En El Sifon,1000,-32.9164,-70.5403,54.0,Rio Aconcagua,541.0,Rio Aconcagua Medio (Entre Rio Colorado Y E Seco),2017-04-01,2017-04-30,30,-
+5403006,DGA,dga_web,Riecillos,1290,-32.9228,-70.3553,54.0,Rio Aconcagua,540.0,Aconcagua Alto,1929-08-01,2017-05-31,31521,-
+5422002,DGA,dga_web,Las Chilcas,850,-32.9319,-70.8178,54.0,Rio Aconcagua,542.0,Aconcagua Bajo,1990-05-01,2017-05-31,9669,-
+5733010,DGA,dga_web,Fundo Las Bateas,810,-32.9472,-70.8064,57.0,Rio Maipo,573.0,Rio Mapocho Bajo,1985-11-01,2017-05-31,11379,-
+5733006,DGA,dga_web,Rincon De Los Valles,955,-32.9475,-70.7536,57.0,Rio Maipo,573.0,Rio Mapocho Bajo,1957-05-01,2017-05-31,21420,-
+5427007,DGA,dga_web,Los Aromos,100,-32.9578,-71.345,54.0,Rio Aconcagua,542.0,Aconcagua Bajo,1974-06-01,2017-05-31,15569,-
+5500003,DGA,dga_web,Las Salinas,20,-33.0019,-71.5467,55.0,Costeras Entre Aconcagua Y Maipo,550.0,E. Marga-Marga,2013-08-14,2018-02-03,1435,2013-08-14
+5733007,DGA,dga_web,Caleu,1120,-33.0053,-70.9933,57.0,Rio Maipo,573.0,Rio Mapocho Bajo,1957-05-01,2016-03-31,19690,-
+5733008,DGA,dga_web,Rungue Embalse,700,-33.0194,-70.9081,57.0,Rio Maipo,573.0,Rio Mapocho Bajo,1943-05-01,2016-01-31,22861,-
+5510001,DGA,dga_web,Rodelillo,110,-33.0503,-71.5833,55.0,Costeras Entre Aconcagua Y Maipo,551.0,Lago Penuelas,1971-08-01,2018-02-03,15738,2014-05-01
+5427008,DGA,dga_web,Quebrada Alvarado,290,-33.0506,-71.1,54.0,Rio Aconcagua,542.0,Aconcagua Bajo,1990-07-01,2017-05-31,9614,-
+5732002,DGA,dga_web,Huechun Andina,590,-33.0758,-70.7686,57.0,Rio Maipo,573.0,Rio Mapocho Bajo,1994-01-01,2017-05-31,7717,-
+5510005,DGA,dga_web,Cerro Colorado Armada De Chile,510,-33.0819,-71.6169,55.0,Costeras Entre Aconcagua Y Maipo,551.0,Lago Penuelas,2014-05-08,2018-02-03,1310,2014-05-08
+5732001,DGA,dga_web,Huechun Embalse,556,-33.0856,-70.8017,57.0,Rio Maipo,573.0,Rio Mapocho Bajo,1988-05-01,2017-05-31,10408,-
+5733009,DGA,dga_web,Til-Til,580,-33.0869,-70.9278,57.0,Rio Maipo,573.0,Rio Mapocho Bajo,1943-05-01,1972-12-31,8500,-
+5427006,DGA,dga_web,Lliu-Lliu Embalse,260,-33.0986,-71.2144,54.0,Rio Aconcagua,542.0,Aconcagua Bajo,1978-01-01,2017-05-31,14328,-
+5510002,DGA,dga_web,Lago Peuelas,360,-33.145,-71.5553,55.0,Costeras Entre Aconcagua Y Maipo,551.0,Lago Penuelas,1974-01-01,2017-05-31,15761,-
+5500001,DGA,dga_web,Las Piedras,225,-33.1542,-71.3428,55.0,Costeras Entre Aconcagua Y Maipo,550.0,E. Marga-Marga,1991-05-01,2017-05-31,7938,-
+5741002,DGA,dga_web,Colliguay,490,-33.1686,-71.1467,57.0,Rio Maipo,574.0,Rio Maipo Bajo (Entre Rio Mapocho Y Desembocadura),1950-08-01,2017-05-31,23969,-
+5706003,DGA,dga_web,Valle Olivares,2787,-33.1869,-70.1122,57.0,Rio Maipo,570.0,Rio Maipo Alto,2014-05-19,2018-02-03,1357,2014-05-19
+5721017,DGA,dga_web,Estero Yerba Loca En Piedra Carvajal,3250,-33.2214,-70.2736,57.0,Rio Maipo,572.0,Rio Mapocho Alto,2013-02-04,2018-02-04,1787,2013-02-04
+5520002,DGA,dga_web,Tapihue,310,-33.2897,-71.2914,55.0,Costeras Entre Aconcagua Y Maipo,552.0,E. Casablanca Y E.  San Jeronimo (Incl.),1989-06-01,2017-05-31,9448,-
+5721016,DGA,dga_web,Rio San Francisco Antes Junta Estero Yerba Loca,1550,-33.3086,-70.3572,57.0,Rio Maipo,572.0,Rio Mapocho Alto,2013-03-24,2018-02-03,1778,2013-03-24
+5722001,DGA,dga_web,Estero Arrayan En La Montosa,880,-33.3256,-70.4561,57.0,Rio Maipo,572.0,Rio Mapocho Alto,2013-04-01,2018-02-04,1747,2014-09-01
+5520001,DGA,dga_web,Casablanca,290,-33.3278,-71.4131,55.0,Costeras Entre Aconcagua Y Maipo,552.0,E. Casablanca Y E.  San Jeronimo (Incl.),1986-01-01,2017-05-31,11314,-
+5723001,DGA,dga_web,La Dehesa,920,-33.3292,-70.5286,57.0,Rio Maipo,572.0,Rio Mapocho Alto,1991-05-01,2007-04-30,5010,-
+5721001,DGA,dga_web,Estero Yerba Loca Antes Junta San Francisco,1350,-33.3414,-70.3636,57.0,Rio Maipo,572.0,Rio Mapocho Alto,2009-06-01,2018-02-03,3164,2016-03-01
+5720003,DGA,dga_web,La Ermita Central En Bocatoma,1350,-33.3414,-70.3636,57.0,Rio Maipo,572.0,Rio Mapocho Alto,1987-05-01,2011-01-31,7847,-
+5722002,DGA,dga_web,Rio Mapocho En Los Almendros,966,-33.3703,-70.4508,57.0,Rio Maipo,572.0,Rio Mapocho Alto,1999-08-01,2017-05-30,6285,2003-06-14
+5720001,DGA,dga_web,Rio Molina Antes Junta San Francisco,1158,-33.3733,-70.3961,57.0,Rio Maipo,572.0,Rio Mapocho Alto,2009-11-01,2018-02-03,2962,2013-02-25
+5730012,DGA,dga_web,Cerro Calan,848,-33.395,-70.5367,57.0,Rio Maipo,573.0,Rio Mapocho Bajo,1975-11-01,2018-02-04,15405,2016-02-01
+5730014,DGA,dga_web,Quebrada Ramon,730,-33.4328,-70.5344,57.0,Rio Maipo,573.0,Rio Mapocho Bajo,1980-04-01,2008-03-31,9275,-
+5730008,DGA,dga_web,Quebrada Ramon En Recinto Emos,845,-33.4331,-70.5142,57.0,Rio Maipo,573.0,Rio Mapocho Bajo,2007-09-01,2017-05-15,2642,-
+5744002,DGA,dga_web,Los Panguiles,190,-33.4386,-71.0256,57.0,Rio Maipo,574.0,Rio Maipo Bajo (Entre Rio Mapocho Y Desembocadura),1981-01-01,2017-05-31,13236,-
+5530005,DGA,dga_web,Algarrobo,130,-33.4389,-71.6239,55.0,Costeras Entre Aconcagua Y Maipo,553.0,E. Del Rosario (Incl.) A R. Maipo,2012-02-01,2016-11-30,970,-
+5530003,DGA,dga_web,Lagunillas,200,-33.4394,-71.4506,55.0,Costeras Entre Aconcagua Y Maipo,553.0,E. Del Rosario (Incl.) A R. Maipo,1986-05-01,2017-04-30,11018,-
+5730016,DGA,dga_web,Terraza Oficinas Centrales Dga,560,-33.4486,-70.6444,57.0,Rio Maipo,573.0,Rio Mapocho Bajo,1960-06-01,2018-02-04,20902,2013-05-31
+5744003,DGA,dga_web,Ibacache Alto,169,-33.4797,-71.2811,57.0,Rio Maipo,574.0,Rio Maipo Bajo (Entre Rio Mapocho Y Desembocadura),1988-05-01,2017-05-31,10612,-
+5706001,DGA,dga_web,Rio Olivares Antes Junta Rio Colorado,1500,-33.4878,-70.1367,57.0,Rio Maipo,570.0,Rio Maipo Alto,2014-07-01,2018-02-03,1311,2016-12-25
+5705001,DGA,dga_web,Rio Colorado Antes Junta Rio Olivares,1500,-33.49,-70.1342,57.0,Rio Maipo,570.0,Rio Maipo Alto,2013-04-01,2017-11-04,1427,2016-11-23
+5737002,DGA,dga_web,Rio Mapocho Rinconada De Maipu,440,-33.4961,-70.8167,57.0,Rio Maipo,573.0,Rio Mapocho Bajo,2001-04-24,2017-05-21,5446,2001-04-24
+5730013,DGA,dga_web,Antupiren,904,-33.4964,-70.5164,57.0,Rio Maipo,573.0,Rio Mapocho Bajo,1979-08-01,2017-05-31,13605,-
+5730015,DGA,dga_web,Campus San Joaquin U.C.,570,-33.4975,-70.6142,57.0,Rio Maipo,573.0,Rio Mapocho Bajo,1977-11-01,1983-04-30,2006,-
+5730039,DGA,dga_web,Quebrada De Macul,950,-33.5017,-70.5144,57.0,Rio Maipo,573.0,Rio Mapocho Bajo,2003-05-01,2018-02-03,3831,2013-07-11
+5707003,DGA,dga_web,Maitenes Bocatoma,1143,-33.5311,-70.2617,57.0,Rio Maipo,570.0,Rio Maipo Alto,1988-02-01,2017-05-31,9149,-
+5737008,DGA,dga_web,Fundo Marruecos,430,-33.5503,-70.8167,57.0,Rio Maipo,573.0,Rio Mapocho Bajo,1989-07-01,2017-05-31,9462,-
+5745001,DGA,dga_web,Mallarauco,176,-33.5697,-71.1061,57.0,Rio Maipo,574.0,Rio Maipo Bajo (Entre Rio Mapocho Y Desembocadura),1992-07-01,2017-05-31,9094,-
+5530002,DGA,dga_web,San Antonio (Pta. Panul),80,-33.5747,-71.625,55.0,Costeras Entre Aconcagua Y Maipo,553.0,E. Del Rosario (Incl.) A R. Maipo,1971-07-01,2017-05-31,15918,-
+5710007,DGA,dga_web,La Obra Recinto Emos,796,-33.5914,-70.4853,57.0,Rio Maipo,571.0,Rio Maipo Medio,1995-06-01,2017-05-31,8033,-
+5710001,DGA,dga_web,Rio Maipo En El Manzano,850,-33.5939,-70.3792,57.0,Rio Maipo,571.0,Rio Maipo Medio,2010-03-01,2018-02-03,2769,2017-02-16
+5737006,DGA,dga_web,Peaflor,370,-33.6097,-70.9,57.0,Rio Maipo,573.0,Rio Mapocho Bajo,1971-08-01,1979-09-30,2306,-
+5748003,DGA,dga_web,Cerrillos De Leyda,182,-33.6344,-71.5106,57.0,Rio Maipo,574.0,Rio Maipo Bajo (Entre Rio Mapocho Y Desembocadura),1932-03-01,2017-05-31,30438,-
+5704006,DGA,dga_web,San Jose De Maipo Reten,943,-33.6361,-70.3531,57.0,Rio Maipo,570.0,Rio Maipo Alto,1971-08-02,2017-05-31,16409,-
+5746001,DGA,dga_web,Estero Puangue En Ruta 78,93,-33.6614,-71.3372,57.0,Rio Maipo,574.0,Rio Maipo Bajo (Entre Rio Mapocho Y Desembocadura),1989-04-27,2018-02-04,10268,2013-05-02
+5703009,DGA,dga_web,Laguna Negra,2780,-33.6658,-70.1078,57.0,Rio Maipo,570.0,Rio Maipo Alto (Hasta Despues Junta Rio Colorado),2015-05-21,2016-08-31,394,2015-05-21
+5737007,DGA,dga_web,Talagante,325,-33.6669,-70.9333,57.0,Rio Maipo,573.0,Rio Mapocho Bajo,1971-08-01,1972-08-31,336,-
+5711003,DGA,dga_web,Pirque,659,-33.6736,-70.5869,57.0,Rio Maipo,571.0,Rio Maipo Medio,1967-10-01,2017-05-31,16643,-
+5703008,DGA,dga_web,El Yeso Embalse,2475,-33.6767,-70.0886,57.0,Rio Maipo,570.0,Rio Maipo Alto,1962-04-01,2017-05-31,19571,-
+5740005,DGA,dga_web,Melipilla,168,-33.6803,-71.1997,57.0,Rio Maipo,574.0,Rio Maipo Bajo (Entre Rio Mapocho Y Desembocadura),1971-08-01,2017-05-31,15470,-
+5717008,DGA,dga_web,El Vergel,340,-33.6958,-70.9236,57.0,Rio Maipo,571.0,Rio Maipo Medio,1988-05-01,2017-05-31,10527,-
+5704005,DGA,dga_web,San Alfonso,1040,-33.7067,-70.3342,57.0,Rio Maipo,570.0,Rio Maipo Alto,1962-05-01,1973-08-31,4108,-
+5748001,DGA,dga_web,Rio Maipo En Cabimbao,35,-33.7219,-71.555,57.0,Rio Maipo,574.0,Rio Maipo Bajo (Entre Rio Mapocho Y Desembocadura),2009-10-01,2018-02-04,2684,2012-05-25
+5704002,DGA,dga_web,Rio Maipo En San Alfonso,1092,-33.7347,-70.3008,57.0,Rio Maipo,570.0,Rio Maipo Alto,2010-01-01,2017-02-28,2564,2016-04-13
+5740004,DGA,dga_web,Carmen De Las Rosas,165,-33.7597,-71.1514,57.0,Rio Maipo,574.0,Rio Maipo Bajo (Entre Rio Mapocho Y Desembocadura),1930-11-01,2017-05-31,30475,-
+5704004,DGA,dga_web,San Gabriel,1266,-33.7825,-70.2394,57.0,Rio Maipo,570.0,Rio Maipo Alto,1977-12-01,2017-05-31,14186,-
+5716004,DGA,dga_web,Angostura En Valdivia De Paine,350,-33.8044,-70.8783,57.0,Rio Maipo,571.0,Rio Maipo Medio,1988-05-01,2015-01-31,9516,-
+5702011,DGA,dga_web,Glaciar San Franciscoen Aguas Panimavida,2220,-33.8053,-70.07,57.0,Rio Maipo,570.0,Rio Maipo Alto,2013-05-28,2018-02-03,1685,2013-05-28
+5702001,DGA,dga_web,Rio Volcan En Queltehues,1365,-33.8056,-70.2089,57.0,Rio Maipo,570.0,Rio Maipo Alto,2014-05-01,2018-02-03,1375,2016-12-31
+5716001,DGA,dga_web,Rio Angostura En Valdivia De Paine,342,-33.8111,-70.8836,57.0,Rio Maipo,571.0,Rio Maipo Medio,2015-01-01,2017-05-31,746,-
+5701008,DGA,dga_web,Queltehues,1450,-33.8164,-70.2172,57.0,Rio Maipo,570.0,Rio Maipo Alto,1970-01-01,1979-08-31,3516,-
+5716011,DGA,dga_web,Laguna Aculeo Los Castaos,354,-33.8592,-70.9069,57.0,Rio Maipo,571.0,Rio Maipo Medio,2014-10-01,2014-10-31,31,-
+5800002,DGA,dga_web,Fundo Las Dos Puertas,24,-33.8622,-71.6631,58.0,Costeras Entre  Maipo Y Rapel,580.0,Estero Yali,1990-06-01,2017-05-31,9790,-
+5716005,DGA,dga_web,Laguna Aculeo,360,-33.8858,-70.8775,57.0,Rio Maipo,571.0,Rio Maipo Medio,1988-11-01,2017-05-31,9250,-
+5747001,DGA,dga_web,Los Guindos,125,-33.8908,-71.2408,57.0,Rio Maipo,574.0,Rio Maipo Bajo (Entre Rio Mapocho Y Desembocadura),1989-07-01,2017-05-31,10134,-
+5701005,DGA,dga_web,Las Melosas,1527,-33.8994,-70.1981,57.0,Rio Maipo,570.0,Rio Maipo Alto,1962-07-01,2004-12-30,14235,-
+6056003,DGA,dga_web,Rapel,16,-33.9458,-71.7336,60.0,Rio Rapel,605.0,Rio Rapel,1940-07-01,2017-02-28,27621,-
+6040001,DGA,dga_web,Villa Alhue,197,-34.035,-71.0944,60.0,Rio Rapel,604.0,Estero Alhue,1979-01-01,2017-05-31,13706,-
+6011003,DGA,dga_web,Graneros,500,-34.0556,-70.7083,60.0,Rio Rapel,601.0,Cachapoal Bajo,1979-01-01,1998-06-30,7120,-
+6042004,DGA,dga_web,Barrera Loncha,144,-34.0833,-71.1886,60.0,Rio Rapel,604.0,Estero Alhue,1984-05-01,2017-05-31,11591,-
+6042003,DGA,dga_web,Loncha,210,-34.1167,-71.1,60.0,Rio Rapel,604.0,Estero Alhue,1976-04-01,1987-11-30,3562,-
+6055003,DGA,dga_web,Litueche,250,-34.1206,-71.7258,60.0,Rio Rapel,605.0,Rio Rapel,1979-01-01,2017-02-28,13878,-
+6010014,DGA,dga_web,Rancagua,510,-34.1714,-70.7278,60.0,Rio Rapel,601.0,Cachapoal Bajo,1971-09-01,1978-08-31,2557,-
+6011001,DGA,dga_web,Estero De La Cadena Antes Junta Rio Cachapoal,440,-34.1842,-70.8436,60.0,Rio Rapel,600.0,Rio Cachapoal Bajo (Bajo Jta Rio Claro Y E Rapel),2016-12-31,2018-02-04,383,2016-12-31
+6010015,DGA,dga_web,Rancagua (Cachapoal - Dcp),515,-34.1908,-70.7508,60.0,Rio Rapel,601.0,Cachapoal Bajo,1903-01-01,2018-02-04,14283,2017-03-01
+6044001,DGA,dga_web,Cocalan,120,-34.2033,-71.2764,60.0,Rio Rapel,604.0,Estero Alhue,1978-11-01,2017-02-28,13961,-
+6008009,DGA,dga_web,Canal Sauzal En Puente Termas,750,-34.2403,-70.5506,60.0,Rio Rapel,600.0,Rio Cachapoal Alto (Hasta Bajo Junta Rio Claro),2005-07-29,2018-02-04,4482,2005-07-29
+6006001,DGA,dga_web,Rio Pangal En Pangal,1500,-34.2467,-70.3281,60.0,Rio Rapel,600.0,Rio Cachapoal Alto (Hasta Bajo Junta Rio Claro),2001-11-01,2018-02-04,5796,2002-03-28
+6010016,DGA,dga_web,Sauzal,700,-34.2583,-70.6153,60.0,Rio Rapel,601.0,Cachapoal Bajo,1979-01-01,1999-07-31,6079,-
+6019003,DGA,dga_web,Rio Cachapoal En Puente Arqueado (Ca),115,-34.2731,-71.3717,60.0,Rio Rapel,601.0,Cachapoal Bajo,2002-09-25,2018-02-04,5179,2002-09-25
+6019005,DGA,dga_web,Pichidegua,110,-34.2872,-71.4058,60.0,Rio Rapel,601.0,Cachapoal Bajo,1974-01-01,2017-02-28,15603,-
+6012003,DGA,dga_web,Coltauco,253,-34.2875,-71.08,60.0,Rio Rapel,601.0,Cachapoal Bajo,1978-10-01,2017-02-28,13968,-
+6003001,DGA,dga_web,Rio Cachapoal 5 Km. Aguas Abajo Junta Cortaderal,1127,-34.3464,-70.3764,60.0,Rio Rapel,600.0,Rio Cachapoal Alto (Hasta Bajo Junta Rio Claro),1999-03-01,2018-02-04,6173,2000-02-11
+6000003,DGA,dga_web,Rio Las Leas Ante Junta Rio Cachapoal,1296,-34.3628,-70.3056,60.0,Rio Rapel,600.0,Rio Cachapoal Alto (Hasta Bajo Junta Rio Claro),2014-07-01,2018-02-04,1315,2016-02-01
+6120001,DGA,dga_web,Pichilemu,5,-34.3844,-72.0044,61.0,Costeras Rapel-E.Nilahue,612.0,Costeras Entre E. Topocalma Y E. Nilahue,1980-07-01,2018-02-04,13645,2017-03-01
+6000004,DGA,dga_web,Laguna El Yeso,2140,-34.4078,-70.21,60.0,Rio Rapel,600.0,Rio Cachapoal Alto (Hasta Bajo Junta Rio Claro),2015-06-01,2017-11-15,774,2017-03-01
+6015003,DGA,dga_web,Rengo,310,-34.4217,-70.8667,60.0,Rio Rapel,601.0,Cachapoal Bajo,1971-01-01,2017-02-27,16426,-
+6013005,DGA,dga_web,Popeta,480,-34.4369,-70.7794,60.0,Rio Rapel,601.0,Cachapoal Bajo,1970-01-01,2017-02-28,17013,-
+6018009,DGA,dga_web,Via Vieja,220,-34.4517,-71.0506,60.0,Rio Rapel,601.0,Cachapoal Bajo,1958-01-01,2003-07-31,14358,-
+6013001,DGA,dga_web,Rio Claro En Hacienda Las Nieves,720,-34.4922,-70.7028,60.0,Rio Rapel,601.0,Cachapoal Bajo,2015-06-10,2018-02-04,970,2015-06-10
+6013006,DGA,dga_web,Central Las Nieves,700,-34.4922,-70.7094,60.0,Rio Rapel,601.0,Cachapoal Bajo,1970-01-01,2005-08-31,11658,-
+6018010,DGA,dga_web,Millahue,200,-34.5264,-71.2122,60.0,Rio Rapel,601.0,Cachapoal Bajo,1972-01-01,2017-02-28,15811,-
+6013008,DGA,dga_web,Laguna Los Cristales,2343,-34.5606,-70.5097,60.0,Rio Rapel,601.0,Cachapoal Bajo,2013-03-28,2017-10-26,1326,2013-03-28
+6132002,DGA,dga_web,Nilahue Barahona,90,-34.5742,-71.7653,61.0,Costeras Rapel-E.Nilahue,613.0,Estero Nilahue,1969-01-01,2017-02-28,16810,-
+6016004,DGA,dga_web,San Fernando,350,-34.5983,-70.9686,60.0,Rio Rapel,601.0,Cachapoal Bajo,1971-09-01,2018-02-04,16958,2016-01-01
+6034004,DGA,dga_web,Paniahue,170,-34.6169,-71.35,60.0,Rio Rapel,603.0,Tinguiririca Bajo,1979-01-01,1988-08-31,3376,-
+6027001,DGA,dga_web,Rio Claro En El Valle,476,-34.6867,-70.8739,60.0,Rio Rapel,602.0,Rio Tinguiririca Alto (Hasta Bajo Junta Rio Claro),2016-04-27,2018-02-04,648,2016-04-27
+6028001,DGA,dga_web,Rio Tinguiririca Bajo Los Briones,560,-34.7186,-70.8267,60.0,Rio Rapel,602.0,Rio Tinguiririca Alto (Hasta Bajo Junta Rio Claro),1999-03-01,2018-02-04,6911,2000-02-26
+6027003,DGA,dga_web,La Rufina,743,-34.7428,-70.7519,60.0,Rio Rapel,602.0,Rio Tinguiririca Alto (Hasta Bajo Junta Rio Claro),1929-05-01,2017-02-27,31893,-
+7120002,DGA,dga_web,Laguna De Torca,28,-34.7675,-72.065,71.0,Rio Mataquito,712.0,Rio Mataquito,2014-05-04,2018-02-04,1337,2014-08-01
+6034003,DGA,dga_web,Convento Viejo,239,-34.7694,-71.1331,60.0,Rio Rapel,603.0,Tinguiririca Bajo,1971-09-01,2018-02-04,16922,2017-03-01
+6036001,DGA,dga_web,La Candelaria,213,-34.7808,-71.4142,60.0,Rio Rapel,603.0,Tinguiririca Bajo,1974-05-01,2017-01-31,15475,-
+6130001,DGA,dga_web,El Membrillo,110,-34.8056,-71.6289,61.0,Costeras Rapel-E.Nilahue,613.0,Estero Nilahue,1981-05-01,2017-02-28,12974,-
+6130002,DGA,dga_web,Ranguili,120,-34.8661,-71.7486,61.0,Costeras Rapel-E.Nilahue,613.0,Estero Nilahue,1981-05-01,2017-02-28,13055,-
+7106007,DGA,dga_web,Santa Susana,410,-34.9114,-71.0353,71.0,Rio Mataquito,710.0,Rio Teno,1981-07-01,2017-02-28,11654,-
+6130003,DGA,dga_web,La Palma,120,-34.9514,-71.5856,61.0,Costeras Rapel-E.Nilahue,613.0,Estero Nilahue,1981-03-01,2017-02-28,12621,-
+7104005,DGA,dga_web,El Manzano,574,-34.9633,-70.9178,71.0,Rio Mataquito,710.0,Rio Teno,1959-07-01,2017-02-28,17464,-
+7118003,DGA,dga_web,Curico,195,-34.9811,-71.2361,71.0,Rio Mataquito,711.0,Rio Lontue,1971-09-01,2018-02-04,16674,2016-09-01
+7123001,DGA,dga_web,Rio Mataquito En Licanten,20,-34.9844,-72.01,71.0,Rio Mataquito,712.0,Rio Mataquito,2001-04-27,2018-02-04,5874,2001-04-27
+7104002,DGA,dga_web,Rio Teno Despues De Junta Con Claro,647,-34.9961,-70.8206,71.0,Rio Mataquito,710.0,Rio Teno,1999-08-01,2018-02-04,6759,2004-03-01
+7103003,DGA,dga_web,Los Quees,663,-35.0008,-70.8119,71.0,Rio Mataquito,710.0,Rio Teno,1918-05-01,2017-02-28,34064,-
+7119007,DGA,dga_web,Lontue,199,-35.0422,-71.2906,71.0,Rio Mataquito,711.0,Rio Lontue,1969-10-01,2018-02-04,15596,2016-08-31
+7121003,DGA,dga_web,Villa Prat,90,-35.0969,-71.6139,71.0,Rio Mataquito,712.0,Rio Mataquito,1992-06-01,2017-02-28,8901,-
+7116004,DGA,dga_web,Monte Oscuro,632,-35.1242,-70.9747,71.0,Rio Mataquito,711.0,Rio Lontue,1994-05-01,2017-02-28,8216,-
+7116005,DGA,dga_web,Potrero Grande,445,-35.1833,-71.0978,71.0,Rio Mataquito,711.0,Rio Lontue,1971-05-01,2018-02-04,16858,2016-09-01
+7210001,DGA,dga_web,Putu,36,-35.2183,-72.2833,72.0,Costeras Mataquito-Maule,721.0,Costeras Entre Rio Huenchullami Y Rio Maule,1992-07-01,2017-02-28,8856,-
+7200001,DGA,dga_web,Gualleco,100,-35.2439,-71.98,72.0,Costeras Mataquito-Maule,720.0,Rio Huenchullami,1961-09-01,2018-02-04,20611,2016-09-01
+7373003,DGA,dga_web,El Guindo,250,-35.2578,-71.3239,73.0,Rio Maule,737.0,Rio Claro,1964-01-01,2017-02-28,19230,-
+7115001,DGA,dga_web,Rio Palos En Junta Con Colorado,600,-35.2744,-71.0156,71.0,Rio Mataquito,711.0,Rio Lontue,2001-04-01,2018-02-04,6008,2012-10-01
+7373004,DGA,dga_web,San Rafael,152,-35.3064,-71.5233,73.0,Rio Maule,737.0,Rio Claro,1992-06-01,2017-02-28,8884,-
+7371002,DGA,dga_web,Agua Fria,560,-35.3131,-71.0983,73.0,Rio Maule,737.0,Rio Claro,1992-07-01,2017-02-28,8876,-
+7384002,DGA,dga_web,Constitucion,10,-35.3242,-72.4089,73.0,Rio Maule,738.0,Rio Maule Bajo,1992-07-01,2018-02-04,9162,2016-09-01
+7381003,DGA,dga_web,Pencahue,55,-35.3725,-71.8325,73.0,Rio Maule,738.0,Rio Maule Bajo,1976-07-01,2018-02-04,13195,2016-09-01
+7381002,DGA,dga_web,Fundo El Peral,110,-35.4006,-71.7833,73.0,Rio Maule,738.0,Rio Maule Bajo,1966-01-01,1986-06-30,7386,-
+7383001,DGA,dga_web,Rio Maule En Forel,30,-35.4069,-72.2083,73.0,Rio Maule,738.0,Rio Maule Bajo,2001-05-01,2018-02-04,5876,2002-06-01
+7370001,DGA,dga_web,Fundo El Radal,685,-35.4189,-71.0431,73.0,Rio Maule,737.0,Rio Claro,1992-07-01,2017-02-28,8820,-
+7378004,DGA,dga_web,Talca,110,-35.4194,-71.6606,73.0,Rio Maule,737.0,Rio Claro,1964-01-01,2014-07-01,7070,2013-11-22
+7378002,DGA,dga_web,Talca U.C.,130,-35.4358,-71.6197,73.0,Rio Maule,737.0,Rio Claro,1982-03-01,2018-02-04,13124,2016-09-01
+7379002,DGA,dga_web,Rio Claro En Rauquen,64,-35.4525,-71.7333,73.0,Rio Maule,737.0,Rio Claro,1999-02-01,2018-02-04,6912,2000-06-23
+7374006,DGA,dga_web,Las Lomas,300,-35.4728,-71.2133,73.0,Rio Maule,737.0,Rio Claro,1969-09-01,1976-10-31,1857,-
+7374005,DGA,dga_web,Huapi,250,-35.4864,-71.2931,73.0,Rio Maule,737.0,Rio Claro,1969-05-01,2017-02-28,17256,-
+7376002,DGA,dga_web,El Durazno,275,-35.4925,-71.3183,73.0,Rio Maule,737.0,Rio Claro,1992-06-01,2017-02-28,8872,-
+7341002,DGA,dga_web,Nirivilo,200,-35.5389,-72.0914,73.0,Rio Maule,734.0,Perquilauquen Bajo,1956-02-01,2017-02-28,20647,-
+7374004,DGA,dga_web,Vilches Alto,1058,-35.5931,-71.0869,73.0,Rio Maule,737.0,Rio Claro,1992-07-06,2017-02-28,8861,-
+7359005,DGA,dga_web,San Javier,135,-35.595,-71.6572,73.0,Rio Maule,735.0,Rio Loncomilla,1970-01-01,2017-02-28,16942,-
+7359001,DGA,dga_web,Rio Loncomilla En Las Brisas,68,-35.6169,-71.7678,73.0,Rio Maule,735.0,Rio Loncomilla,2000-09-28,2018-02-04,6032,2000-09-28
+7358008,DGA,dga_web,Colbun (Maule Sur),280,-35.6242,-71.4022,73.0,Rio Maule,735.0,Rio Loncomilla,1959-01-01,2017-02-28,20598,-
+7378003,DGA,dga_web,Colorado,420,-35.6381,-71.2606,73.0,Rio Maule,737.0,Rio Claro,1963-06-01,2017-02-28,19412,-
+7342002,DGA,dga_web,Huerta Del Maule,218,-35.6614,-71.9461,73.0,Rio Maule,734.0,Perquilauquen Bajo,1992-06-01,2017-02-28,8916,-
+7320003,DGA,dga_web,Rio Claro En San Carlos,550,-35.6989,-71.0683,73.0,Rio Maule,736.0,Rio Maule Medio (Entre Rio Claro Y Rio Loncomilla),2015-06-01,2018-02-04,976,2016-09-01
+7320002,DGA,dga_web,Armerillo,492,-35.7011,-71.0772,73.0,Rio Maule,732.0,Rio Maule Medio,1916-06-01,2017-02-28,32158,-
+7321001,DGA,dga_web,Maule Bajo,430,-35.7056,-71.3192,73.0,Rio Maule,732.0,Rio Maule Medio,1961-08-01,1985-01-30,2559,-
+7321002,DGA,dga_web,Rio Maule En Armerillo,470,-35.7061,-71.1139,73.0,Rio Maule,732.0,Rio Maule Medio,2001-06-01,2018-02-04,6071,2003-07-04
+7306001,DGA,dga_web,Rio Cipreses En Dasague Laguna La Invernada,1300,-35.7381,-70.7778,73.0,Rio Maule,730.0,Rio Maule Alto (Hasta Antes Junta Rio Melado),2015-04-16,2018-01-23,945,2015-04-16
+7340002,DGA,dga_web,La Estrella,200,-35.7825,-72.1869,73.0,Rio Maule,734.0,Perquilauquen Bajo,1992-06-01,2017-02-28,8886,-
+7357003,DGA,dga_web,Melozal,96,-35.7856,-71.7664,73.0,Rio Maule,735.0,Rio Loncomilla,1950-09-01,2017-01-31,24074,-
+7303000,DGA,dga_web,Rio Maule En Los BaÑOs,980,-35.8197,-70.7606,73.0,Rio Maule,730.0,Rio Maule Alto (Hasta Antes Junta Rio Melado),2015-04-16,2018-02-04,1001,2015-04-16
+7358007,DGA,dga_web,Linares,157,-35.8381,-71.5953,73.0,Rio Maule,735.0,Rio Loncomilla,1967-01-01,2017-02-28,17071,-
+7358006,DGA,dga_web,Santa Barbara (Linares),150,-35.84,-71.6228,73.0,Rio Maule,735.0,Rio Loncomilla,1979-07-01,1983-10-31,1250,-
+7317001,DGA,dga_web,Rio Melado En La Lancha Dga,650,-35.85,-71.0667,73.0,Rio Maule,731.0,Rio Melado,1965-11-01,2003-03-31,13370,-
+7355006,DGA,dga_web,Hornillo,810,-35.8672,-71.1172,73.0,Rio Maule,735.0,Rio Loncomilla,1961-09-01,2017-02-28,20024,-
+7317005,DGA,dga_web,Rio Melado En El Salto,730,-35.8842,-71.0192,73.0,Rio Maule,731.0,Rio Melado,2003-04-01,2018-02-04,5327,2004-12-02
+7337002,DGA,dga_web,Tutuven Embalse,179,-35.8967,-72.3736,73.0,Rio Maule,733.0,Perquilauquen Alto,1975-05-01,2017-02-28,14632,-
+7355002,DGA,dga_web,Rio Ancoa En El Morro,402,-35.9086,-71.2981,73.0,Rio Maule,735.0,Rio Loncomilla,1999-05-01,2018-02-04,6821,2003-02-12
+7355007,DGA,dga_web,Ancoa Embalse,421,-35.9106,-71.2958,73.0,Rio Maule,735.0,Rio Loncomilla,1957-07-01,2017-01-31,21052,-
+7352003,DGA,dga_web,Liguay,104,-35.9478,-71.6842,73.0,Rio Maule,735.0,Rio Loncomilla,1975-10-01,2017-02-28,14882,-
+7301000,DGA,dga_web,Lo Aguirre,2000,-35.9697,-70.5719,73.0,Rio Maule,730.0,Rio Maule Alto,2013-07-01,2013-07-31,31,-
+7340003,DGA,dga_web,Los Huinganes En Curipeumo,126,-35.9844,-71.9122,73.0,Rio Maule,734.0,Perquilauquen Bajo,1994-06-01,2017-02-28,7863,-
+7301001,DGA,dga_web,Los Condores,2172,-36.0106,-70.5589,73.0,Rio Maule,730.0,Rio Maule Alto,2014-10-15,2017-01-12,765,2014-10-15
+7335004,DGA,dga_web,Quella,130,-36.0572,-72.0892,73.0,Rio Maule,733.0,Perquilauquen Alto,1961-08-01,2018-02-04,20573,2016-09-01
+7353001,DGA,dga_web,Juan Amigo,460,-36.0758,-71.3908,73.0,Rio Maule,735.0,Rio Loncomilla,1992-06-01,2017-02-28,8878,-
+7352002,DGA,dga_web,La Sexta De Longavi,229,-36.1128,-71.6156,73.0,Rio Maule,735.0,Rio Loncomilla,1992-06-01,2018-02-04,9278,2016-09-01
+7336003,DGA,dga_web,El Alamo,180,-36.1128,-72.4214,73.0,Rio Maule,733.0,Perquilauquen Alto,1994-05-01,2017-02-28,8218,-
+7345001,DGA,dga_web,Parral,175,-36.1878,-71.8283,73.0,Rio Maule,734.0,Perquilauquen Bajo,1964-01-01,2018-02-04,19755,2016-09-01
+7350001,DGA,dga_web,Rio Longavi En La Quiriquina,449,-36.2303,-71.4569,73.0,Rio Maule,735.0,Rio Loncomilla,2001-04-25,2018-02-04,5892,2001-04-25
+8142001,DGA,dga_web,Mangarral,140,-36.2353,-72.3428,81.0,Rio Itata,814.0,Itata Bajo,1992-01-01,2017-03-31,9132,-
+7331002,DGA,dga_web,Digua Embalse,390,-36.2558,-71.5481,73.0,Rio Maule,733.0,Perquilauquen Alto,1947-10-01,2018-02-04,25235,2016-09-01
+7350006,DGA,dga_web,Bullileo Embalse,600,-36.285,-71.4142,73.0,Rio Maule,735.0,Rio Loncomilla,1930-05-01,2017-01-31,31500,-
+7314002,DGA,dga_web,Guayquivilo,1200,-36.2933,-70.9181,73.0,Rio Maule,731.0,Rio Melado,1960-04-01,1971-01-31,2614,-
+7350007,DGA,dga_web,Embalse Bullileo (Lago),700,-36.2972,-71.4083,73.0,Rio Maule,735.0,Rio Loncomilla,2011-12-31,2015-09-07,1126,2011-12-31
+8118003,DGA,dga_web,Millauquen,152,-36.3183,-72.04,81.0,Rio Itata,811.0,Nuble Bajo,1992-02-01,2017-03-31,9060,-
+7332003,DGA,dga_web,San Manuel En Perquilauquen,270,-36.3581,-71.6494,73.0,Rio Maule,733.0,Perquilauquen Alto,1956-06-01,2017-02-28,21761,-
+7330001,DGA,dga_web,Rio Perquilauquen En San Manuel,266,-36.3758,-71.6233,73.0,Rio Maule,733.0,Perquilauquen Alto,2009-10-01,2018-02-04,2755,2012-05-16
+8118004,DGA,dga_web,San Agustin De Puual,138,-36.4214,-72.3944,81.0,Rio Itata,811.0,Nuble Bajo,1993-01-01,2017-03-31,8790,-
+8141001,DGA,dga_web,Rio Itata En Coelemu,27,-36.4669,-72.6911,81.0,Rio Itata,814.0,Itata Bajo,2009-05-09,2017-03-31,2585,2013-05-01
+8141002,DGA,dga_web,Coelemu,40,-36.475,-72.6883,81.0,Rio Itata,814.0,Itata Bajo,1961-10-01,2017-03-31,18917,-
+8140005,DGA,dga_web,Portezuelo,135,-36.5275,-72.4283,81.0,Rio Itata,814.0,Itata Bajo,2011-04-01,2017-03-31,2126,-
+8210002,DGA,dga_web,Dichato,11,-36.5456,-72.9311,82.0,Costeras E Islas Entre Rio Itata Y Rio Bio-Bio,821.0,Costeras Entre Rio Pingueral Y Rio Andalien,1980-06-01,2017-03-31,12996,-
+8106003,DGA,dga_web,San Fabian,465,-36.5836,-71.5247,81.0,Rio Itata,810.0,Nuble Alto,1956-10-01,2017-03-31,21486,-
+8106002,DGA,dga_web,Rio Uble En San Fabian N 2,450,-36.5856,-71.5256,81.0,Rio Itata,810.0,Nuble Alto,2001-06-14,2018-02-04,5766,2001-06-14
+8117009,DGA,dga_web,Canal De La Luz En Chillan,136,-36.5967,-72.1003,81.0,Rio Itata,811.0,Nuble Bajo,2008-09-01,2018-02-04,3226,2012-12-05
+8117003,DGA,dga_web,Chillan Sendos,125,-36.6147,-72.1,81.0,Rio Itata,811.0,Nuble Bajo,1964-01-01,1982-12-31,6923,-
+8117002,DGA,dga_web,Chillan Viejo,115,-36.6319,-72.1267,81.0,Rio Itata,811.0,Nuble Bajo,1977-01-01,2018-02-04,15007,2016-10-01
+8140001,DGA,dga_web,Rafael,294,-36.6364,-72.8489,81.0,Rio Itata,814.0,Itata Bajo,1993-01-01,2017-03-31,8528,-
+8210003,DGA,dga_web,Estero Bellavista En Tom,7,-36.6394,-72.9503,82.0,Costeras E Islas Entre Rio Itata Y Rio Bio-Bio,821.0,Costeras Entre Rio Pingueral Y Rio Andalien,2009-06-01,2018-02-04,2884,2013-06-26
+8113001,DGA,dga_web,Coihueco Embalse,314,-36.6408,-71.7989,81.0,Rio Itata,811.0,Nuble Bajo,1900-01-01,2017-02-28,16582,-
+8105004,DGA,dga_web,Caracol,610,-36.6511,-71.395,81.0,Rio Itata,810.0,Nuble Alto,1900-01-01,2017-03-31,10767,-
+8135003,DGA,dga_web,Nueva Aldea,32,-36.6544,-72.4561,81.0,Rio Itata,813.0,Itata Medio,1956-09-01,2017-03-31,21406,-
+8105003,DGA,dga_web,La Punilla,840,-36.6583,-71.3278,81.0,Rio Itata,810.0,Nuble Alto,1959-04-01,1986-07-31,9763,-
+8105005,DGA,dga_web,Caman,670,-36.6731,-71.2989,81.0,Rio Itata,810.0,Nuble Alto,1992-09-01,2017-03-31,8782,-
+8135004,DGA,dga_web,Cancha Los Litres,200,-36.7078,-72.5794,81.0,Rio Itata,813.0,Itata Medio,1993-01-01,2017-03-31,8278,-
+8133003,DGA,dga_web,Chillancito,56,-36.7622,-72.4239,81.0,Rio Itata,813.0,Itata Medio,1954-07-01,2017-03-31,22676,-
+8220005,DGA,dga_web,Las Pataguas,236,-36.7925,-72.8922,82.0,Costeras E Islas Entre Rio Itata Y Rio Bio-Bio,822.0,Rio Andalien,1993-01-01,2017-03-31,8028,-
+8117006,DGA,dga_web,Rio Chillan En Esperanza N 2,586,-36.8,-71.6608,81.0,Rio Itata,811.0,Nuble Bajo,2009-05-01,2018-02-04,3161,2015-08-04
+8220006,DGA,dga_web,Andalien,37,-36.8131,-72.9392,82.0,Costeras E Islas Entre Rio Itata Y Rio Bio-Bio,822.0,Rio Andalien,2000-11-01,2017-03-31,5739,-
+8394006,DGA,dga_web,Cerro Verde,10,-36.8161,-73.0722,83.0,Rio Bio-Bio,839.0,Rio Bio-Bio Bajo,1989-12-01,1995-12-31,2070,-
+8410002,DGA,dga_web,Concepcion Edif. Mop,30,-36.8172,-73.0333,84.0,Costeras E Islas Entre Rios Bio-Bio Y Carampangue,841.0,Costeras Entre Rio Bio-Bio Y Rio Manco,2000-07-01,2006-04-30,2128,-
+8124005,DGA,dga_web,Mayulermo,371,-36.8189,-71.8944,81.0,Rio Itata,812.0,Rio Itata Alto (Hasta Rio Diguillin),1992-02-01,2017-03-31,9030,-
+8220008,DGA,dga_web,Estero Nonguen Frente U. Del Bio Bio,20,-36.8203,-73.0164,82.0,Costeras E Islas Entre Rio Itata Y Rio Bio-Bio,822.0,Rio Andalien,2009-05-01,2018-02-04,3036,2015-05-03
+8410001,DGA,dga_web,Concepcion Dga.,28,-36.8333,-73.1,84.0,Costeras E Islas Entre Rios Bio-Bio Y Carampangue,841.0,Costeras Entre Rio Bio-Bio Y Rio Manco,1996-01-01,2018-02-04,8061,2016-10-01
+8394001,DGA,dga_web,Rio Biobio En Desembocadura,16,-36.8386,-73.0619,83.0,Rio Bio-Bio,839.0,Rio Bio-Bio Bajo,2001-03-30,2018-02-04,5633,2001-03-30
+8131002,DGA,dga_web,Fundo Bella Rosa,210,-36.8672,-72.0667,81.0,Rio Itata,813.0,Itata Medio,1963-07-01,1968-10-31,1615,-
+8130006,DGA,dga_web,Diguillin,670,-36.8686,-71.6425,81.0,Rio Itata,813.0,Itata Medio,1900-01-01,2017-03-31,21069,-
+8130004,DGA,dga_web,Las Trancas,1242,-36.9108,-71.4792,81.0,Rio Itata,813.0,Itata Medio,1961-12-01,2017-03-31,19337,-
+8130003,DGA,dga_web,Fundo Atacalco,740,-36.9175,-71.5814,81.0,Rio Itata,813.0,Itata Medio,1930-10-01,2017-03-31,30654,-
+8130002,DGA,dga_web,Rio Diguillin En San Lorenzo (Atacalco),727,-36.9244,-71.5756,81.0,Rio Itata,813.0,Itata Medio,2009-05-01,2018-02-04,3139,2016-10-01
+8130007,DGA,dga_web,San Lorenzo,710,-36.9247,-71.5756,81.0,Rio Itata,813.0,Itata Medio,1961-10-01,2011-05-31,17690,-
+8124003,DGA,dga_web,General Cruz,120,-36.9319,-72.3528,81.0,Rio Itata,812.0,Rio Itata Alto (Hasta Rio Diguillin),1962-07-01,1972-11-30,3704,-
+8132002,DGA,dga_web,Pemuco,200,-36.9764,-72.1008,81.0,Rio Itata,813.0,Itata Medio,1971-08-31,2017-03-31,15747,-
+8393002,DGA,dga_web,Estero Hualqui En Desembocadura,30,-36.9825,-72.9414,83.0,Rio Bio-Bio,839.0,Rio Bio-Bio Bajo,2009-05-01,2018-02-04,2399,2015-05-01
+8124004,DGA,dga_web,Las Cruces,467,-37.1114,-71.765,81.0,Rio Itata,812.0,Rio Itata Alto (Hasta Rio Diguillin),1993-01-01,2017-03-31,8721,-
+8123004,DGA,dga_web,Cholguan,230,-37.1528,-72.0669,81.0,Rio Itata,812.0,Rio Itata Alto (Hasta Rio Diguillin),1956-09-01,2017-03-31,19973,-
+8381003,DGA,dga_web,Rio Laja Ag.Arr. Del Salto (Rec.R.Laja),140,-37.2119,-72.3242,83.0,Rio Bio-Bio,838.0,Laja Bajo,2009-05-06,2018-02-04,2537,2012-08-19
+8520000,DGA,dga_web,Caranpangue,10,-37.2553,-73.2431,85.0,Rio Carampangue,852.0,Rio Lia,2001-01-01,2017-03-31,5736,-
+8367001,DGA,dga_web,Laja,53,-37.2772,-72.7164,83.0,Rio Bio-Bio,836.0,Rio Bio-Bio Entre Rio Vergara Y Rio Laja,1961-11-01,2017-03-31,18750,-
+8122002,DGA,dga_web,Trupan,474,-37.2806,-71.8228,81.0,Rio Itata,812.0,Rio Itata Alto (Hasta Rio Diguillin),1963-06-01,2017-03-31,19368,-
+8380001,DGA,dga_web,Rio Laja En Tucapel,295,-37.2836,-71.9836,83.0,Rio Bio-Bio,838.0,Laja Bajo,2001-06-01,2015-02-28,4726,-
+8122003,DGA,dga_web,Tucapel,342,-37.2936,-71.9519,81.0,Rio Itata,812.0,Rio Itata Alto (Hasta Rio Diguillin),1975-01-01,2017-03-31,15290,-
+8364001,DGA,dga_web,Las Achiras,144,-37.3806,-72.3661,83.0,Rio Bio-Bio,836.0,Rio Bio-Bio Entre Rio Vergara Y Rio Laja,1964-01-01,2017-03-31,18988,-
+8366002,DGA,dga_web,Estero Quilque En Los Angeles,144,-37.4561,-72.3272,83.0,Rio Bio-Bio,836.0,Rio Bio-Bio Entre Rio Vergara Y Rio Laja,2007-06-15,2017-03-31,3173,2007-06-15
+8700002,DGA,dga_web,Rio Curanilahue En Curanilahue,149,-37.4833,-73.3369,87.0,Rio Lebu,870.0,Rio Curanilahue,2012-06-14,2018-02-04,2050,2012-06-14
+8700001,DGA,dga_web,Curanilahue,146,-37.485,-73.3317,87.0,Rio Lebu,870.0,Rio Curanilahue,1997-07-01,2017-03-31,6998,-
+8700003,DGA,dga_web,Estero Plegarias Antes De Jta Rio Curanilahue,149,-37.4878,-73.3442,87.0,Rio Lebu,870.0,Rio Curanilahue,2009-05-13,2018-02-04,2998,2016-10-01
+8334002,DGA,dga_web,Los Angeles,129,-37.5022,-72.4083,83.0,Rio Bio-Bio,833.0,Rio Bio-Bio Entre Rio Duqueco Y Rio Vergara,1962-07-01,2018-02-04,20033,2016-10-01
+8320001,DGA,dga_web,San Lorenzo En Bio-Bio,480,-37.5081,-71.7656,83.0,Rio Bio-Bio,832.0,Rio Duqueco,1992-08-01,2017-03-31,8580,-
+8324001,DGA,dga_web,Duqueco,120,-37.5336,-72.3322,83.0,Rio Bio-Bio,832.0,Rio Duqueco,1961-11-01,1997-01-31,9954,-
+8323001,DGA,dga_web,Rio Duqueco En Cerrillos,129,-37.5422,-72.3119,83.0,Rio Bio-Bio,832.0,Rio Duqueco,2009-05-01,2018-02-04,3025,2012-08-04
+8334001,DGA,dga_web,Rio Biobio En Coihue,60,-37.5503,-72.5903,83.0,Rio Bio-Bio,833.0,Rio Bio-Bio Entre Rio Duqueco Y Rio Vergara,2009-10-01,2018-02-04,2825,2012-12-01
+8333002,DGA,dga_web,San Jose De Munilque,120,-37.5858,-72.3206,83.0,Rio Bio-Bio,833.0,Rio Bio-Bio Entre Rio Duqueco Y Rio Vergara,1955-04-01,1985-08-31,10807,-
+8319002,DGA,dga_web,San Carlos De Puren,155,-37.5953,-72.2769,83.0,Rio Bio-Bio,831.0,Rio Bio-Bio Entre Rio Ranquil Y Rio Duqueco,1985-01-01,2017-03-31,11465,-
+8319001,DGA,dga_web,Rio Biobio En Longitudinal,138,-37.6019,-72.2783,83.0,Rio Bio-Bio,831.0,Rio Bio-Bio Entre Rio Ranquil Y Rio Duqueco,2009-05-01,2017-04-03,1918,2012-06-28
+8316001,DGA,dga_web,Quillaileo,464,-37.6511,-71.7136,83.0,Rio Bio-Bio,831.0,Rio Bio-Bio Entre Rio Ranquil Y Rio Duqueco,1992-09-01,2017-03-31,8648,-
+8318002,DGA,dga_web,Quilaco,231,-37.685,-72.0058,83.0,Rio Bio-Bio,831.0,Rio Bio-Bio Entre Rio Ranquil Y Rio Duqueco,1900-01-01,2017-03-31,24701,-
+8316002,DGA,dga_web,Rio Huequecura Aguas Arriba De Embalse Angostura,330,-37.7047,-71.7683,83.0,Rio Bio-Bio,831.0,Rio Bio-Bio Entre Rio Ranquil Y Rio Duqueco,2013-12-23,2018-02-04,1452,2013-12-23
+8317005,DGA,dga_web,Rio Biobio En Puente Piulo,291,-37.7092,-71.8236,83.0,Rio Bio-Bio,831.0,Rio Bio-Bio Entre Rio Ranquil Y Rio Duqueco,2013-12-23,2018-02-04,1505,2013-12-23
+8317001,DGA,dga_web,Rio Biobio En Rucalhue,261,-37.7106,-71.9017,83.0,Rio Bio-Bio,831.0,Rio Bio-Bio Entre Rio Ranquil Y Rio Duqueco,2001-03-29,2018-02-04,6049,2001-03-29
+8332002,DGA,dga_web,Mulchen,142,-37.7147,-72.2436,83.0,Rio Bio-Bio,833.0,Rio Bio-Bio Entre Rio Duqueco Y Rio Vergara,1962-01-01,2017-03-31,19992,-
+8358002,DGA,dga_web,Angol (La Mona),113,-37.7794,-72.6372,83.0,Rio Bio-Bio,835.0,Rios Malleco Y Vergara,1975-01-01,2018-02-04,13941,2017-04-01
+8317003,DGA,dga_web,Cerro El Padre,346,-37.7797,-71.8664,83.0,Rio Bio-Bio,831.0,Rio Bio-Bio Entre Rio Ranquil Y Rio Duqueco,1943-05-01,2017-03-31,26928,-
+8317004,DGA,dga_web,Rio Biobio En La Culebra,338,-37.7964,-71.6989,83.0,Rio Bio-Bio,831.0,Rio Bio-Bio Entre Rio Ranquil Y Rio Duqueco,2013-12-23,2018-02-04,1469,2013-12-23
+8821005,DGA,dga_web,Caete,78,-37.7983,-73.3914,88.0,Costeras Lebu-Paicavi,882.0,Rio Paicavi,1961-12-01,2017-12-03,19824,2016-10-01
+8821006,DGA,dga_web,Rio Leiva En Puente Camino A Contulmo,48,-37.8131,-73.3922,88.0,Costeras Lebu-Paicavi,882.0,Rio Paicavi,2009-05-06,2018-02-04,2962,2016-10-01
+8358003,DGA,dga_web,El Vergel (Angol),75,-37.8172,-72.65,83.0,Rio Bio-Bio,835.0,Rios Malleco Y Vergara,1981-04-01,1996-02-29,5415,-
+8358005,DGA,dga_web,Parque Nahuelbuta,1177,-37.8233,-72.9606,83.0,Rio Bio-Bio,835.0,Rios Malleco Y Vergara,2002-11-07,2017-01-31,5023,-
+8330002,DGA,dga_web,Pilguen,264,-37.8306,-72.2197,83.0,Rio Bio-Bio,833.0,Rio Bio-Bio Entre Rio Duqueco Y Rio Vergara,1992-08-01,2017-03-31,8632,-
+8343001,DGA,dga_web,Rio Mininco En Longitudinal,125,-37.8636,-72.3942,83.0,Rio Bio-Bio,834.0,Rio Renaico,2013-08-01,2017-03-31,1337,-
+8358004,DGA,dga_web,Poco A Poco,653,-37.88,-71.9867,83.0,Rio Bio-Bio,835.0,Rios Malleco Y Vergara,1992-08-01,2017-03-31,8899,-
+8313002,DGA,dga_web,Embalse Pangue,512,-37.9183,-71.5961,83.0,Rio Bio-Bio,831.0,Rio Bio-Bio Entre Rio Ranquil Y Rio Duqueco,2007-06-01,2017-12-11,3764,2007-06-01
+8351003,DGA,dga_web,Collipulli,240,-37.9583,-72.4256,83.0,Rio Bio-Bio,835.0,Rios Malleco Y Vergara,1962-04-01,2009-12-31,16843,-
+8351001,DGA,dga_web,Rio Malleco En Collipulli,153,-37.9647,-72.4361,83.0,Rio Bio-Bio,835.0,Rios Malleco Y Vergara,2010-02-01,2018-02-04,2882,2016-03-31
+8341003,DGA,dga_web,El Morro,300,-37.9972,-71.9972,83.0,Rio Bio-Bio,834.0,Rio Renaico,1955-08-01,1973-08-31,3774,-
+8822008,DGA,dga_web,Contulmo,41,-38.0186,-73.23,88.0,Costeras Lebu-Paicavi,882.0,Rio Paicavi,1900-01-01,2017-03-31,9945,-
+9101003,DGA,dga_web,Tranaman,78,-38.0214,-73.0067,91.0,Rio Imperial,910.0,Rio Lumaco,1988-07-01,2017-03-31,10461,-
+9101001,DGA,dga_web,Rio Puren En Tranaman,90,-38.0333,-73.0167,91.0,Rio Imperial,910.0,Rio Lumaco,2016-10-06,2018-02-04,472,2016-10-06
+8353001,DGA,dga_web,Ercilla (Vida Nueva),262,-38.0442,-72.4611,83.0,Rio Bio-Bio,835.0,Rios Malleco Y Vergara,1998-05-01,2017-03-31,6877,-
+8312002,DGA,dga_web,Embalse Ralco,742,-38.0583,-71.4344,83.0,Rio Bio-Bio,831.0,Rio Bio-Bio Entre Rio Ranquil Y Rio Duqueco,2007-06-20,2018-02-04,2813,2007-06-20
+8308000,DGA,dga_web,Rio Lomin En Puente La Junta,755,-38.0661,-71.3497,83.0,Rio Bio-Bio,830.0,Rio Bio-Bio Alto (Hasta Despues Junta Rio Lamin),2013-06-04,2013-06-04,1,2013-06-04
+8343002,DGA,dga_web,Encimar Malleco,520,-38.1053,-72.1136,83.0,Rio Bio-Bio,834.0,Rio Renaico,1988-08-01,2017-02-28,10299,-
+9102003,DGA,dga_web,Lumaco,60,-38.1636,-72.9039,91.0,Rio Imperial,910.0,Rio Lumaco,1948-05-01,2017-03-31,25017,-
+8307002,DGA,dga_web,Rio Bio-Bio En Llanquen,767,-38.2008,-71.2989,83.0,Rio Bio-Bio,830.0,Rio Bio-Bio Alto (Hasta Despues Junta Rio Lamin),2003-02-01,2018-02-04,5015,2003-09-12
+8350002,DGA,dga_web,Laguna Malleco,894,-38.2156,-71.8106,83.0,Rio Bio-Bio,835.0,Rios Malleco Y Vergara,1955-10-01,2017-03-31,20852,-
+9122003,DGA,dga_web,Tolhuaca,1350,-38.2358,-71.7197,91.0,Rio Imperial,912.0,Cautin Alto (Hasta Antes Junta R. Quepe),1971-06-01,1975-04-21,1027,-
+9104003,DGA,dga_web,Las Mercedes (Victoria),421,-38.2461,-72.2289,91.0,Rio Imperial,910.0,Rio Lumaco,1986-01-01,2017-03-31,11378,-
+9105002,DGA,dga_web,Traiguen,234,-38.2561,-72.6536,91.0,Rio Imperial,910.0,Rio Lumaco,1979-01-01,2017-03-31,13922,-
+8930000,DGA,dga_web,Tirua,10,-38.3433,-73.4922,89.0,Costeras E Islas Entre R.Paicavi Y Limite Region,893.0,Rio Tirua,2001-01-10,2017-03-31,5786,-
+9113003,DGA,dga_web,Galvarino,40,-38.4133,-72.7772,91.0,Rio Imperial,911.0,R.  Chol Chol,1979-01-01,2017-03-31,13897,-
+9112000,DGA,dga_web,Perquenco,290,-38.4211,-72.3775,91.0,Rio Imperial,911.0,R.  Chol Chol,2002-05-01,2017-03-31,5448,-
+9123002,DGA,dga_web,Rari-Ruca,440,-38.425,-72.0106,91.0,Rio Imperial,912.0,Cautin Alto (Hasta Antes Junta R. Quepe),1992-07-01,2017-03-31,9016,-
+9123001,DGA,dga_web,Rio Cautin En Rari-Ruca,425,-38.4303,-72.0106,91.0,Rio Imperial,912.0,Cautin Alto (Hasta Antes Junta R. Quepe),2001-06-09,2018-02-04,4729,2002-11-25
+9122001,DGA,dga_web,Curacautin,535,-38.4475,-71.8961,91.0,Rio Imperial,912.0,Cautin Alto (Hasta Antes Junta R. Quepe),1970-03-01,2017-03-31,16888,-
+8304004,DGA,dga_web,Lonquimay,931,-38.4536,-71.3742,83.0,Rio Bio-Bio,830.0,Rio Bio-Bio Alto (Hasta Despues Junta Rio Lamin),1987-05-01,2018-02-04,10964,2017-04-01
+9120002,DGA,dga_web,Manzanar,790,-38.4631,-71.6992,91.0,Rio Imperial,912.0,Cautin Alto (Hasta Antes Junta R. Quepe),1972-03-01,1988-09-25,5831,-
+9111002,DGA,dga_web,Quillen,285,-38.4642,-72.3867,91.0,Rio Imperial,911.0,R.  Chol Chol,1959-11-01,2017-03-31,20905,-
+9120003,DGA,dga_web,Malalcahuello,950,-38.4703,-71.5753,91.0,Rio Imperial,912.0,Cautin Alto (Hasta Antes Junta R. Quepe),1988-11-01,2018-02-04,10331,2017-04-01
+9114001,DGA,dga_web,La Cabaa,625,-38.4942,-73.2408,91.0,Rio Imperial,911.0,R.  Chol Chol,1988-10-01,2017-03-31,10315,-
+9124001,DGA,dga_web,Lautaro,200,-38.5186,-72.4522,91.0,Rio Imperial,912.0,Cautin Alto (Hasta Antes Junta R. Quepe),1953-07-01,2017-03-31,23045,-
+9116002,DGA,dga_web,Cholchol,20,-38.6039,-72.8456,91.0,Rio Imperial,911.0,R.  Chol Chol,1987-10-01,2009-12-31,8100,-
+9116001,DGA,dga_web,Rio Cholchol En Cholchol,20,-38.6081,-72.8478,91.0,Rio Imperial,911.0,R.  Chol Chol,2004-03-02,2018-02-04,4989,2004-03-16
+8301001,DGA,dga_web,Liucura,1043,-38.6517,-71.0919,83.0,Rio Bio-Bio,830.0,Rio Bio-Bio Alto (Hasta Despues Junta Rio Lamin),1987-05-01,2017-03-31,10493,-
+9131002,DGA,dga_web,Vilcun,290,-38.6672,-72.2339,91.0,Rio Imperial,913.0,Rio Quepe,1965-02-01,2017-03-31,19015,-
+9130001,DGA,dga_web,Cherquenco,500,-38.6839,-72.0,91.0,Rio Imperial,913.0,Rio Quepe,1987-09-01,2017-03-31,10742,-
+9129002,DGA,dga_web,Rio Cautin En Cajon,130,-38.6867,-72.5028,91.0,Rio Imperial,912.0,Cautin Alto (Hasta Antes Junta R. Quepe),2001-06-14,2018-02-04,5963,2004-01-01
+9129005,DGA,dga_web,Pueblo Nuevo (Temuco),119,-38.7128,-72.5558,91.0,Rio Imperial,912.0,Cautin Alto (Hasta Antes Junta R. Quepe),1953-07-01,2018-02-04,23035,2016-10-01
+9151001,DGA,dga_web,Carahue,77,-38.7128,-73.1475,91.0,Rio Imperial,915.0,Rio Imperial,1995-06-01,2017-03-31,7668,-
+9129004,DGA,dga_web,Cerro Ielol,175,-38.7283,-72.5928,91.0,Rio Imperial,912.0,Cautin Alto (Hasta Antes Junta R. Quepe),1974-07-08,1989-02-28,5126,-
+9129006,DGA,dga_web,Temuco Centro,122,-38.7425,-72.59,91.0,Rio Imperial,912.0,Cautin Alto (Hasta Antes Junta R. Quepe),2009-11-17,2017-03-31,2569,-
+9140002,DGA,dga_web,Almagro,20,-38.7775,-72.9506,91.0,Rio Imperial,914.0,Rio Cautin Entre Rio Quepe Y Rio Chol-Chol,1994-11-01,2004-10-31,3159,-
+9140001,DGA,dga_web,Rio Cautin En Almagro,20,-38.78,-72.9469,91.0,Rio Imperial,914.0,Rio Cautin Entre Rio Quepe Y Rio Chol-Chol,2004-02-01,2017-03-31,3931,-
+9153001,DGA,dga_web,Puerto Saavedra,5,-38.7886,-73.3936,91.0,Rio Imperial,915.0,Rio Imperial,1979-01-01,2017-03-31,13625,-
+9400000,DGA,dga_web,Rio Truful En Camino Internacional,520,-38.8444,-71.6536,94.0,Rio Tolten,940.0,Rio Allipen,2015-01-01,2018-02-04,1080,2015-12-19
+9401001,DGA,dga_web,Tricauco,520,-38.8506,-71.55,94.0,Rio Tolten,940.0,Rio Allipen,1988-10-01,2017-03-31,10206,-
+9402001,DGA,dga_web,Rio Allipen En Melipeuco,450,-38.8653,-71.7336,94.0,Rio Tolten,940.0,Rio Allipen,2011-09-01,2015-06-21,222,-
+9403001,DGA,dga_web,Cunco,380,-38.9269,-72.0125,94.0,Rio Tolten,940.0,Rio Allipen,1970-03-01,2017-03-31,16340,-
+9135002,DGA,dga_web,Freire,100,-38.9553,-72.6206,91.0,Rio Imperial,913.0,Rio Quepe,1939-07-01,1973-12-31,9289,-
+9404002,DGA,dga_web,Los Laureles,260,-38.9586,-72.2006,94.0,Rio Tolten,940.0,Rio Allipen,1939-02-01,2017-03-31,26385,-
+9135003,DGA,dga_web,Freire Sendos,100,-38.9592,-72.6083,91.0,Rio Imperial,913.0,Rio Quepe,1981-01-01,2017-03-31,12965,-
+9135004,DGA,dga_web,Freire Campamento Fiscal,100,-38.9667,-72.6264,91.0,Rio Imperial,913.0,Rio Quepe,1969-05-23,1981-12-31,3539,-
+9404001,DGA,dga_web,Rio Allipen En Los Laureles,190,-38.9833,-72.2333,94.0,Rio Tolten,940.0,Rio Allipen,2017-02-16,2018-02-04,354,2017-02-16
+9404003,DGA,dga_web,Quecheregua,360,-39.0006,-72.0667,94.0,Rio Tolten,940.0,Rio Allipen,1970-02-01,2014-01-31,15359,-
+9437002,DGA,dga_web,Rio Tolten En Teodoro Schmidt,15,-39.0144,-73.0828,94.0,Rio Tolten,943.0,Tolten Bajo,2004-03-02,2018-02-04,4301,2004-07-08
+9438001,DGA,dga_web,Teodoro Schmitd,13,-39.0278,-73.0781,94.0,Rio Tolten,943.0,Tolten Bajo,1988-11-01,2017-03-31,10011,-
+9405001,DGA,dga_web,Rio Curaco En Colico,250,-39.0333,-72.0833,94.0,Rio Tolten,940.0,Rio Allipen,2014-03-26,2017-03-31,617,-
+9423001,DGA,dga_web,Rio Tolten En Coipue,200,-39.1,-72.3833,94.0,Rio Tolten,942.0,Lago Villarica Y Rio Tolten Alto (Antes  Allipen),2015-01-01,2018-02-04,999,2016-10-31
+9433003,DGA,dga_web,Quitratue,90,-39.1506,-72.6503,94.0,Rio Tolten,943.0,Tolten Bajo,1961-11-01,2017-03-31,19873,-
+9416002,DGA,dga_web,Lago Tinquilco,850,-39.1667,-71.7231,94.0,Rio Tolten,941.0,Rio Pucon,1996-06-01,2017-03-31,7454,-
+9417001,DGA,dga_web,Lago Caburgua,480,-39.2,-71.8089,94.0,Rio Tolten,941.0,Rio Pucon,1976-11-21,2017-03-31,11296,-
+9439001,DGA,dga_web,Tolten,5,-39.2006,-73.2003,94.0,Rio Tolten,943.0,Tolten Bajo,1994-12-01,2017-03-31,7971,-
+9420003,DGA,dga_web,Villarrica,210,-39.215,-72.2917,94.0,Rio Tolten,942.0,Lago Villarica Y Tolten Alto,1961-11-01,2017-03-31,19979,-
+9417002,DGA,dga_web,Ojos Del Caburgua,300,-39.2367,-71.8356,94.0,Rio Tolten,941.0,Rio Pucon,1998-05-01,2009-03-31,3250,-
+9420002,DGA,dga_web,Pucon,230,-39.2753,-71.9503,94.0,Rio Tolten,942.0,Lago Villarica Y Tolten Alto,1984-07-01,2018-02-04,12267,2015-07-16
+9421001,DGA,dga_web,La Cascada,250,-39.3006,-71.9333,94.0,Rio Tolten,942.0,Lago Villarica Y Tolten Alto,1958-11-01,1969-02-28,3773,-
+9414002,DGA,dga_web,Llafenco,360,-39.3314,-71.8083,94.0,Rio Tolten,941.0,Rio Pucon,1965-02-01,2017-03-31,18686,-
+9412002,DGA,dga_web,Curarrehue,420,-39.3581,-71.5744,94.0,Rio Tolten,941.0,Rio Pucon,1976-11-23,2017-03-31,14697,-
+10130001,DGA,dga_web,Loncoche,120,-39.37,-72.6417,101.0,Rio Valdivia,1013.0,Rio Cruces,1993-09-01,2017-03-31,8487,-
+10106003,DGA,dga_web,Lican-Ray,275,-39.4681,-72.1653,101.0,Rio Valdivia,1010.0,Rio Valdivia Alto (Hasta Desague Lago Panguipulli),1996-05-01,2017-03-31,7541,-
+10133000,DGA,dga_web,Rio Leufucade En Purulon,97,-39.4781,-72.6908,101.0,Rio Valdivia,1013.0,Rio Cruces,2013-01-26,2018-02-04,1835,2013-02-07
+9420004,DGA,dga_web,Chanlelfu,345,-39.4875,-72.2339,94.0,Rio Tolten,942.0,Lago Villarica Y Tolten Alto,1987-09-01,2017-03-31,10567,-
+9412003,DGA,dga_web,Puesco (Aduana),620,-39.5192,-71.5478,94.0,Rio Tolten,941.0,Rio Pucon,1987-09-02,2017-03-31,10387,-
+10106002,DGA,dga_web,Lago Calafquen,385,-39.5469,-72.1519,101.0,Rio Valdivia,1010.0,Rio Valdivia Alto (Hasta Desague Lago Panguipulli),1970-03-01,2017-03-31,11080,-
+10134002,DGA,dga_web,San Jose Mariquina,30,-39.5522,-72.8989,101.0,Rio Valdivia,1013.0,Rio Cruces,1999-02-01,2017-03-31,6631,-
+10106001,DGA,dga_web,Coaripe,215,-39.5744,-72.0053,101.0,Rio Valdivia,1010.0,Rio Valdivia Alto (Hasta Desague Lago Panguipulli),1997-01-01,2017-03-31,7313,-
+10137002,DGA,dga_web,Huichaco,95,-39.7078,-72.7422,101.0,Rio Valdivia,1013.0,Rio Cruces,1994-11-01,2017-03-31,8122,-
+10102002,DGA,dga_web,Liquie,230,-39.7272,-71.8506,101.0,Rio Valdivia,1010.0,Rio Valdivia Alto (Hasta Desague Lago Panguipulli),1993-09-01,2017-03-31,8581,-
+10111002,DGA,dga_web,Lago Riihue,120,-39.7731,-72.4581,101.0,Rio Valdivia,1011.0,R. San Pedro (Entre Desague L. Panguipulli Y Bajo R. Quinchilca),1985-04-01,2017-03-31,11583,-
+10122003,DGA,dga_web,Rio Calle Calle En Pupunahue,60,-39.8044,-72.9025,101.0,Rio Valdivia,1012.0,Rio Calle Calle,2011-07-01,2018-02-04,2379,2011-12-31
+10123006,DGA,dga_web,Valdivia (U. Austral),10,-39.8103,-73.2517,101.0,Rio Valdivia,1012.0,Rio Calle Calle,2000-01-01,2015-05-31,5111,-
+10123005,DGA,dga_web,Valdivia,10,-39.8164,-73.2428,101.0,Rio Valdivia,1012.0,Rio Calle Calle,1973-02-01,1973-10-31,242,-
+10103001,DGA,dga_web,Lago Neltume,260,-39.8189,-71.9872,101.0,Rio Valdivia,1010.0,Rio Valdivia Alto (Hasta Desague Lago Panguipulli),1976-12-01,1986-05-31,3467,-
+10123004,DGA,dga_web,Llancahue,70,-39.8561,-73.1786,101.0,Rio Valdivia,1012.0,Rio Calle Calle,1972-09-01,2018-02-04,16060,2016-10-31
+10100005,DGA,dga_web,Pirihueico En Pto. Fuy,600,-39.8719,-71.8889,101.0,Rio Valdivia,1010.0,Rio Valdivia Alto (Hasta Desague Lago Panguipulli),1999-11-01,2017-03-31,6116,-
+10100002,DGA,dga_web,Rio Fui En Desage Lago Pirihueico,600,-39.8747,-71.8897,101.0,Rio Valdivia,1010.0,Rio Valdivia Alto (Hasta Desague Lago Panguipulli),2003-03-01,2017-03-31,4674,-
+10100004,DGA,dga_web,Pirihueico En Pirihueico,600,-40.0225,-71.7219,101.0,Rio Valdivia,1010.0,Rio Valdivia Alto (Hasta Desague Lago Panguipulli),1939-05-01,2017-03-31,15270,-
+10312001,DGA,dga_web,El Llolly,225,-40.0672,-72.6169,103.0,Rio Bueno,1031.0,Rio Bueno Entre Lago Ranco Y Rio Pilmaiquen,1994-11-01,2017-03-31,8130,-
+10305002,DGA,dga_web,Caunahue,100,-40.1592,-72.2528,103.0,Rio Bueno,1030.0,Afluentes Lago Ranco,2011-10-01,2017-03-31,2009,-
+10141001,DGA,dga_web,Catamutun,150,-40.1658,-73.1689,101.0,Rio Valdivia,1014.0,R. Valdivia Bajo,1997-11-01,2017-03-31,7061,-
+10372001,DGA,dga_web,Venecia,900,-40.1933,-73.4311,103.0,Rio Bueno,1037.0,R.  Bueno Bajo,1997-11-01,2017-03-31,6939,-
+10304002,DGA,dga_web,Lago Maihue,100,-40.2172,-72.1492,103.0,Rio Bueno,1030.0,Afluentes Lago Ranco,1976-12-01,2017-03-31,14596,-
+10304001,DGA,dga_web,Rio Calcurrupe En Desembocadura,160,-40.25,-72.2667,103.0,Rio Bueno,1030.0,Afluentes Lago Ranco,2013-01-01,2017-02-27,911,-
+10313001,DGA,dga_web,Rio Llollelhue En La Union,20,-40.2667,-73.0833,103.0,Rio Bueno,1031.0,Rio Bueno Entre Lago Ranco Y Rio Pilmaiquen,2013-01-01,2018-02-04,1857,2013-03-07
+10371001,DGA,dga_web,Trinidad,40,-40.3142,-73.4333,103.0,Rio Bueno,1037.0,R.  Bueno Bajo,1997-10-01,2017-03-31,7077,-
+10307001,DGA,dga_web,Lago Ranco,100,-40.3172,-72.4692,103.0,Rio Bueno,1030.0,Afluentes Lago Ranco,1958-01-01,2017-03-31,21490,-
+10328001,DGA,dga_web,Rio Pilmaiquen En San Pablo,40,-40.3842,-73.0022,103.0,Rio Bueno,1032.0,Rio Pilmaiquen,2013-08-01,2017-03-31,1215,-
+10363003,DGA,dga_web,Rahue Alto,45,-40.5661,-73.1622,103.0,Rio Bueno,1036.0,R. Rahue Bajo,1976-08-01,1982-08-31,2131,-
+10363004,DGA,dga_web,Osorno,30,-40.5719,-73.1211,103.0,Rio Bueno,1036.0,R. Rahue Bajo,1983-01-01,1986-05-31,1247,-
+10401002,DGA,dga_web,Bahia Mansa,130,-40.5764,-73.7158,104.0,Cuencas E Islas Entre R.Bueno Y R. Puelo,1040.0,Costeras Entre Rio Bueno Y Rio Maullin,1997-10-01,2002-03-31,1643,-
+10360002,DGA,dga_web,Adolfo Matthei,55,-40.5883,-73.1069,103.0,Rio Bueno,1036.0,R. Rahue Bajo,1983-01-01,2018-02-04,12784,2017-04-01
+10344003,DGA,dga_web,Rio Rahue Antes Junta Rio Negro,40,-40.63,-73.1783,103.0,Rio Bueno,1034.0,Rio Rahue Hasta Antes Junta Rio Negro,2014-09-05,2015-08-13,317,2014-09-05
+10322002,DGA,dga_web,Anticura,350,-40.6553,-72.1844,103.0,Rio Bueno,1032.0,Rio Pilmaiquen,1997-10-01,2017-03-31,4224,-
+10356001,DGA,dga_web,Rio Negro En Chahuilco,45,-40.7136,-73.2278,103.0,Rio Bueno,1035.0,Rio Negro,2003-05-01,2018-02-04,5097,2003-05-23
+10323002,DGA,dga_web,Futacuhuin,195,-40.7231,-72.44,103.0,Rio Bueno,1032.0,Rio Pilmaiquen,1994-11-01,2017-03-31,7997,-
+10340002,DGA,dga_web,Rupanco,170,-40.7733,-72.6839,103.0,Rio Bueno,1034.0,Rio Rahue Hasta Antes Junta Rio Negro,1993-09-01,2017-03-31,8558,-
+10354001,DGA,dga_web,Rio Negro,50,-40.7828,-73.2139,103.0,Rio Bueno,1035.0,Rio Negro,1999-11-01,2004-06-30,1637,-
+10340001,DGA,dga_web,Rio Rahue En Desague Lago Rupanco,130,-40.7889,-72.6889,103.0,Rio Bueno,1034.0,Rio Rahue Hasta Antes Junta Rio Negro,2010-01-01,2018-02-04,2795,2012-09-01
+10355003,DGA,dga_web,Rio Forrahue En Rio Negro,52,-40.7956,-73.2144,103.0,Rio Bueno,1035.0,Rio Negro,2014-09-04,2018-02-04,1214,2014-10-01
+10355001,DGA,dga_web,Purranque,145,-40.9367,-73.1372,103.0,Rio Bueno,1035.0,Rio Negro,1999-01-01,2017-03-31,6499,-
+10410015,DGA,dga_web,Cascada,75,-41.0781,-72.6328,104.0,Cuencas E Islas R. Bueno - R. Puelo,1041.0,Rio Maullin,2015-05-13,2018-02-04,995,2017-04-01
+10410004,DGA,dga_web,Frutillar,142,-41.1267,-73.0611,104.0,Cuencas E Islas Entre R.Bueno Y R. Puelo,1041.0,Rio Maullin,1993-09-01,2017-03-31,8578,-
+10350001,DGA,dga_web,Fresia,148,-41.1533,-73.4111,103.0,Rio Bueno,1035.0,Rio Negro,1993-08-01,2017-03-31,8640,-
+10410005,DGA,dga_web,La Ensenada,62,-41.2269,-72.5681,104.0,Cuencas E Islas Entre R.Bueno Y R. Puelo,1041.0,Rio Maullin,1961-01-01,2006-11-30,13012,-
+10405004,DGA,dga_web,Llico Bajo,15,-41.2867,-73.8353,104.0,Cuencas E Islas Entre R.Bueno Y R. Puelo,1040.0,Costeras Entre Rio Bueno Y Rio Maullin,2000-02-01,2000-09-30,212,-
+10430001,DGA,dga_web,Lago Chapo,270,-41.4172,-72.5958,104.0,Cuencas E Islas Entre R.Bueno Y R. Puelo,1043.0,Rio Chamiza,1999-01-01,2015-05-31,5975,-
+10512000,DGA,dga_web,Llanada Grande,248,-41.4242,-71.9386,105.0,Rio Puelo,1051.0,R. Puelo Alto,2014-05-29,2018-02-04,1348,2017-04-01
+10430005,DGA,dga_web,Lago Chapo (Lm),290,-41.4297,-72.5764,104.0,Cuencas E Islas Entre R.Bueno Y R. Puelo,1043.0,Rio Chamiza,2012-02-14,2018-02-04,1835,2012-02-14
+10425001,DGA,dga_web,Puerto Montt,90,-41.46,-72.9378,104.0,Cuencas E Islas Entre R.Bueno Y R. Puelo,1042.0,Costeras E Islas Entre Rio Maullin Y Rio Chamiza,1973-02-01,2018-02-04,15278,2017-04-01
+10432004,DGA,dga_web,Pelluco (U. Austral),25,-41.4911,-72.8958,104.0,Cuencas E Islas Entre R.Bueno Y R. Puelo,1043.0,Rio Chamiza,2002-09-01,2006-11-30,1186,-
+10417001,DGA,dga_web,Maullin,5,-41.6153,-73.6,104.0,Cuencas E Islas Entre R.Bueno Y R. Puelo,1041.0,Rio Maullin,1986-08-01,2017-03-31,11112,-
+10520001,DGA,dga_web,Rio Puelo En Desague Lago Tagua Tagua,22,-41.6389,-72.1694,105.0,Rio Puelo,1052.0,R. Puelo Bajo,2012-09-01,2017-03-31,1608,-
+10523001,DGA,dga_web,Puelo,5,-41.6511,-72.3117,105.0,Rio Puelo,1052.0,R. Puelo Bajo,1996-12-01,2018-02-04,7222,2014-11-01
+10903003,DGA,dga_web,Ancud 1 (Dga),20,-41.8625,-73.8192,109.0,Islas Chiloe Y Circundantes,1090.0,Isla Chiloe,1992-03-01,2017-03-31,8512,-
+10900002,DGA,dga_web,Ancud 2 (Doh),9,-41.8792,-73.7964,109.0,Islas Chiloe Y Circundantes,1090.0,Isla Chiloe,2014-07-08,2018-02-01,1257,2014-07-08
+10610001,DGA,dga_web,Hornopiren,25,-41.9383,-72.435,106.0,Costeras Entre R.Puelo Y R.Yelcho,1061.0,Costeras Entre Pta Tentelhue Y Rio Negro (Incl.),1997-04-01,2018-02-04,6212,2016-08-01
+10904005,DGA,dga_web,Chepu,20,-42.0464,-73.9742,109.0,Islas Chiloe Y Circundantes,1090.0,Isla Chiloe,1999-01-01,2017-03-31,6623,-
+10900001,DGA,dga_web,Quemchi,5,-42.1408,-73.4731,109.0,Islas Chiloe Y Circundantes,1090.0,Isla Chiloe,1999-11-01,2017-03-31,6356,-
+10901002,DGA,dga_web,Castro 1 (Dga),50,-42.4581,-73.7744,109.0,Islas Chiloe Y Circundantes,1090.0,Isla Chiloe,1992-03-01,2009-04-30,5099,-
+10901004,DGA,dga_web,Castro 2 (Doh),20,-42.4794,-73.7742,109.0,Islas Chiloe Y Circundantes,1090.0,Isla Chiloe,2014-09-09,2018-02-04,966,2014-09-09
+10906004,DGA,dga_web,Cucao,12,-42.6186,-74.1081,109.0,Islas Chiloe Y Circundantes,1090.0,Isla Chiloe,1996-12-01,2017-03-31,7388,-
+10901003,DGA,dga_web,Chonchi,30,-42.6228,-73.7728,109.0,Islas Chiloe Y Circundantes,1090.0,Isla Chiloe,2010-05-01,2017-02-28,2459,-
+10683001,DGA,dga_web,Chaiten,10,-42.9147,-72.7108,106.0,Costeras Entre R.Puelo Y R.Yelcho,1068.0,Costeras Entre R. Negro (Incl.) Y R. Yelcho,1997-12-01,2008-03-31,3666,-
+10683002,DGA,dga_web,Rio Blanco En Chaiten,10,-42.9183,-72.7039,106.0,Costeras Entre R.Puelo Y R.Yelcho,1068.0,Costeras Entre R. Negro (Incl.) Y R. Yelcho,2014-12-01,2015-08-17,233,2015-06-23
+10902002,DGA,dga_web,Quellon,50,-43.1086,-73.6119,109.0,Islas Chiloe Y Circundantes,1090.0,Isla Chiloe,1992-04-01,2017-03-31,9089,-
+10710001,DGA,dga_web,Puerto. Cardenas,55,-43.175,-72.4308,107.0,Rio Yelcho,1071.0,Rio Yelcho,2000-07-01,2016-06-30,5231,-
+10701001,DGA,dga_web,Lago Espolon,350,-43.2158,-71.9306,107.0,Rio Yelcho,1070.0,Rio Futaleufu,2000-07-01,2017-03-31,5951,-
+11023002,DGA,dga_web,Villa Santa Lucia,327,-43.4128,-72.3658,110.0,Rio Palena Y Costeras Limite Decima Region,1102.0,Rio Palena Entre Frontera Y Rio Rosselot,2014-03-22,2018-02-04,1362,2014-03-22
+10704002,DGA,dga_web,Rio Futaleufu Ante Junta Rio Malito,42,-43.4492,-72.1075,107.0,Rio Yelcho,1070.0,Rio Futaleufu,2014-01-01,2017-03-31,1005,-
+11023001,DGA,dga_web,Valle Rio Frio,215,-43.4683,-72.3536,110.0,Rio Palena Y Costeras Limite Decima Region,1102.0,Rio Palena Entre Frontera Y Rio Rosselot,2000-07-01,2017-03-31,6070,-
+10704001,DGA,dga_web,Palena,275,-43.6175,-71.7839,107.0,Rio Yelcho,1070.0,Rio Futaleufu,2000-07-01,2017-03-31,5975,-
+11043001,DGA,dga_web,Marin Balmaceda,10,-43.7717,-72.9547,110.0,Rio Palena Y Costeras Limite Decima Region,1104.0,R. Palena Bajo,1993-08-01,2017-03-21,6586,-
+11041001,DGA,dga_web,La Junta,45,-43.9708,-72.4056,110.0,Rio Palena Y Costeras Limite Decima Region,1104.0,R. Palena Bajo,1981-01-01,2018-02-04,11821,2015-05-26
+11034001,DGA,dga_web,Bordalit,90,-44.0483,-72.3161,110.0,Rio Palena Y Costeras Limite Decima Region,1103.0,Rio Rosselot,1993-12-01,2012-11-30,6522,-
+11033001,DGA,dga_web,Villa Alegre (L.E.),150,-44.0669,-72.2008,110.0,Rio Palena Y Costeras Limite Decima Region,1103.0,Rio Rosselot,1993-10-01,2001-11-30,2919,-
+11031001,DGA,dga_web,Lago Verde,350,-44.2394,-71.8461,110.0,Rio Palena Y Costeras Limite Decima Region,1103.0,Rio Rosselot,1993-05-01,2012-08-31,4842,-
+11120001,DGA,dga_web,Puerto Puyuhuapi,10,-44.3228,-72.5597,111.0,Costeras E Islas Entre R.Palena Y R.Aisen,1112.0,Costeras Entre Rio Marchant Y Seno Ventisquero,1981-01-01,2017-03-31,11958,-
+11140001,DGA,dga_web,Rio Cisnes,740,-44.4975,-71.3064,111.0,Costeras E Islas Entre R.Palena Y R.Aisen,1114.0,Rio Cisnes,1981-01-01,2017-03-31,10884,-
+11143003,DGA,dga_web,La Tapera,550,-44.6472,-71.6736,111.0,Costeras E Islas Entre R.Palena Y R.Aisen,1114.0,Rio Cisnes,1981-01-01,2003-05-31,6815,-
+11144002,DGA,dga_web,Cisnes Medio,180,-44.6653,-72.2661,111.0,Costeras E Islas Entre R.Palena Y R.Aisen,1114.0,Rio Cisnes,1981-02-01,2017-03-31,12401,-
+11147003,DGA,dga_web,Puerto Cisnes,10,-44.7278,-72.6814,111.0,Costeras E Islas Entre R.Palena Y R.Aisen,1114.0,Rio Cisnes,1955-12-21,2017-03-31,18319,-
+11180000,DGA,dga_web,Islas Huichas,6,-45.1553,-73.5164,111.0,Costeras E Islas Entre R.Palena Y R.Aisen,1118.0,Islas Al Este Canal Moraleda,2011-01-01,2018-02-04,2352,2012-04-11
+11304001,DGA,dga_web,Villa Maihuales,150,-45.1733,-72.1478,113.0,Rio Aisen,1130.0,Rio Maniguales,1986-01-01,2017-03-31,10277,-
+11300001,DGA,dga_web,Estancia Bao Nuevo,700,-45.2669,-71.5292,113.0,Rio Aisen,1130.0,Rio Maniguales,2000-11-23,2017-03-31,5904,-
+11302002,DGA,dga_web,Irehuao,535,-45.2706,-71.7092,113.0,Rio Aisen,1130.0,Rio Maniguales,1993-07-01,2017-03-31,6654,-
+11307002,DGA,dga_web,Villa Ortega,550,-45.3719,-71.9822,113.0,Rio Aisen,1130.0,Rio Maniguales,1980-12-01,2017-03-31,10068,-
+11342002,DGA,dga_web,Puerto Aysen,10,-45.4006,-72.7,113.0,Rio Aisen,1134.0,Rio Aisen Entre Rio Riesco Y Desembocadura,1931-02-01,2009-07-31,18833,-
+11318002,DGA,dga_web,El Balseo,25,-45.4036,-72.4878,113.0,Rio Aisen,1131.0,Rio Simpson,1980-12-01,2017-03-31,11924,-
+11342001,DGA,dga_web,Rio Aysen En Puerto Aysen,32,-45.4058,-72.6231,113.0,Rio Aisen,1134.0,Rio Aisen Entre Rio Riesco Y Desembocadura,2002-05-01,2018-02-04,5198,2016-02-01
+11400001,DGA,dga_web,Puerto Chacabuco,20,-45.4644,-72.8178,114.0,Costeras E Islas Entre R Aisen Y R Baker Y Canal Gral. Martinez,1140.0,Costeras Entre R.  Aisen Y R.  Huemules (Incl.),1965-06-01,2017-03-31,15160,-
+11316004,DGA,dga_web,Coyhaique Alto,730,-45.4803,-71.6044,113.0,Rio Aisen,1131.0,Rio Simpson,1962-01-01,2018-02-04,15804,2015-05-01
+11317005,DGA,dga_web,Coyhaique Conaf,340,-45.5511,-72.0589,113.0,Rio Aisen,1131.0,Rio Simpson,2002-05-03,2017-03-31,5329,-
+11317001,DGA,dga_web,Rio Simpson Bajo Junta Coyhaique,210,-45.5517,-72.0681,113.0,Rio Aisen,1131.0,Rio Simpson,2005-11-11,2018-02-04,4331,2005-11-11
+11316003,DGA,dga_web,Coyhaique (Escuela Agricola),343,-45.5739,-72.0286,113.0,Rio Aisen,1131.0,Rio Simpson,1984-01-01,2018-01-03,11289,2013-03-27
+11310003,DGA,dga_web,Rio Blanco Chico Antes Junta Oscuro,515,-45.8853,-71.7211,113.0,Rio Aisen,1131.0,Rio Simpson,2010-12-01,2017-03-31,2249,-
+11503001,DGA,dga_web,Villa Cerro Castillo,345,-46.1206,-72.1539,115.0,Rio Baker,1150.0,R. Ibanez,1992-10-01,2017-03-31,7792,-
+11505001,DGA,dga_web,Rio Ibaez En Desembocadura,220,-46.2692,-71.9908,115.0,Rio Baker,1150.0,R. Ibanez,2005-12-01,2018-02-04,3734,2006-09-18
+11511001,DGA,dga_web,Puerto Ibaez,215,-46.2892,-71.9336,115.0,Rio Baker,1151.0,Vertiente N.  Lago J. Miguel Carrera (Exc.  R. Iba$?Ez),1961-12-14,2009-04-13,10423,-
+11513001,DGA,dga_web,Bahia Murta,240,-46.4619,-72.6686,115.0,Rio Baker,1151.0,Vertiente N.  Lago J. Miguel Carrera (Exc.  R. Iba$?Ez),1993-08-01,2017-03-31,8148,-
+11521005,DGA,dga_web,Lago General Carrera Fachinal,18,-46.5425,-72.2267,115.0,Rio Baker,1152.0,Vertiente Sur Lago General Carrera,2015-12-01,2018-02-04,768,2015-12-01
+11521002,DGA,dga_web,Chile Chico,215,-46.5436,-71.7089,115.0,Rio Baker,1152.0,Vertiente Sur Lago Jose Miguel Carrera,1963-02-06,2017-03-31,8633,-
+11440000,DGA,dga_web,Glaciar San Rafael,8,-46.6433,-73.8575,114.0,Costeras E Islas Entre R Aisen Y R Baker Y Canal Gral. Martinez,1144.0,Costera Y Ventisqueros Entre R.  Exploradores Y Vent. Benito,2009-11-01,2018-02-04,1286,2014-12-31
+11523002,DGA,dga_web,Lago General Carrera En Puerto Guadal,205,-46.8411,-72.6975,115.0,Rio Baker,1152.0,Vertiente Sur Lago General Carrera,2015-12-01,2017-03-31,481,-
+11523001,DGA,dga_web,Puerto Guadal,210,-46.8428,-72.7008,115.0,Rio Baker,1152.0,Vertiente Sur Lago Jose Miguel Carrera,1993-12-08,2016-03-31,5722,-
+11517002,DGA,dga_web,Lago General Carrera En Desage,210,-46.8456,-72.8033,115.0,Rio Baker,1151.0,Vertiente N.  Lago J. Miguel Carrera (Exc.  R. Iba$?Ez),2015-02-01,2017-03-31,783,-
+11533001,DGA,dga_web,Estancia Valle Chacabuco,343,-47.1164,-72.4844,115.0,Rio Baker,1153.0,R. Baker Entre Desague L. J. M. Carrera Y R. De La Colonia,1993-05-01,2017-03-31,7748,-
+11532000,DGA,dga_web,Rio Nef Antes Junta Estero El Revalse,281,-47.1378,-73.0869,115.0,Rio Baker,1153.0,R. Baker Entre Desague L. J. M. Carrera Y R. De La Colonia,2010-12-01,2018-02-04,2344,2012-06-20
+11536004,DGA,dga_web,Rio Baker En Angostura Chacabuco,160,-47.1414,-72.7258,115.0,Rio Baker,1153.0,R. Baker Entre Desague L. J. M. Carrera Y R. De La Colonia,2003-03-15,2018-02-04,4893,2003-03-15
+11540000,DGA,dga_web,Lago Cachet 2 En Glaciar Colonia,427,-47.1981,-73.25,115.0,Rio Baker,1154.0,R. Baker Entre Arriba R. De La Colonia Y Desembocadura,2009-08-12,2018-02-04,2297,2012-06-30
+11536003,DGA,dga_web,Aerodromo Cochrane,200,-47.2442,-72.5831,115.0,Rio Baker,1153.0,R. Baker Entre Desague L. J. M. Carrera Y R. De La Colonia,1997-10-01,1998-03-31,182,-
+11536001,DGA,dga_web,Rio Cochrane En Cochrane,140,-47.2517,-72.5644,115.0,Rio Baker,1153.0,R. Baker Entre Desague L. J. M. Carrera Y R. De La Colonia,2004-11-24,2018-02-04,4503,2004-11-24
+11541000,DGA,dga_web,Rio Colonia En Nacimiento,146,-47.3392,-73.1147,115.0,Rio Baker,1154.0,R. Baker Entre Arriba R. De La Colonia Y Desembocadura,2009-12-01,2018-02-04,2468,2012-02-01
+11546001,DGA,dga_web,Caleta Tortel,10,-47.7997,-73.5358,115.0,Rio Baker,1154.0,R. Baker Entre Arriba R. De La Colonia Y Desembocadura,2002-08-01,2018-02-04,4615,2013-10-23
+11711000,DGA,dga_web,Rio Pascua Ante Junta Rio Quetru,20,-48.1592,-73.0889,117.0,Rio Pascua,1171.0,Rio Pascua,2003-02-07,2018-02-04,5231,2003-02-07
+11700001,DGA,dga_web,Rio Mayer Reten,450,-48.2083,-72.3228,117.0,Rio Pascua,1170.0,Lago O'Higgins,1993-04-17,2004-08-31,3279,-
+11701002,DGA,dga_web,Villa Ohiggins,270,-48.4692,-72.5589,117.0,Rio Pascua,1170.0,Lago O'Higgins,1993-10-01,2008-12-24,4904,-
+11702000,DGA,dga_web,Lago Ohiggins En Villa Ohiggins,300,-48.5169,-72.5953,117.0,Rio Pascua,1170.0,Lago O'Higgins,2003-02-07,2018-02-04,5061,2003-02-07
+12000000,DGA,dga_web,Glaciar Tempano,20,-48.8347,-74.1831,120.0,Costeras Entre Limite Region Y Seno Andrew,1200.0,Costeras Del Canal Mesier Entre Limite Region Y Peninsula Exmouth,2013-08-11,2018-01-20,1427,2013-08-11
+11704001,DGA,dga_web,Candelario Mancilla,300,-48.8775,-72.7394,117.0,Rio Pascua,1170.0,Lago O'Higgins,1967-04-01,2018-02-04,6518,2017-01-02
+11706000,DGA,dga_web,Glaciar Ohiggins,5,-48.9272,-73.1172,117.0,Rio Pascua,1170.0,Lago O'Higgins,2009-12-01,2018-02-04,1704,2011-12-31
+12125002,DGA,dga_web,Rio Punta Eva En Puerto Eden,10,-49.1103,-74.4119,121.0,Islas Entre Limite Region Y Canal Ancho Y Estrecho De La Concepcion,1212.0,Isla Wellington E Isla Entre Esta Y El Oriente,2006-04-04,2011-11-30,1648,-
+12125001,DGA,dga_web,Puerto Eden,10,-49.1228,-74.4069,121.0,Islas Entre Limite Region Y Canal Ancho Y Estrecho De La Concepcion,1212.0,Isla Wellington E Isla Entre Esta Y El Oriente,1997-11-01,2011-11-30,3858,-
+12280004,DGA,dga_web,Lago Dickson,200,-50.8228,-73.1125,122.0,Costeras Entre Seno Andrew Y R. Hollemberg E Islas Al Oriente,1228.0,Rio Serrano,2003-11-17,2018-02-04,4412,2003-11-17
+12280006,DGA,dga_web,Lago Paine,440,-50.8414,-72.9047,122.0,Costeras Entre Seno Andrew Y R. Hollemberg E Islas Al Oriente,1228.0,Rio Serrano,2009-06-01,2018-02-04,2580,2012-01-05
+12283004,DGA,dga_web,Laguna Azul,240,-50.8789,-72.7328,122.0,Costeras Entre Seno Andrew Y R. Hollemberg E Islas Al Oriente,1228.0,Rio Serrano,1997-07-01,2003-03-16,1363,-
+12283001,DGA,dga_web,Cerro Guido,230,-50.8986,-72.3314,122.0,Costeras Entre Seno Andrew Y R. Hollemberg E Islas Al Oriente,1228.0,Rio Serrano,1984-01-01,2018-02-04,11997,2012-05-01
+12280002,DGA,dga_web,Rio Paine En Parque Nacional 2,90,-50.9603,-72.7925,122.0,Costeras Entre Seno Andrew Y R. Hollemberg E Islas Al Oriente,1228.0,Rio Serrano,2007-02-15,2018-02-04,3745,2007-02-15
+12284009,DGA,dga_web,Lago Sarmiento,110,-51.0108,-72.7106,122.0,Costeras Entre Seno Andrew Y R. Hollemberg E Islas Al Oriente,1228.0,Rio Serrano,1964-03-01,2018-02-04,7018,2012-07-09
+12284006,DGA,dga_web,Rio Las Chinas En Cerro Guido,75,-51.0508,-72.5169,122.0,Costeras Entre Seno Andrew Y R. Hollemberg E Islas Al Oriente,1228.0,Rio Serrano,2004-12-09,2018-02-04,4731,2006-02-01
+12283003,DGA,dga_web,Lago Pehoe,40,-51.0783,-72.9933,122.0,Costeras Entre Seno Andrew Y R. Hollemberg E Islas Al Oriente,1228.0,Rio Serrano,1964-03-01,2018-02-04,3434,2012-06-01
+12287002,DGA,dga_web,Lago Grey,50,-51.1114,-73.13,122.0,Costeras Entre Seno Andrew Y R. Hollemberg E Islas Al Oriente,1228.0,Rio Serrano,2011-09-24,2018-02-04,2266,2012-06-05
+12288000,DGA,dga_web,Glaciar Tindall,345,-51.1158,-73.2825,122.0,Costeras Entre Seno Andrew Y R. Hollemberg E Islas Al Oriente,1228.0,Rio Serrano,2011-02-10,2018-02-04,2066,2012-02-01
+12286001,DGA,dga_web,Torres Del Paine,25,-51.1842,-72.9669,122.0,Costeras Entre Seno Andrew Y R. Hollemberg E Islas Al Oriente,1228.0,Rio Serrano,1982-05-01,2018-02-04,12992,2014-03-13
+12283002,DGA,dga_web,Estancia Rio Paine,150,-51.2361,-72.9022,122.0,Costeras Entre Seno Andrew Y R. Hollemberg E Islas Al Oriente,1228.0,Rio Serrano,1970-05-01,1979-12-31,2619,-
+12288003,DGA,dga_web,Rio Tindall En Desembocadura,18,-51.2564,-73.1561,122.0,Costeras Entre Seno Andrew Y R. Hollemberg E Islas Al Oriente,1228.0,Rio Serrano,2014-11-01,2016-12-31,611,-
+12284010,DGA,dga_web,Cerro Castillo,130,-51.26,-72.3272,122.0,Costeras Entre Seno Andrew Y R. Hollemberg E Islas Al Oriente,1228.0,Rio Serrano,1980-02-01,2018-02-04,13132,2013-08-29
+12286002,DGA,dga_web,Rio Rincon En Ruta Y-290,36,-51.3139,-72.8292,122.0,Costeras Entre Seno Andrew Y R. Hollemberg E Islas Al Oriente,1228.0,Rio Serrano,2010-01-01,2018-02-04,2701,2012-07-17
+12289001,DGA,dga_web,Rio Serrano En Desembocadura,25,-51.3328,-73.1092,122.0,Costeras Entre Seno Andrew Y R. Hollemberg E Islas Al Oriente,1228.0,Rio Serrano,2007-02-20,2018-02-04,3547,2017-04-01
+12273000,DGA,dga_web,Glaciar Balmaceda,0,-51.4197,-73.1,122.0,Costeras Entre Seno Andrew Y R. Hollemberg E Islas Al Oriente,1227.0,Costeras Entre Peninsula Roca Y Rio Serrano,2012-06-01,2014-05-31,91,-
+12400001,DGA,dga_web,Casas Viejas,230,-51.6975,-72.3297,124.0,Costeras E Islas Entre R Hollemberg Golfo Alte. Laguna Blanca,1240.0,Costeras Del Golfo Almirante Montt Y Fiordo Obstruccion,1980-02-01,2017-03-31,12845,-
+12293001,DGA,dga_web,Puerto Natales,45,-51.7336,-72.4781,122.0,Costeras Entre Seno Andrew Y R. Hollemberg E Islas Al Oriente,1229.0,Costeras Entre Rio Serrano Y Rio Hollenberg,1986-01-01,2018-02-04,11428,2017-04-01
+12400003,DGA,dga_web,Rio Tranquilo En Ruta N 9,30,-51.8233,-72.1592,124.0,Costeras E Islas Entre R Hollemberg Golfo Alte. Laguna Blanca,1240.0,Costeras Del Golfo Almirante Montt Y Fiordo Obstruccion,2008-01-01,2017-03-31,3302,-
+12600001,DGA,dga_web,Rio Rubens En Ruta N 9,180,-52.03,-71.9414,126.0,Vertiente Del Atlantico,1260.0,Vertiente Del Atlantico,2006-03-01,2018-02-04,4247,2012-07-31
+12640001,DGA,dga_web,Teniente Merino,160,-52.0342,-70.7333,126.0,Vertiente Del Atlantico,1264.0,Rio Gallegos Chico,1984-01-01,2017-03-31,11771,-
+12400002,DGA,dga_web,Rubens En Ruta N. 9,190,-52.0389,-71.9419,124.0,Costeras E Islas Entre R Hollemberg Golfo Alte. Laguna Blanca,1240.0,Costeras Del Golfo Almirante Montt Y Fiordo Obstruccion,1990-01-01,2006-07-31,5488,-
+12622001,DGA,dga_web,Rio Penitente En Morro Chico,170,-52.0511,-71.4247,126.0,Vertiente Del Atlantico,1262.0,Rio Penitente,2006-12-16,2018-01-05,3771,2006-12-16
+12402000,DGA,dga_web,Lago Anibal Pinto,51,-52.0911,-72.4361,124.0,Costeras E Islas Entre R Hollemberg Golfo Alte. Laguna Blanca,1240.0,Costeras Del Golfo Almirante Montt Y Fiordo Obstruccion,2010-05-10,2018-02-04,2394,2013-12-28
+12680001,DGA,dga_web,Monte Aymond,160,-52.1644,-69.6078,126.0,Vertiente Del Atlantico,1268.0,Costeras Entre Canadon Seco Y Canadon Grande,1995-10-01,2018-02-04,7033,2014-01-01
+12620000,DGA,dga_web,Penitente Alto,290,-52.2092,-71.6806,126.0,Vertiente Del Atlantico,1262.0,Rio Penitente,2010-01-01,2018-02-04,2786,2014-06-01
+12403000,DGA,dga_web,Seno Obstruccin,4,-52.2094,-72.4783,124.0,Costeras E Islas Entre R Hollemberg Golfo Alte. Laguna Blanca,1240.0,Costeras Del Golfo Almirante Montt Y Fiordo Obstruccion,2010-01-01,2018-02-04,2805,2012-11-24
+12540001,DGA,dga_web,Ohiggins Villa,70,-52.3161,-69.6881,125.0,Costeras Entre Lag.  Blanca(Inc) Seno Otway Canal Jeronimo Y Magallanes,1254.0,Costeras Entre Chorrillo Kimiri Aike (Incl.) Y Canadon Grande (Incl.),1993-09-01,1999-03-31,1798,-
+12622002,DGA,dga_web,Villa Tehuelche,190,-52.4414,-71.4022,126.0,Vertiente Del Atlantico,1262.0,Rio Penitente,1980-02-01,2018-02-04,13502,2015-02-01
+12803000,DGA,dga_web,Bahia Lomas,10,-52.5472,-69.3269,128.0,Tierra Del Fuego,1280.0,Costeras Del Estrecho Magallanes Entre Frontera Y Cabo Monmouth,2011-02-01,2017-03-30,1956,-
+12452002,DGA,dga_web,Rio Perez,5,-52.5486,-71.9603,124.0,Costeras E Islas Entre R Hollemberg Golfo Alte. Laguna Blanca,1245.0,Costeras Continentales Del Seno Skyring,1989-12-01,2015-06-03,7902,-
+12452001,DGA,dga_web,Rio Perez En Desembocadura,20,-52.5492,-71.9747,124.0,Costeras E Islas Entre R Hollemberg Golfo Alte. Laguna Blanca,1245.0,Costeras Continentales Del Seno Skyring,2010-04-16,2018-02-04,2852,2013-12-19
+12530001,DGA,dga_web,San Gregorio,3,-52.5664,-70.0706,125.0,Costeras Entre Lag.  Blanca(Inc) Seno Otway Canal Jeronimo Y Magallanes,1253.0,Costeras Entre R. Santa Susana Y Chorrillo Kimiri Aike,1991-11-01,2018-02-04,9313,2013-08-01
+12454001,DGA,dga_web,Rio Verde,10,-52.6042,-71.5019,124.0,Costeras E Islas Entre R Hollemberg Golfo Alte. Laguna Blanca,1245.0,Costeras Continentales Del Seno Skyring,1993-02-01,2018-02-04,9012,2012-04-30
+12440001,DGA,dga_web,Rocallosas,10,-52.6514,-71.9631,124.0,Costeras E Islas Entre R Hollemberg Golfo Alte. Laguna Blanca,1244.0,Isla Riesco,1993-02-01,2017-03-31,4614,-
+12802001,DGA,dga_web,Rio Side En Cerro Sombrero,10,-52.7681,-69.2772,128.0,Tierra Del Fuego,1280.0,Costeras Del Estrecho Magallanes Entre Frontera Y Cabo Monmouth,2010-04-17,2017-11-29,2784,2013-12-19
+12802002,DGA,dga_web,Cerro Sombrero,30,-52.7764,-69.2928,128.0,Tierra Del Fuego,1280.0,Costeras Del Estrecho Magallanes Entre Frontera Y Cabo Monmouth,1984-01-01,2015-03-31,10540,-
+12449002,DGA,dga_web,Cordillera Riesco,456,-52.8425,-71.7642,124.0,Costeras E Islas Entre R Hollemberg Golfo Alte. Laguna Blanca,1244.0,Isla Riesco,2011-01-01,2018-02-04,2591,2012-01-21
+12806004,DGA,dga_web,Bahia San Felipe,10,-52.8697,-69.9319,128.0,Tierra Del Fuego,1280.0,Costeras Del Estrecho Magallanes Entre Frontera Y Cabo Monmouth,1973-11-01,2018-02-04,14837,2014-06-12
+12449001,DGA,dga_web,Isla Riesco,10,-52.8819,-71.5706,124.0,Costeras E Islas Entre R Hollemberg Golfo Alte. Laguna Blanca,1244.0,Isla Riesco,1990-03-01,2017-03-31,9595,-
+12448001,DGA,dga_web,Rio Grande En Isla Riesco,5,-52.9964,-71.8706,124.0,Costeras E Islas Entre R Hollemberg Golfo Alte. Laguna Blanca,1244.0,Isla Riesco,2006-08-01,2011-04-19,1206,-
+12587000,DGA,dga_web,Bitsch Alto,328,-53.0919,-71.0025,125.0,Costeras Entre Lag.  Blanca(Inc) Seno Otway Canal Jeronimo Y Magallanes,1258.0,Costeras E Islas Orientales De La Peninsula Brunswick,2009-06-09,2017-12-25,2752,2012-05-18
+12586004,DGA,dga_web,Punta Arenas,5,-53.1233,-70.8772,125.0,Costeras Entre Lag.  Blanca(Inc) Seno Otway Canal Jeronimo Y Magallanes,1258.0,Costeras E Islas Orientales De La Peninsula Brunswick,1973-11-01,2018-02-04,16166,2017-04-01
+12586009,DGA,dga_web,Canal De Trasvase Estero Llau-Llau,80,-53.125,-70.9358,125.0,Costeras Entre Lag.  Blanca(Inc) Seno Otway Canal Jeronimo Y Magallanes,1258.0,Costeras E Islas Orientales De La Peninsula Brunswick,2004-12-12,2018-02-04,4779,2004-12-12
+12586001,DGA,dga_web,Rio Las Minas En Bt. Sendos,185,-53.1381,-70.9875,125.0,Costeras Entre Lag.  Blanca(Inc) Seno Otway Canal Jeronimo Y Magallanes,1258.0,Costeras E Islas Orientales De La Peninsula Brunswick,2000-01-03,2018-02-04,6156,2003-05-07
+12586010,DGA,dga_web,Magdalena Giglio 2,432,-53.1397,-71.0561,125.0,Costeras Entre Lag.  Blanca(Inc) Seno Otway Canal Jeronimo Y Magallanes,1258.0,Costeras E Islas Orientales De La Peninsula Brunswick,2012-11-05,2018-02-04,1780,2012-11-05
+12586007,DGA,dga_web,Las Minas,155,-53.1442,-70.9831,125.0,Costeras Entre Lag.  Blanca(Inc) Seno Otway Canal Jeronimo Y Magallanes,1258.0,Costeras E Islas Orientales De La Peninsula Brunswick,1995-10-01,2017-03-31,7097,-
+12586005,DGA,dga_web,Laguna Lynch,140,-53.1444,-70.9831,125.0,Costeras Entre Lag.  Blanca(Inc) Seno Otway Canal Jeronimo Y Magallanes,1258.0,Costeras E Islas Orientales De La Peninsula Brunswick,1979-12-01,2017-03-31,12717,-
+12586006,DGA,dga_web,Cerro Mirador,580,-53.1842,-71.0833,125.0,Costeras Entre Lag.  Blanca(Inc) Seno Otway Canal Jeronimo Y Magallanes,1258.0,Costeras E Islas Orientales De La Peninsula Brunswick,2009-06-01,2018-02-04,2925,2015-02-16
+12585003,DGA,dga_web,Leadura Alta,400,-53.2325,-71.1178,125.0,Costeras Entre Lag.  Blanca(Inc) Seno Otway Canal Jeronimo Y Magallanes,1258.0,Costeras E Islas Orientales De La Peninsula Brunswick,2009-06-09,2016-09-04,1863,2012-04-12
+12809001,DGA,dga_web,Porvenir,35,-53.2908,-70.37,128.0,Tierra Del Fuego,1280.0,Costeras Del Estrecho Magallanes Entre Frontera Y Cabo Monmouth,1990-02-01,2017-01-31,9803,2013-07-19
+12815001,DGA,dga_web,Onaisin En Maria Cristina,30,-53.3056,-69.2675,128.0,Tierra Del Fuego,1281.0,Costeras Bahia Inutil (Entre Cabo Monmouth Y Cabo Nose),1990-01-01,2018-02-04,10196,2013-02-01
+12863001,DGA,dga_web,San Sebastian,20,-53.3217,-68.6614,128.0,Tierra Del Fuego,1286.0,Cuencas Atlanticas Hasta Frontera Entre Arroyo Alfa (Incl.) Y Afluentes R. Grande (Arg.),1990-01-01,2018-02-04,9707,2013-10-01
+12582003,DGA,dga_web,Lago Parrillar,320,-53.4025,-71.2497,125.0,Costeras Entre Lag.  Blanca(Inc) Seno Otway Canal Jeronimo Y Magallanes,1258.0,Costeras E Islas Orientales De La Peninsula Brunswick,1990-01-01,2018-02-04,9613,2012-10-31
+12583001,DGA,dga_web,La Baglina,10,-53.6208,-70.9242,125.0,Costeras Entre Lag.  Blanca(Inc) Seno Otway Canal Jeronimo Y Magallanes,1258.0,Costeras E Islas Orientales De La Peninsula Brunswick,1964-04-01,1975-06-30,2559,-
+12816001,DGA,dga_web,Cameron,10,-53.6369,-69.6506,128.0,Tierra Del Fuego,1281.0,Costeras Bahia Inutil (Entre Cabo Monmouth Y Cabo Nose),1993-04-01,2018-02-04,8724,2012-02-02
+12582001,DGA,dga_web,Rio San Juan En Desembocadura,8,-53.65,-70.9667,125.0,Costeras Entre Lag.  Blanca(Inc) Seno Otway Canal Jeronimo Y Magallanes,1258.0,Costeras E Islas Orientales De La Peninsula Brunswick,2007-02-14,2017-11-13,3500,2007-02-14
+12582002,DGA,dga_web,San Juan,5,-53.6514,-70.9578,125.0,Costeras Entre Lag.  Blanca(Inc) Seno Otway Canal Jeronimo Y Magallanes,1258.0,Costeras E Islas Orientales De La Peninsula Brunswick,1990-01-01,2017-03-31,8458,-
+12873001,DGA,dga_web,Russfin,225,-53.7594,-69.1892,128.0,Tierra Del Fuego,1287.0,Afluentes Rio Grande Y Cuencas Cerradas,1993-11-01,2018-02-04,8239,2017-04-01
+12820001,DGA,dga_web,Rio Caleta En Tierra Del Fuego,280,-53.8586,-69.9989,128.0,Tierra Del Fuego,1282.0,Costeras Entre Cabo Nose Y R. Azopardo (Incl.),2006-12-15,2018-02-04,4023,2006-12-15
+12820002,DGA,dga_web,Puerto Yartou,5,-53.8853,-70.1408,128.0,Tierra Del Fuego,1282.0,Costeras Entre Cabo Nose Y R. Azopardo (Incl.),2011-01-01,2017-01-11,1806,-
+12876001,DGA,dga_web,Rio Grande En Tierra Del Fuego,100,-53.8928,-68.8844,128.0,Tierra Del Fuego,1287.0,Afluentes Rio Grande Y Cuencas Cerradas,2006-12-15,2018-02-04,4059,2006-12-15
+12876002,DGA,dga_web,Seccion Rio Grande,130,-53.8967,-68.9183,128.0,Tierra Del Fuego,1287.0,Afluentes Rio Grande Y Cuencas Cerradas,1990-02-08,2011-12-31,7531,-
+12821000,DGA,dga_web,Rio Condor,10,-53.9964,-70.0781,128.0,Tierra Del Fuego,1282.0,Costeras Entre Cabo Nose Y R. Azopardo (Incl.),2011-11-01,2018-02-04,2153,2012-02-03
+12876003,DGA,dga_web,Pampa Huanaco,150,-54.0497,-68.7997,128.0,Tierra Del Fuego,1287.0,Afluentes Rio Grande Y Cuencas Cerradas,1993-03-01,2018-02-04,8931,2017-04-01
+12875000,DGA,dga_web,Lago Blanco,120,-54.0533,-68.9578,128.0,Tierra Del Fuego,1287.0,Afluentes Rio Grande Y Cuencas Cerradas,2008-01-01,2017-03-31,3284,-
+12879000,DGA,dga_web,Lago Deseado,170,-54.3378,-68.8242,128.0,Tierra Del Fuego,1287.0,Afluentes Rio Grande Y Cuencas Cerradas,2011-01-01,2018-02-04,2525,2014-05-28
+12825002,DGA,dga_web,Rio Azopardo En Desembocadura,32,-54.5028,-68.8244,128.0,Tierra Del Fuego,1282.0,Costeras Entre Cabo Nose Y R. Azopardo (Incl.),2006-12-01,2017-03-31,3763,-
+12878002,DGA,dga_web,Bahia Yendegaia,10,-54.8817,-68.6825,128.0,Tierra Del Fuego,1287.0,Afluentes Rio Grande Y Cuencas Cerradas,2009-10-01,2018-02-04,521,2016-10-31
+12930004,DGA,dga_web,Puerto Navarino,10,-54.9256,-68.3236,129.0,Islas Al Sur Del Canal Beagle Y Territorio Antartico,1293.0,Islas Navarino Y Gable,2011-01-01,2018-02-04,2542,2013-04-01
+12930001,DGA,dga_web,Rio Robalo En Puerto Williams,80,-54.9469,-67.6392,129.0,Islas Al Sur Del Canal Beagle Y Territorio Antartico,1293.0,Islas Navarino Y Gable,2004-12-01,2018-02-04,3985,2005-04-01
+12930003,DGA,dga_web,Robalo Alto,360,-54.9769,-67.6744,129.0,Islas Al Sur Del Canal Beagle Y Territorio Antartico,1293.0,Islas Navarino Y Gable,2011-06-01,2018-02-04,2245,2013-07-01
+12930002,DGA,dga_web,Lago Navarino,45,-55.0558,-67.2994,129.0,Islas Al Sur Del Canal Beagle Y Territorio Antartico,1293.0,Islas Navarino Y Gable,2007-03-01,2010-02-28,516,-
+12930005,DGA,dga_web,Puerto Toro,10,-55.0822,-67.0758,129.0,Islas Al Sur Del Canal Beagle Y Territorio Antartico,1293.0,Islas Navarino Y Gable,2011-01-01,2018-02-04,2539,2012-11-14
+950002,DMC,dmc_anuarios,Arturo Prat Base Antartica,5,-62.4786,-59.6642,-1.0,No Disponible,-1.0,No Disponible,2016-01-01,2018-02-04,645,-
+950003,DMC,dmc_anuarios,Bernardo O'Higgins Base Antartica,10,-63.3208,-57.8994,-1.0,No Disponible,-1.0,No Disponible,2016-01-01,2018-02-04,766,-
+180005,DMC,dmc_merge,Chacalluta Arica Ap.,63,-18.3514,-70.3358,10.0,Altiplanicas,100.0,Entre Limite Peru - Bolivia Y Rio Lauca,1950-01-01,2018-02-04,24780,-
+200006,DMC,dmc_merge,Diego Aracena Iquique Ap.,52,-20.5397,-70.1786,10.0,Altiplanicas,104.0,Entre Estero Sencata Y Rio Sacaya,1950-01-01,2018-02-04,24619,-
+230001,DMC,dmc_merge,Cerro Moreno Antofagasta Ap.,113,-23.4503,-70.4411,20.0,Fronterizas Salar Michincha-R.Loa,200.0,Salar De Ollague,1950-01-01,2018-02-04,24774,-
+270008,DMC,dmc_merge,Desierto De Atacama Caldera Ap.,204,-27.2639,-70.7742,30.0,Endorreicas Entre Frontera Y Vertiente Del Pacifico,304.0,Salar De Maricunga,1951-01-01,2018-02-04,24160,-
+290004,DMC,dmc_merge,La Florida La Serena Ad.,142,-29.9175,-71.2011,41.0,Rio Los Choros,412.0,Q. Los Choros Entre Q. Del Pelicano Y Desembocadura,1950-01-01,2018-02-04,24025,-
+330007,DMC,dmc_merge,Rodelillo Ad.,330,-33.0367,-71.5342,50.0,Costeras Quilimari-Petorca,500.0,Costeras Quilimari - Petorca,2016-01-01,2018-02-04,766,-
+330020,DMC,dmc_merge,Quinta Normal Santiago,527,-33.445,-70.6828,57.0,Rio Maipo,573.0,Mapocho Bajo,1950-01-01,2018-02-04,24867,-
+340031,DMC,dmc_merge,General Freire Curico Ad.,225,-34.9664,-71.2167,61.0,Costeras Rapel-E.Nilahue,613.0,Estero Nilahue,1950-01-01,2018-02-04,23153,-
+360011,DMC,dmc_merge,Bernardo O'Higgins Chillan Ad.,151,-36.5872,-72.04,81.0,Rio Itata,810.0,Nuble Alto,1950-01-01,2018-02-04,22437,-
+360019,DMC,dmc_merge,Carriel Sur Concepcion.,12,-36.7792,-73.0622,81.0,Rio Itata,810.0,Nuble Alto,1950-01-01,2018-02-04,24868,-
+380013,DMC,dmc_merge,Maquehue Temuco Ad.,92,-38.77,-72.6369,83.0,Rio Bio Bio,830.0,Rio Bio-Bio Alto (Hasta Despues Junta Rio Lamin),1950-01-01,2018-02-04,22726,-
+390006,DMC,dmc_merge,Pichoy Valdivia Ad.,21,-39.6506,-73.0808,101.0,Rio Valdivia,1010.0,Rio Valdivia Alto (Hasta Desague Lago Panguipulli),1950-01-01,2018-02-04,23984,-
+400009,DMC,dmc_merge,Canal Bajo Osorno Ad.,61,-40.605,-73.0608,104.0,Cuencas E Islas Entre R.Bueno Y R. Puelo,1040.0,Costeras Entre Rio Bueno Y Rio Maullin,1950-01-01,2018-02-04,24839,-
+410005,DMC,dmc_merge,El Tepual Puerto Montt Ap.,85,-41.435,-73.0978,104.0,Cuencas E Islas Entre R.Bueno Y R. Puelo,1040.0,Costeras Entre Rio Bueno Y Rio Maullin,1950-01-01,2018-02-04,24869,-
+450001,DMC,dmc_merge,Puerto Aysen Ad.,10,-45.3961,-72.6639,113.0,Rio Aisen,1134.0,Rio Aisen Entre Rio Riesco Y Desembocadura,1950-01-01,2018-02-04,22779,-
+450004,DMC,dmc_merge,Teniente Vidal Coyhaique Ad.,310,-45.5939,-72.1086,113.0,Rio Aisen,1131.0,Rio Simpson,1951-12-31,2018-02-04,23746,-
+450005,DMC,dmc_merge,Balmaceda Ad.,517,-45.9128,-71.6942,113.0,Rio Aisen,1131.0,Rio Simpson,1952-01-01,2018-02-04,23741,-
+460001,DMC,dmc_merge,Chile Chico Ad.,306,-46.5808,-71.6928,115.0,Rio Baker,1152.0,Vertiente Sur Lago Jose Miguel Carrera,1951-12-31,2018-02-04,21189,-
+470001,DMC,dmc_merge,Lord Cochrane Ad.,204,-47.2439,-72.5864,115.0,Rio Baker,1153.0,R. Baker Entre Desague L. J. M. Carrera Y R. De La Colonia,1969-12-31,2018-02-04,16957,-
+520006,DMC,dmc_merge,Punta Arenas,38,-53.0033,-70.845,125.0,Costeras Entre Lag.  Blanca(Inc) Seno Otway Canal Jeronimo Y Magallanes,1258.0,Costeras E Islas Orientales De La Peninsula Brunswick,1950-02-01,2018-02-04,24107,-
+550001,DMC,dmc_merge,Guardia Marina Zanartu Pto Williams Ad.,10,-54.9317,-67.6156,129.0,Islas Al Sur Del Canal Beagle Y Territorio Antartico,1293.0,Islas Navarino Y Gable,1959-08-01,2018-02-04,20211,-
+950001,DMC,dmc_merge,Eduardo Frei Montalva Antartica,1,-62.1997,-58.9642,-1.0,No Disponible,-1.0,No Disponible,1970-01-01,2018-02-04,17567,-
+220002,DMC,dmc_web,El Loa Calama Ad.,2293,-22.4989,-68.9072,20.0,Fronterizas Salar Michincha-R.Loa,200.0,Salar De Ollague,1966-12-31,2018-02-04,18193,-
+270001,DMC,dmc_web,Mataveri Isla De Pascua Ap.,48,-27.1606,-109.427,50.0,Costeras Quilimari-Petorca,500.0,Costeras Quilimari - Petorca,1954-06-13,2018-02-04,22830,-
+330021,DMC,dmc_web,Pudahuel Santiago,482,-33.3919,-70.7944,57.0,Rio Maipo,573.0,Mapocho Bajo,1966-01-03,2018-02-04,18864,-
+330019,DMC,dmc_web,Eulogio Sanchez Tobalaba Ad.,650,-33.4544,-70.5478,57.0,Rio Maipo,573.0,Mapocho Bajo,1954-10-10,2018-02-04,18224,-
+330031,DMC,dmc_web,Juan Fernandez Estacion Meteorologica,35,-33.6367,-78.835,50.0,Costeras Quilimari-Petorca,500.0,Costeras Quilimari - Petorca,1963-03-31,2018-02-04,19759,-
+330030,DMC,dmc_web,Santo Domingo Ad.,75,-33.655,-71.6142,50.0,Costeras Quilimari-Petorca,500.0,Costeras Quilimari - Petorca,1966-07-31,2018-02-04,18741,-
+370033,DMC,dmc_web,Maria Dolores Los Angeles Ad.,120,-37.4028,-72.4225,81.0,Rio Itata,810.0,Nuble Alto,1951-12-31,2018-02-04,10578,-
+420004,DMC,dmc_web,Chaiten Ad.,10,-42.9303,-72.7008,104.0,Cuencas E Islas Entre R.Bueno Y R. Puelo,1040.0,Costeras Entre Rio Bueno Y Rio Maullin,1965-11-01,2008-04-30,11991,-
+430002,DMC,dmc_web,Futaleufu Ad.,347,-43.1889,-71.8525,104.0,Cuencas E Islas Entre R.Bueno Y R. Puelo,1040.0,Costeras Entre Rio Bueno Y Rio Maullin,1953-12-31,2018-02-01,22740,-
+430004,DMC,dmc_web,Alto Palenaad.,281,-43.6117,-71.8053,104.0,Cuencas E Islas Entre R.Bueno Y R. Puelo,1040.0,Costeras Entre Rio Bueno Y Rio Maullin,1961-11-30,2018-02-04,19579,-
+510005,DMC,dmc_web,Teniente Gallardo Puerto Natales Ad.,69,-51.6672,-72.5289,122.0,Costeras Entre Seno Andrew Y R. Hollemberg E Islas Al Oriente,1229.0,Costeras Entre Rio Serrano Y Rio Hollenberg,1998-12-31,2018-02-04,4905,-
+530005,DMC,dmc_web,Fuentes Martinez Porvenir Ad.,27,-53.1875,-70.3203,128.0,Tierra Del Fuego,1280.0,Costeras Del Estrecho Magallanes Entre Frontera Y Cabo Monmouth,1985-03-31,2018-02-04,11228,-
+COM00080002,GHCN,ghcn_ftp,El Embrujo,3,13.357,-81.358,,,,,1983-11-14,2018-02-02,1918,-
+CO000080001,GHCN,ghcn_ftp,San Andres (Isla)/S,6,12.583,-81.717,,,,,1962-01-01,2018-02-02,16990,-
+COM00080035,GHCN,ghcn_ftp,Almirante Padilla,13,11.526,-72.926,,,,,1973-01-05,2018-02-02,2119,-
+VEM00080403,GHCN,ghcn_ftp,Jose Leonardo Chirinos,16,11.415,-69.681,,,,,1959-01-21,2016-10-02,5625,-
+COM00080009,GHCN,ghcn_ftp,Simon Bolivar,7,11.12,-74.231,,,,,1964-10-03,2018-02-02,4778,-
+VEM00080421,GHCN,ghcn_ftp,Porlamar (Aeropuerto Int. Del,19,10.917,-63.967,,,,,1976-03-31,2015-07-13,3695,-
+COM00080028,GHCN,ghcn_ftp,Ernesto Cortissoz,30,10.89,-74.781,,,,,1960-04-28,2018-02-02,7512,-
+VEM00080415,GHCN,ghcn_ftp,Simon Bolivar Intl,72,10.603,-66.991,,,,,1973-01-02,2015-12-06,7431,-
+VE000080423,GHCN,ghcn_ftp,Guiria,14,10.583,-62.317,,,,,1973-05-12,2016-10-04,4530,-
+VEM00080407,GHCN,ghcn_ftp,La Chinita Intl,72,10.558,-71.728,,,,,1959-03-12,2016-01-03,5069,-
+VEM00080476,GHCN,ghcn_ftp,La Canada,26,10.517,-71.65,,,,,1984-06-28,2015-10-20,1174,-
+VEM00080416,GHCN,ghcn_ftp,Generalisimo Francisco De Mir,856,10.485,-66.844,,,,,1973-05-22,2015-03-15,4014,-
+VEM00080420,GHCN,ghcn_ftp,Antonio Jose De Sucre,4,10.45,-64.13,,,,,1984-07-26,2016-03-13,2663,-
+COM00080022,GHCN,ghcn_ftp,Rafael Nunez,1,10.442,-75.513,,,,,1973-03-18,2018-01-21,7688,-
+COM00080036,GHCN,ghcn_ftp,Alfonso Lopez Pumarejo,147,10.435,-73.25,,,,,1973-01-05,2018-02-02,2925,-
+VEM00080479,GHCN,ghcn_ftp,Palmichal,1000,10.3,-68.233,,,,,1992-02-13,2003-05-12,1705,-
+VE000080413,GHCN,ghcn_ftp,Maracay - B.A. Sucr,437,10.25,-67.65,,,,,1959-01-13,2016-09-06,15598,-
+VEM00080472,GHCN,ghcn_ftp,Arturo Michelena Intl,430,10.15,-67.928,,,,,1991-12-10,2016-04-05,2343,-
+VEM00080419,GHCN,ghcn_ftp,General Jose Antonio Anzoateg,8,10.107,-64.689,,,,,1973-05-12,2015-06-06,4396,-
+VEM00080410,GHCN,ghcn_ftp,Barquisimeto Intl,622,10.043,-69.359,,,,,1959-01-13,2016-10-08,6028,-
+VE000002417,GHCN,ghcn_ftp,San Juan De Los Mor,429,9.917,-67.333,,,,,1967-01-01,2015-12-31,10829,-
+VE000080425,GHCN,ghcn_ftp,Mene Grande,28,9.817,-70.933,,,,,1973-05-22,2016-01-03,6176,-
+VEM00080435,GHCN,ghcn_ftp,Maturin,68,9.749,-63.153,,,,,1973-05-22,2016-02-26,5865,-
+VEM00080427,GHCN,ghcn_ftp,Oswaldo Guevara Mujica,195,9.553,-69.238,,,,,1973-05-22,2016-04-05,5667,-
+VEM00080432,GHCN,ghcn_ftp,Carrizal,161,9.417,-66.917,,,,,1981-07-14,2014-08-19,140,-
+VEM00080426,GHCN,ghcn_ftp,Dr Antonio Nicolas Briceno,628,9.34,-70.584,,,,,1982-10-13,2016-04-04,5000,-
+VE000002589,GHCN,ghcn_ftp,Valle De La Pascua,125,9.233,-66.0,,,,,1970-01-01,2011-05-11,10145,-
+VEM00080428,GHCN,ghcn_ftp,Guanare,185,9.027,-69.755,,,,,1973-05-23,2016-04-04,6706,-
+VEM00080442,GHCN,ghcn_ftp,Calabozo,100,8.925,-67.417,,,,,1992-02-02,2013-10-03,3297,-
+COM00080063,GHCN,ghcn_ftp,Los Garzones,11,8.824,-75.826,,,,,1973-01-06,2018-02-01,1989,-
+VEM00080437,GHCN,ghcn_ftp,El Vigia,103,8.633,-71.65,,,,,1992-09-02,2016-03-18,1053,-
+VEM00080440,GHCN,ghcn_ftp,Barinas,203,8.62,-70.221,,,,,1991-12-21,2016-07-28,2580,-
+VE000080438,GHCN,ghcn_ftp,Merida,1498,8.6,-71.183,,,,,1961-01-01,2016-10-19,17007,-
+VEM00080444,GHCN,ghcn_ftp,Ciudad Bolivar,60,8.122,-63.537,,,,,1973-05-18,2014-11-26,4205,-
+COM00080097,GHCN,ghcn_ftp,Camilo Daza,334,7.928,-72.512,,,,,1973-03-22,2018-02-02,5464,-
+VEM00080447,GHCN,ghcn_ftp,San Antonio Del Tachira,400,7.841,-72.44,,,,,1973-05-12,2016-10-07,6239,-
+COM00080084,GHCN,ghcn_ftp,Antonio Roldan Betancourt,14,7.812,-76.716,,,,,1986-11-07,2018-02-02,2395,-
+VE000080450,GHCN,ghcn_ftp,San Fernando,47,7.68,-67.42,,,,,1961-01-01,2015-01-08,14710,-
+VEM00080475,GHCN,ghcn_ftp,Mayor Buenaventura Vivas,330,7.565,-72.035,,,,,1982-08-24,2015-10-14,2674,-
+VEM00080448,GHCN,ghcn_ftp,Guasdualito,130,7.211,-70.756,,,,,1974-03-02,2016-10-07,3903,-
+COM00080094,GHCN,ghcn_ftp,Palonegro,1188,7.127,-73.185,,,,,1976-09-22,2018-01-31,7748,-
+COM00080099,GHCN,ghcn_ftp,Santiago Perez,128,7.069,-70.737,,,,,1973-01-07,2018-02-02,3303,-
+COM00080091,GHCN,ghcn_ftp,Yariguies,126,7.024,-73.807,,,,,1973-01-05,2018-02-02,5064,-
+GYM00081001,GHCN,ghcn_ftp,Georgetown,2,6.8,-58.15,,,,,1973-06-22,2018-02-02,2556,-
+GYW00010502,GHCN,ghcn_ftp,Georgetown,29,6.5,-58.25,,,,,1949-01-01,2018-02-02,3555,-
+COM00080110,GHCN,ghcn_ftp,Olaya Herrera,1506,6.22,-75.591,,,,,1960-01-10,2018-02-02,6727,-
+VE000005484,GHCN,ghcn_ftp,Puerto Carreno/A.Gu,55,6.167,-67.5,,,,,1968-03-14,2018-02-02,9743,-
+COM00080112,GHCN,ghcn_ftp,Jose Maria Cordova,2142,6.165,-75.423,,,,,1985-12-01,2018-01-22,6857,-
+COM00080144,GHCN,ghcn_ftp,El Carano,62,5.691,-76.641,,,,,1963-02-22,2018-02-02,4863,-
+VEM00080457,GHCN,ghcn_ftp,Casique Aramare,75,5.62,-67.606,,,,,1973-05-12,2016-10-06,4414,-
+FGM00081401,GHCN,ghcn_ftp,St Laurent Du Maron,9,5.5,-54.033,,,,,1973-09-14,2016-08-31,7354,-
+NSM00081225,GHCN,ghcn_ftp,Johan A Pengel Intl,18,5.453,-55.188,,,,,1973-10-28,2018-02-02,10164,-
+FG000081405,GHCN,ghcn_ftp,Rochambeau,9,4.833,-52.367,,,,,1950-01-01,2018-02-02,24451,-
+COM00080210,GHCN,ghcn_ftp,Matecana,1346,4.813,-75.74,,,,,1963-04-25,2018-02-02,8553,-
+CO000080222,GHCN,ghcn_ftp,Bogota/Eldorado,2548,4.701,-74.15,,,,,1960-01-28,2018-01-29,13917,-
+VE000080462,GHCN,ghcn_ftp,Santa Elena De Uair,907,4.6,-61.117,,,,,1974-07-11,2016-02-09,1263,-
+CO000080241,GHCN,ghcn_ftp,Las Gaviotas,167,4.55,-70.917,,,,,1967-08-01,2002-05-02,10946,-
+COM00080211,GHCN,ghcn_ftp,El Eden,1216,4.453,-75.766,,,,,1973-01-05,2017-12-30,3513,-
+COM00080214,GHCN,ghcn_ftp,Perales,949,4.422,-75.133,,,,,1973-01-05,2018-02-02,4898,-
+COM00080234,GHCN,ghcn_ftp,Vanguardia,425,4.168,-73.614,,,,,1973-01-05,2018-02-01,4636,-
+FGM00081408,GHCN,ghcn_ftp,Saint Georges,7,3.883,-51.8,,,,,1973-09-17,2015-12-23,6902,-
+FGM00081415,GHCN,ghcn_ftp,Maripasoula,106,3.633,-54.033,,,,,1973-09-17,2016-11-29,7168,-
+CO000080259,GHCN,ghcn_ftp,Cali/Alfonso Bonill,969,3.55,-76.383,,,,,1964-01-01,2018-01-21,12605,-
+COM00080315,GHCN,ghcn_ftp,Benito Salas,446,2.95,-75.294,,,,,1973-01-05,2018-02-02,5860,-
+BR008161001,GHCN,ghcn_ftp,Caracarai,95,1.833,-61.133,,,,,1975-05-01,2003-03-07,8499,-
+CO000080342,GHCN,ghcn_ftp,Pasto/Antonio Narin,1826,1.417,-77.267,,,,,1957-01-01,2018-02-02,17172,-
+COM00080370,GHCN,ghcn_ftp,San Luis,2976,0.862,-77.672,,,,,1973-01-05,2018-02-02,4424,-
+ECM00084036,GHCN,ghcn_ftp,San Gabriel,2860,0.6,-77.817,,,,,2011-07-16,2018-01-15,1202,-
+BRM00082098,GHCN,ghcn_ftp,Macapa,17,0.051,-51.072,,,,,1973-01-05,2018-01-10,5690,-
+ECM00084050,GHCN,ghcn_ftp,La Concordia,360,0.017,-79.367,,,,,2005-10-03,2018-02-02,1305,-
+BRM00082106,GHCN,ghcn_ftp,Sao Gabriel Da Cach,90,-0.133,-67.083,,,,,1974-06-18,2005-04-24,240,-
+ECM00084088,GHCN,ghcn_ftp,Izobamba,3058,-0.35,-78.55,,,,,2011-07-04,2018-01-18,1006,-
+BR000047002,GHCN,ghcn_ftp,Salinopolis,14,-0.617,-47.383,,,,,1977-12-09,2018-01-04,8120,-
+ECM00084132,GHCN,ghcn_ftp,Nuevo Rocafuerte,265,-0.917,-75.417,,,,,2005-10-03,2018-01-18,1208,-
+ECM00084008,GHCN,ghcn_ftp,San Cristobal,19,-0.917,-89.617,,,,,1986-08-16,2017-11-12,96,-
+BRM00082113,GHCN,ghcn_ftp,Barcelos,34,-0.981,-62.92,,,,,1973-07-30,2004-08-06,370,-
+ECM00084135,GHCN,ghcn_ftp,Portoviejo,60,-1.033,-80.45,,,,,2011-07-27,2018-01-15,550,-
+EC000000006,GHCN,ghcn_ftp,Pichilingue,73,-1.1,-79.467,,,,,1964-01-01,2018-02-02,12216,-
+BRM00082193,GHCN,ghcn_ftp,Val De Cans Intl,17,-1.379,-48.476,,,,,1973-06-24,2018-02-02,7729,-
+ECM00084179,GHCN,ghcn_ftp,Puyo,960,-1.5,-77.9,,,,,2011-07-04,2018-02-02,1386,-
+BRM00082181,GHCN,ghcn_ftp,Monte Alegre,146,-2.0,-54.083,,,,,1991-09-09,2013-07-10,5,-
+BR000254000,GHCN,ghcn_ftp,Santarem-Aeroporto,60,-2.433,-54.717,,,,,1968-05-01,2007-04-18,10919,-
+ECM00084226,GHCN,ghcn_ftp,Canar,3083,-2.55,-78.933,,,,,1973-01-02,2017-12-29,1248,-
+BRM00082336,GHCN,ghcn_ftp,Itacoatiara,43,-3.127,-58.481,,,,,1989-11-21,2018-02-02,430,-
+BR000352000,GHCN,ghcn_ftp,Altamira,112,-3.2,-52.2,,,,,1968-06-05,2018-02-02,5515,-
+PEM00084370,GHCN,ghcn_ftp,Pedro Canga,35,-3.553,-80.381,,,,,1974-03-15,2018-02-02,8444,-
+PE000084377,GHCN,ghcn_ftp,Iquitos,126,-3.783,-73.3,,,,,1973-01-02,2018-02-02,12777,-
+BRM00082361,GHCN,ghcn_ftp,Tucurui,253,-3.786,-49.72,,,,,1991-09-09,2017-11-03,2626,-
+BRM00082326,GHCN,ghcn_ftp,Codajas,49,-3.833,-62.083,,,,,1990-05-01,2001-11-30,5,-
+BR000082400,GHCN,ghcn_ftp,Fernando De Noronha,59,-3.85,-32.417,,,,,1973-01-06,2018-02-02,8962,-
+ECM00084270,GHCN,ghcn_ftp,Loja/La Argelia,2160,-4.033,-79.2,,,,,2001-10-23,2018-02-02,1248,-
+COM00080398,GHCN,ghcn_ftp,Alfredo Vasquez Cobo,84,-4.193,-69.943,,,,,1967-09-18,2018-01-22,8736,-
+BRM00082410,GHCN,ghcn_ftp,Benjamin Constant,65,-4.383,-70.033,,,,,1973-01-10,2003-03-07,326,-
+PEM00084390,GHCN,ghcn_ftp,Capitan Montes,86,-4.577,-81.254,,,,,1973-01-01,2017-03-31,8101,-
+BR037041370,GHCN,ghcn_ftp,Teresina (Aeroporto,67,-5.05,-42.817,,,,,1956-01-01,2018-02-02,12746,-
+PEM00084401,GHCN,ghcn_ftp,Capitan Fap Guillermo Concha,35,-5.206,-80.616,,,,,1973-01-02,2018-01-19,8769,-
+BRM00082562,GHCN,ghcn_ftp,Maraba,109,-5.369,-49.138,,,,,1973-02-23,2018-02-02,3800,-
+BRM00082533,GHCN,ghcn_ftp,Manicore,53,-5.811,-61.278,,,,,1974-06-03,2018-01-31,1580,-
+PEM00084425,GHCN,ghcn_ftp,Moises Benzaquen Rengifo,179,-5.894,-76.118,,,,,1973-01-01,2018-01-12,6648,-
+PE000084444,GHCN,ghcn_ftp,Chachapoyas,2540,-6.2,-77.85,,,,,1973-01-01,2003-05-31,4040,-
+PE000084455,GHCN,ghcn_ftp,Tarapoto,282,-6.5,-76.367,,,,,1973-01-01,2018-01-25,7957,-
+PEM00084452,GHCN,ghcn_ftp,Capt Jose A  Quinones Gonzale,30,-6.787,-79.828,,,,,1973-01-03,2018-01-20,8840,-
+BR039402250,GHCN,ghcn_ftp,Joao Pessoa,66,-7.1,-34.867,,,,,1912-07-01,2001-12-31,21242,-
+PEM00084472,GHCN,ghcn_ftp,Gen Fap Armando Revoredo Igle,2676,-7.139,-78.489,,,,,1973-01-02,2018-01-29,5847,-
+PEM00084474,GHCN,ghcn_ftp,Juanjui,350,-7.169,-76.729,,,,,1973-01-01,2018-01-13,3717,-
+BR038484280,GHCN,ghcn_ftp,Campina Grande,502,-7.217,-35.883,,,,,1910-10-01,2018-02-02,22581,-
+BRM00082723,GHCN,ghcn_ftp,Labrea,60,-7.25,-64.833,,,,,1974-08-03,2001-11-18,88,-
+BR000082704,GHCN,ghcn_ftp,Cruzeiro Do Sul,194,-7.633,-72.667,,,,,1974-06-22,2016-01-28,1595,-
+BR038536790,GHCN,ghcn_ftp,Triunfo,1020,-7.85,-38.133,,,,,1911-09-01,2013-07-11,20174,-
+PEM00084501,GHCN,ghcn_ftp,Capitan Carlos Martinez De Pi,32,-8.081,-79.109,,,,,1973-01-01,2018-01-21,8428,-
+BR000082861,GHCN,ghcn_ftp,Conceicao Do Araguaia,-1000,-8.25,-49.28,,,,,1973-11-18,2018-02-02,3423,-
+PEM00084515,GHCN,ghcn_ftp,Cap Fap David Abenzur Rengifo,156,-8.378,-74.574,,,,,1973-01-01,2018-01-24,10691,-
+BR038777060,GHCN,ghcn_ftp,Garanhuns,823,-8.883,-36.517,,,,,1920-06-01,2013-07-11,14429,-
+PEM00084534,GHCN,ghcn_ftp,Tingo Maria,665,-9.133,-75.95,,,,,1973-01-01,2016-07-18,6355,-
+PEM00084531,GHCN,ghcn_ftp,Teniente Jaime A De Montreuil,21,-9.15,-78.524,,,,,1973-01-02,2003-05-31,4387,-
+PEM00084542,GHCN,ghcn_ftp,Comandante Fap German Arias G,2750,-9.347,-77.598,,,,,1973-01-04,2017-10-02,3397,-
+BR038837530,GHCN,ghcn_ftp,Paulo Afonso,269,-9.4,-38.217,,,,,1940-10-01,2015-04-25,12673,-
+BR038983570,GHCN,ghcn_ftp,Maceio (Aeroporto),118,-9.517,-35.783,,,,,1912-10-01,2018-02-02,30448,-
+BR000956000,GHCN,ghcn_ftp,Alta Floresta (Aero,289,-9.867,-56.1,,,,,1978-07-16,2018-02-02,9703,-
+PEM00084564,GHCN,ghcn_ftp,Alferez Fap D F Fernandini,1850,-9.879,-76.205,,,,,1973-01-01,2017-09-17,4698,-
+BR001065002,GHCN,ghcn_ftp,Guayaramerin,130,-10.817,-65.349,,,,,1973-06-18,2011-05-24,8485,-
+BL000085043,GHCN,ghcn_ftp,Riberalta,141,-11.0,-66.117,,,,,1973-05-09,2018-02-02,6155,-
+BL000085041,GHCN,ghcn_ftp,Cobija,-1000,-11.03,-68.78,,,,,1973-06-19,2018-02-02,6813,-
+PEM00084628,GHCN,ghcn_ftp,Jorge Chavez Intl,34,-12.022,-77.114,,,,,1973-01-01,2015-11-05,9783,-
+PEM00084658,GHCN,ghcn_ftp,Padre Aldamiz,201,-12.614,-69.229,,,,,1973-01-01,2018-02-02,9289,-
+BRM00083208,GHCN,ghcn_ftp,Vilhena,615,-12.694,-60.098,,,,,1973-01-30,2018-02-02,5324,-
+BLM00085104,GHCN,ghcn_ftp,San Joaquin,140,-13.067,-64.667,,,,,1973-07-13,2018-02-02,4580,-
+PEM00084673,GHCN,ghcn_ftp,Coronel Fap Alfredo Mendivil,2718,-13.155,-74.204,,,,,1973-01-01,2018-02-02,5703,-
+BR047635180,GHCN,ghcn_ftp,Bom Jesus Da Lapa,443,-13.267,-43.417,,,,,1917-11-01,2018-02-02,23333,-
+BLM00085109,GHCN,ghcn_ftp,San Ramon,140,-13.3,-64.7,,,,,1984-12-09,2018-02-01,2210,-
+BL000085114,GHCN,ghcn_ftp,Magdalena,140,-13.333,-64.117,,,,,1973-06-19,2018-02-02,5077,-
+PEM00084686,GHCN,ghcn_ftp,Teniente Alejandro Velasco As,3310,-13.536,-71.939,,,,,1973-01-01,2018-02-02,11621,-
+PEM00084691,GHCN,ghcn_ftp,Pisco Intl,12,-13.745,-76.22,,,,,1973-01-01,2017-11-13,9241,-
+BLM00085123,GHCN,ghcn_ftp,Santa Ana Del Yacuma,144,-13.762,-65.435,,,,,1987-02-09,2018-02-02,3465,-
+BLM00085139,GHCN,ghcn_ftp,Santa Rosa,225,-14.067,-66.783,,,,,2011-12-02,2018-02-02,601,-
+BLM00085140,GHCN,ghcn_ftp,Reyes,280,-14.3,-67.367,,,,,1973-10-26,2018-02-02,4915,-
+BL000085141,GHCN,ghcn_ftp,Rurrenabaque,-1000,-14.47,-67.57,,,,,1973-06-13,2018-02-02,6538,-
+BLM00085151,GHCN,ghcn_ftp,Apolo,1415,-14.733,-68.417,,,,,1973-06-13,2008-08-22,2265,-
+BLM00085154,GHCN,ghcn_ftp,Tte Av Jorge Henrich Arauz,155,-14.819,-64.918,,,,,1973-01-03,2018-02-02,8464,-
+BRM00083344,GHCN,ghcn_ftp,Vitoria Da Conquista,914,-14.863,-40.863,,,,,1977-11-19,2018-02-02,1356,-
+BLM00085152,GHCN,ghcn_ftp,San Borja/Capt Germ,194,-14.867,-66.75,,,,,1973-06-14,2018-02-02,4608,-
+BLM00085153,GHCN,ghcn_ftp,San Ignacio De Moxo,241,-14.967,-65.633,,,,,1973-07-08,2018-02-02,2916,-
+BR057043270,GHCN,ghcn_ftp,Monte Azul,603,-15.083,-42.75,,,,,1964-11-01,2003-06-06,5937,-
+PEM00084735,GHCN,ghcn_ftp,Juliaca,3826,-15.467,-70.158,,,,,1973-01-01,2018-02-02,6915,-
+BLM00085175,GHCN,ghcn_ftp,Ascencion Guarayos,247,-15.717,-63.1,,,,,1976-12-15,2017-02-11,1940,-
+BRM00083358,GHCN,ghcn_ftp,Poxoreo (Poxoreu),450,-15.833,-54.383,,,,,1979-03-16,2004-09-02,264,-
+BR001657003,GHCN,ghcn_ftp,Caceres,118,-16.05,-57.683,,,,,1972-01-01,2003-09-17,4450,-
+BLM00085196,GHCN,ghcn_ftp,Concepcion,497,-16.25,-62.1,,,,,1958-05-17,2017-12-06,3467,-
+BLM00085195,GHCN,ghcn_ftp,San Javier,520,-16.267,-62.467,,,,,1976-10-19,2009-03-01,1389,-
+PE000084752,GHCN,ghcn_ftp,Arequipa,2520,-16.332,-71.567,,,,,1973-01-04,2018-01-26,9250,-
+BLM00085210,GHCN,ghcn_ftp,San Matias,124,-16.333,-58.383,,,,,1987-08-09,2017-02-11,994,-
+BLM00085207,GHCN,ghcn_ftp,San Ignacio Velasco,413,-16.367,-60.95,,,,,1958-10-02,2017-03-08,3511,-
+BLM00085201,GHCN,ghcn_ftp,El Alto Intl,4062,-16.513,-68.192,,,,,1952-01-08,2018-02-02,12405,-
+BR057324290,GHCN,ghcn_ftp,Montes Claros,668,-16.717,-43.867,,,,,1950-09-01,2018-02-02,8319,-
+BR001746008,GHCN,ghcn_ftp,Paracatu,711,-17.217,-46.867,,,,,1976-05-01,2009-01-23,6183,-
+BL000085223,GHCN,ghcn_ftp,Cochabamba,-1000,-17.42,-66.18,,,,,1973-01-02,2018-01-22,9488,-
+BL000085230,GHCN,ghcn_ftp,Charana,-1000,-17.58,-69.6,,,,,1958-05-13,2008-01-26,2217,-
+BLM00085244,GHCN,ghcn_ftp,Viru Viru Intl,373,-17.645,-63.135,,,,,1984-07-06,2017-12-06,6219,-
+BR058514530,GHCN,ghcn_ftp,Caravelas,3,-17.733,-39.25,,,,,1966-03-01,2013-07-10,4763,-
+BLM00085245,GHCN,ghcn_ftp,El Trompillo,418,-17.812,-63.171,,,,,1958-05-10,2017-12-09,7056,-
+BLM00085247,GHCN,ghcn_ftp,San Jose,284,-17.833,-60.75,,,,,1958-05-02,2017-12-06,2030,-
+BLM00085242,GHCN,ghcn_ftp,Juan Mendoza,3702,-17.963,-67.076,,,,,1958-05-13,2018-02-02,5087,-
+PEM00084782,GHCN,ghcn_ftp,Coronel Carlos Ciriani Santa,469,-18.053,-70.276,,,,,1973-01-01,2018-01-19,8634,-
+BLM00085268,GHCN,ghcn_ftp,Robore (Civ/Mil),284,-18.317,-59.75,,,,,1958-05-02,2017-12-09,3840,-
+BLM00085264,GHCN,ghcn_ftp,Vallegrande,1998,-18.467,-64.1,,,,,1989-09-01,2017-02-11,872,-
+BR001846000,GHCN,ghcn_ftp,Patos De Minas,940,-18.6,-46.517,,,,,1924-05-01,2005-06-04,9909,-
+BLM00085289,GHCN,ghcn_ftp,Tte De Av Salvador Ogaya G,134,-18.975,-57.821,,,,,1958-05-02,2017-12-09,2834,-
+BLM00085283,GHCN,ghcn_ftp,Juana Azurduy De Padilla,2904,-19.007,-65.289,,,,,1973-06-13,2015-04-13,4467,-
+BR001957002,GHCN,ghcn_ftp,Corumba,141,-19.083,-57.5,,,,,1968-08-19,2014-06-05,6735,-
+PAM00086011,GHCN,ghcn_ftp,Adrian Jara,150,-19.533,-59.367,,,,,1982-03-25,2013-02-22,4052,-
+BLM00085293,GHCN,ghcn_ftp,Capitan Nicolas Rojas,3936,-19.543,-65.724,,,,,1973-10-02,2018-01-01,2104,-
+BR001946002,GHCN,ghcn_ftp,Araxa,1004,-19.567,-46.933,,,,,1941-01-01,2003-06-06,13465,-
+BRM00083587,GHCN,ghcn_ftp,Tancredo Neves Intl,828,-19.634,-43.969,,,,,1977-06-13,2005-03-23,2117,-
+BLM00085312,GHCN,ghcn_ftp,Monteagudo,992,-19.783,-63.917,,,,,1990-10-19,2009-02-11,276,-
+BRM00083592,GHCN,ghcn_ftp,Caratinga,609,-19.8,-42.15,,,,,1977-10-24,2003-06-06,370,-
+BRM00083566,GHCN,ghcn_ftp,Belo Horizonte (Confins) *,0,-19.833,-43.917,,,,,2002-01-05,2018-02-02,1751,-
+BR002045001,GHCN,ghcn_ftp,Bambui,661,-20.0,-45.983,,,,,1941-01-01,2003-06-06,20677,-
+BLM00085315,GHCN,ghcn_ftp,Camiri,792,-20.05,-63.567,,,,,1973-01-30,2017-12-06,4347,-
+PA000086033,GHCN,ghcn_ftp,Bahia Negra,96,-20.23,-58.167,,,,,1972-01-01,2013-06-11,6665,-
+BR00B6-0360,GHCN,ghcn_ftp,Votuporanga,503,-20.417,-49.983,,,,,1965-01-01,2003-06-06,11505,-
+BR00C5-0040,GHCN,ghcn_ftp,Catanduva,536,-21.133,-48.967,,,,,1938-01-01,2003-06-06,12060,-
+BR002141004,GHCN,ghcn_ftp,Itaperuna,123,-21.2,-41.883,,,,,1942-03-01,2013-07-10,12699,-
+BLM00085345,GHCN,ghcn_ftp,Tcnl Rafael Pabon,398,-21.255,-63.406,,,,,1980-05-01,2017-12-19,2059,-
+BL000085364,GHCN,ghcn_ftp,Tarija,1854,-21.55,-64.7,,,,,1973-06-17,2017-12-19,4467,-
+BRM00083698,GHCN,ghcn_ftp,Bartolomeu Lisandro,17,-21.698,-41.302,,,,,1973-01-05,2018-02-02,3015,-
+BR002143012,GHCN,ghcn_ftp,Juiz De Fora,911,-21.767,-43.35,,,,,1942-01-01,2017-07-31,13557,-
+BL000085365,GHCN,ghcn_ftp,Yacuiba,-1000,-21.95,-63.65,,,,,1973-01-29,2017-12-19,5131,-
+PA000086068,GHCN,ghcn_ftp,Mariscal Estigarrib,172,-22.017,-60.6,,,,,1972-01-01,2018-02-02,12507,-
+BR002241001,GHCN,ghcn_ftp,Sao Tome,4,-22.05,-41.05,,,,,1966-12-03,2009-05-22,12070,-
+AR000087007,GHCN,ghcn_ftp,La Quiaca Observato,3479,-22.1,-65.6,,,,,1976-09-22,2018-02-02,3037,-
+BR00D8-0390,GHCN,ghcn_ftp,Presidente Prudente,450,-22.117,-51.383,,,,,1944-10-01,2005-10-09,9944,-
+PA000086086,GHCN,ghcn_ftp,Puerto Casado,87,-22.283,-57.933,,,,,1986-04-07,2018-01-31,3760,-
+BR00D6-0010,GHCN,ghcn_ftp,Bauru,617,-22.317,-49.117,,,,,1936-01-01,2001-12-31,15069,-
+BRM00083704,GHCN,ghcn_ftp,Ivinhema,369,-22.317,-53.933,,,,,1995-03-02,2003-06-06,3,-
+PAM00086065,GHCN,ghcn_ftp,Pelayo Prat Gill,220,-22.55,-61.55,,,,,1982-03-10,2014-06-20,2883,-
+PAM00086097,GHCN,ghcn_ftp,Pedro Juan Caballero,652,-22.6,-55.833,,,,,1982-04-13,2018-02-02,4272,-
+ARM00087022,GHCN,ghcn_ftp,General Enrique Mosconi Tarta,449,-22.62,-63.794,,,,,1973-06-01,2018-02-02,5672,-
+BLM00085394,GHCN,ghcn_ftp,Bermejo,381,-22.767,-64.317,,,,,1988-02-12,2008-12-26,238,-
+BRM00083746,GHCN,ghcn_ftp,Galeao Antonio Carlos Jobim,9,-22.809,-43.244,,,,,1973-08-17,2018-02-01,2310,-
+BR00E4-1230,GHCN,ghcn_ftp,Campinas (Aeroporto,661,-23.0,-47.133,,,,,1970-08-01,2001-12-30,10607,-
+ARM00087016,GHCN,ghcn_ftp,Oran,356,-23.153,-64.329,,,,,1961-05-02,2018-02-02,6520,-
+BR002351003,GHCN,ghcn_ftp,Londrina (Aeroporto,569,-23.333,-51.133,,,,,1973-08-27,2002-05-17,8644,-
+PA000086134,GHCN,ghcn_ftp,Concepcion,74,-23.43,-57.417,,,,,1972-01-01,2018-02-02,12885,-
+PAM00086128,GHCN,ghcn_ftp,Pozo Colorado,99,-23.5,-58.783,,,,,2001-09-06,2018-02-02,2034,-
+BR00E3-0520,GHCN,ghcn_ftp,Sao Paulo (Aeroport,802,-23.617,-46.65,,,,,1940-04-01,2018-02-02,22836,-
+PAM00086210,GHCN,ghcn_ftp,Saltos Del Guaira,265,-24.033,-54.35,,,,,1982-03-18,2018-02-01,3869,-
+PAM00086185,GHCN,ghcn_ftp,San Pedro,80,-24.067,-57.083,,,,,2001-09-21,2018-02-02,1989,-
+ARM00087046,GHCN,ghcn_ftp,Jujuy,920,-24.393,-65.098,,,,,1973-06-01,2018-02-02,8645,-
+PAM00086192,GHCN,ghcn_ftp,San Estanislao,192,-24.667,-56.433,,,,,1982-02-23,2018-01-30,2652,-
+AR000087078,GHCN,ghcn_ftp,Las Lomitas,130,-24.7,-60.583,,,,,1960-01-06,2011-08-20,6085,-
+PAM00086170,GHCN,ghcn_ftp,Gral. Bruguez,86,-24.75,-58.833,,,,,2001-09-21,2018-02-02,2004,-
+AR000870470,GHCN,ghcn_ftp,Salta Aero,1246,-24.85,-65.483,,,,,1960-01-02,2018-02-02,10654,-
+PAM00086218,GHCN,ghcn_ftp,Silvio Pettirossi Intl,89,-25.24,-57.519,,,,,1973-06-25,2018-02-02,6633,-
+PAM00086246,GHCN,ghcn_ftp,Aeropuerto Int. Guarani,236,-25.45,-54.833,,,,,2001-09-21,2013-11-01,2184,-
+PAM00086234,GHCN,ghcn_ftp,Coronel Oviedo,163,-25.467,-56.4,,,,,2002-04-19,2018-01-30,1003,-
+BR002548005,GHCN,ghcn_ftp,Paranagua,5,-25.517,-48.517,,,,,1948-10-16,2001-03-21,9804,-
+PA000086248,GHCN,ghcn_ftp,Ciudad Del Este,196,-25.533,-54.6,,,,,1972-01-01,2007-04-03,11170,-
+BRM00083827,GHCN,ghcn_ftp,Cataratas Intl,240,-25.596,-54.487,,,,,1973-01-05,2018-02-02,6746,-
+PAM00086221,GHCN,ghcn_ftp,Paraguari,116,-25.633,-57.133,,,,,2008-07-22,2018-01-30,1051,-
+BR002554002,GHCN,ghcn_ftp,Iguazu Aero,279,-25.733,-54.467,,,,,1962-07-10,2018-01-28,11680,-
+PAM00086233,GHCN,ghcn_ftp,Villarrica,161,-25.767,-56.433,,,,,1982-02-11,2018-01-31,5901,-
+PAM00086268,GHCN,ghcn_ftp,Caazapa,140,-26.183,-56.367,,,,,2000-04-13,2018-01-30,1817,-
+ARM00087162,GHCN,ghcn_ftp,Formosa,59,-26.213,-58.228,,,,,1973-06-02,2018-02-02,9449,-
+PAM00086260,GHCN,ghcn_ftp,San Juan Bautista,126,-26.667,-57.15,,,,,1982-02-16,2018-01-29,4789,-
+ARM00087148,GHCN,ghcn_ftp,Presidencia Roque Saenz Pena,93,-26.733,-60.483,,,,,2001-09-26,2018-01-30,2363,-
+ARM00087121,GHCN,ghcn_ftp,Teniente Benjamin Matienzo,456,-26.841,-65.105,,,,,1981-11-24,2018-02-02,7094,-
+PAM00086255,GHCN,ghcn_ftp,Pilar,56,-26.85,-58.317,,,,,1982-02-16,2018-01-30,2729,-
+PAM00086285,GHCN,ghcn_ftp,Capitan Meza,248,-26.933,-55.2,,,,,2000-04-12,2018-01-30,2467,-
+PA000086297,GHCN,ghcn_ftp,Encarnacion,91,-27.3,-55.9,,,,,1951-01-01,2018-01-30,20273,-
+ARM00087178,GHCN,ghcn_ftp,Posadas,131,-27.386,-55.971,,,,,1960-01-06,2018-01-29,10735,-
+ARM00087166,GHCN,ghcn_ftp,Corrientes,62,-27.446,-58.762,,,,,1973-06-05,2018-01-30,7045,-
+AR000087155,GHCN,ghcn_ftp,Resistencia Aero,53,-27.45,-59.05,,,,,1960-01-06,2018-02-01,11128,-
+AR000087129,GHCN,ghcn_ftp,Santiago Del Estero,200,-27.767,-64.3,,,,,1960-01-06,2018-01-31,9125,-
+ARM00087222,GHCN,ghcn_ftp,Catamarca,464,-28.596,-65.752,,,,,1973-07-06,2018-02-01,5845,-
+AR000087270,GHCN,ghcn_ftp,Reconquista Aero,53,-29.183,-59.7,,,,,1973-06-04,2018-01-29,9075,-
+AR000087217,GHCN,ghcn_ftp,La Rioja Aero.,438,-29.383,-66.817,,,,,1967-09-28,2018-01-30,7343,-
+ARM00087289,GHCN,ghcn_ftp,Paso De Los Libres,70,-29.689,-57.152,,,,,1973-06-04,2018-01-29,9320,-
+BR002957005,GHCN,ghcn_ftp,Uruguaiana (Aeropor,78,-29.783,-57.033,,,,,1973-01-01,2002-05-30,5194,-
+AR000087257,GHCN,ghcn_ftp,Ceres Aero,88,-29.883,-61.95,,,,,1961-05-02,2018-02-01,8817,-
+ARM00087244,GHCN,ghcn_ftp,Villa Maria Del Rio,341,-29.9,-63.683,,,,,1973-06-01,2018-01-31,3740,-
+UY000086315,GHCN,ghcn_ftp,Bella Union,53,-30.267,-57.583,,,,,1981-01-01,2010-04-27,8558,-
+AR000000011,GHCN,ghcn_ftp,Monte Caseros Aero,53,-30.267,-57.65,,,,,1967-05-13,2018-01-29,11655,-
+ARM00087320,GHCN,ghcn_ftp,Chamical Aero,461,-30.367,-66.283,,,,,1973-06-18,2018-02-01,4252,-
+UY000086330,GHCN,ghcn_ftp,Est.Met.Artigas,121,-30.4,-56.52,,,,,1976-09-22,2018-02-02,10956,-
+UYM00086350,GHCN,ghcn_ftp,Presidente General Don Oscar,223,-30.975,-55.476,,,,,1976-09-23,2018-02-02,7415,-
+ARM00087395,GHCN,ghcn_ftp,Comodoro Pierrestegui,34,-31.297,-57.997,,,,,1973-06-01,2018-01-28,8507,-
+AR000087344,GHCN,ghcn_ftp,Cordoba Aero,489,-31.317,-64.217,,,,,1965-06-04,2018-02-01,9893,-
+UY000086360,GHCN,ghcn_ftp,Salto,33,-31.433,-57.967,,,,,1973-01-05,2018-02-02,11738,-
+ARM00087311,GHCN,ghcn_ftp,San Juan,597,-31.571,-68.418,,,,,1973-06-01,2018-01-29,7679,-
+ARM00087349,GHCN,ghcn_ftp,Pilar Observatorio,338,-31.667,-63.883,,,,,1973-09-01,2018-01-31,5098,-
+UY000001405,GHCN,ghcn_ftp,Tacuarembo,134,-31.7,-55.983,,,,,1964-01-01,2016-11-01,10987,-
+AR000087374,GHCN,ghcn_ftp,Parana Aero,74,-31.783,-60.483,,,,,1973-06-01,2018-01-29,8012,-
+ARM00087328,GHCN,ghcn_ftp,Villa Dolores,584,-31.945,-65.146,,,,,1973-06-12,2018-02-02,5864,-
+UY000086430,GHCN,ghcn_ftp,Paysandu,61,-32.333,-58.033,,,,,1935-01-01,2018-02-02,23486,-
+UY000001709,GHCN,ghcn_ftp,Melo,100,-32.35,-54.183,,,,,1964-01-03,2018-02-02,12304,-
+UY000001856,GHCN,ghcn_ftp,Young,80,-32.683,-57.633,,,,,1964-01-01,2014-10-20,10231,-
+ARM00087467,GHCN,ghcn_ftp,Marcos Juarez,110,-32.684,-62.158,,,,,1973-06-01,2018-01-29,8419,-
+UY000001915,GHCN,ghcn_ftp,Paso De Los Toros,75,-32.8,-56.517,,,,,1964-01-01,2017-12-31,13441,-
+AR000087418,GHCN,ghcn_ftp,Mendoza Aero,704,-32.833,-68.783,,,,,1965-08-13,2018-02-02,8982,-
+ARM00087480,GHCN,ghcn_ftp,Rosario,26,-32.904,-60.785,,,,,1965-03-08,2018-01-29,8920,-
+ARM00087497,GHCN,ghcn_ftp,Gualeguaychu,23,-33.01,-58.613,,,,,1967-06-19,2018-01-29,9029,-
+ARM00087416,GHCN,ghcn_ftp,San Martin,653,-33.083,-68.417,,,,,1973-06-13,2018-02-01,4431,-
+ARM00087453,GHCN,ghcn_ftp,Rio Cuarto Area De Material,421,-33.085,-64.261,,,,,1973-06-01,2018-01-28,8332,-
+UYM00086500,GHCN,ghcn_ftp,Treinta Y Tres,46,-33.217,-54.383,,,,,1968-02-12,2018-01-27,7955,-
+UY000086490,GHCN,ghcn_ftp,Mercedes,17,-33.25,-58.067,,,,,1931-01-01,2018-02-02,26443,-
+ARM00087436,GHCN,ghcn_ftp,San Luis,710,-33.273,-66.356,,,,,1967-04-12,2018-02-01,7881,-
+UY000002206,GHCN,ghcn_ftp,Durazno,92,-33.35,-56.5,,,,,1979-06-19,2018-02-02,7727,-
+ARM00087448,GHCN,ghcn_ftp,Villa Reynolds,485,-33.73,-65.387,,,,,1973-06-01,2018-02-01,7782,-
+AR000087534,GHCN,ghcn_ftp,Laboulaye Aero,137,-34.133,-63.367,,,,,1967-07-17,2018-01-28,6824,-
+UYM00086560,GHCN,ghcn_ftp,Laguna De Los Patos Intl,21,-34.456,-57.771,,,,,1967-10-18,2018-02-02,9165,-
+UY000086565,GHCN,ghcn_ftp,Rocha,18,-34.483,-54.3,,,,,1979-06-18,2018-02-01,9324,-
+ARM00087548,GHCN,ghcn_ftp,Junin,80,-34.546,-60.931,,,,,1967-06-01,2018-01-28,9656,-
+ARM00087582,GHCN,ghcn_ftp,Aeroparque Jorge Newbery,6,-34.559,-58.416,,,,,1973-06-01,2018-01-26,7508,-
+AR000875850,GHCN,ghcn_ftp,Buenos Aires Observ,25,-34.583,-58.483,,,,,1973-02-25,2018-01-28,2806,-
+ARM00087509,GHCN,ghcn_ftp,San Rafael,753,-34.588,-68.403,,,,,1973-06-01,2018-02-02,8210,-
+ARM00087576,GHCN,ghcn_ftp,Ministro Pistarini,20,-34.822,-58.536,,,,,1965-03-16,2018-01-28,10004,-
+UYM00086580,GHCN,ghcn_ftp,Carrasco Intl,32,-34.838,-56.031,,,,,1967-06-03,2018-02-02,10134,-
+ARM00087593,GHCN,ghcn_ftp,La Plata,22,-34.972,-57.895,,,,,1973-06-01,2018-01-27,5108,-
+ARM00087506,GHCN,ghcn_ftp,Malargue,1430,-35.494,-69.574,,,,,1967-10-16,2018-01-22,6858,-
+ARM00087532,GHCN,ghcn_ftp,General Pico,140,-35.696,-63.758,,,,,1973-06-01,2018-01-28,3899,-
+AR000875440,GHCN,ghcn_ftp,Pehuajo Aero,85,-35.867,-61.9,,,,,1973-07-28,2017-03-02,3558,-
+ARM00087563,GHCN,ghcn_ftp,Las Flores,38,-36.067,-59.1,,,,,1976-09-22,2014-07-31,1217,-
+ARM00087640,GHCN,ghcn_ftp,Bolivar Aero,94,-36.2,-61.067,,,,,1989-04-06,2017-03-02,2289,-
+ARM00087648,GHCN,ghcn_ftp,Dolores Airport,9,-36.35,-57.733,,,,,1973-06-01,2018-02-02,6229,-
+AR000087623,GHCN,ghcn_ftp,Santa Rosa Aero,192,-36.567,-64.266,,,,,1965-06-20,2018-01-24,8609,-
+ARM00087641,GHCN,ghcn_ftp,Azul Aero,147,-36.833,-59.883,,,,,1997-01-01,2018-01-28,2892,-
+ARM00087645,GHCN,ghcn_ftp,Tandil,175,-37.237,-59.228,,,,,1973-06-01,2018-02-01,8513,-
+AR000087692,GHCN,ghcn_ftp,Mar Del Plata Aero,22,-37.933,-57.583,,,,,1965-05-21,2018-02-01,9231,-
+ARM00087688,GHCN,ghcn_ftp,Tres Arroyos,122,-38.387,-60.33,,,,,1973-06-02,2010-09-05,4914,-
+AR000877500,GHCN,ghcn_ftp,Bahia Blanca Aero,75,-38.733,-62.167,,,,,1960-01-02,2018-01-27,8696,-
+AR000087715,GHCN,ghcn_ftp,Neuquen Aero,273,-38.95,-68.133,,,,,1963-01-13,2018-01-25,7125,-
+ARM00087784,GHCN,ghcn_ftp,San Antonio Oeste Aero,20,-40.783,-65.1,,,,,1968-01-09,2018-01-31,5215,-
+ARM00087791,GHCN,ghcn_ftp,Gobernador Castello,6,-40.869,-63.0,,,,,1973-06-02,2018-01-28,7098,-
+ARM00087765,GHCN,ghcn_ftp,San Carlos De Bariloche,846,-41.151,-71.158,,,,,1965-05-06,2018-01-26,8801,-
+ARM00087774,GHCN,ghcn_ftp,Maquinchao,888,-41.25,-68.733,,,,,1979-12-06,2018-01-26,1801,-
+ARM00087800,GHCN,ghcn_ftp,El Bolson,345,-41.943,-71.532,,,,,1995-03-16,2018-01-31,1146,-
+AR000087803,GHCN,ghcn_ftp,Esquel Aero,799,-42.933,-71.15,,,,,1967-07-19,2018-01-07,8034,-
+AR000087828,GHCN,ghcn_ftp,Trelew Aero,43,-43.2,-65.266,,,,,1967-05-09,2018-01-28,8215,-
+NZM00093781,GHCN,ghcn_ftp,Christchurch Intl,38,-43.489,172.532,,,,,1960-04-02,2018-02-02,14154,-
+ASN00094010,GHCN,ghcn_ftp,Cape Bruny Lighthouse,55,-43.4892,147.145,,,,,1900-01-01,2018-01-03,40973,-
+ASN00094013,GHCN,ghcn_ftp,Cockle Creek,-1000,-43.6,146.9,,,,,1908-07-01,1958-10-31,6201,-
+ASN00094041,GHCN,ghcn_ftp,Maatsuyker Island Lighthouse,147,-43.6578,146.271,,,,,1900-01-01,2018-01-03,41150,-
+ARM00087814,GHCN,ghcn_ftp,Paso De Indios,460,-43.817,-68.883,,,,,1973-09-22,1997-09-30,1234,-
+NZ000939870,GHCN,ghcn_ftp,Chatham Islands Aws,49,-43.95,-176.567,,,,,1993-11-25,2012-03-31,4842,-
+AR000087860,GHCN,ghcn_ftp,Comodoro Rivadavia,58,-45.783,-67.5,,,,,1965-03-19,2018-01-31,9176,-
+NZ000093844,GHCN,ghcn_ftp,Invercargill Airpor,2,-46.417,168.333,,,,,1979-04-01,2018-02-02,11478,-
+FSM00061997,GHCN,ghcn_ftp,Alfred Faure (Iles Crozet),142,-46.433,51.85,,,,,1976-09-24,2018-02-02,10819,-
+ARM00087852,GHCN,ghcn_ftp,Perito Moreno Arpt,429,-46.517,-71.017,,,,,1967-07-18,2017-03-28,2889,-
+SF000068994,GHCN,ghcn_ftp,Marion Island,21,-46.883,37.867,,,,,1949-01-01,2018-02-02,19745,-
+ARM00087896,GHCN,ghcn_ftp,Puerto Deseado,81,-47.735,-65.904,,,,,1967-07-02,2017-03-02,2437,-
+ARM00087880,GHCN,ghcn_ftp,Gobernador Gregores,356,-48.783,-70.167,,,,,1973-06-04,1997-04-17,1768,-
+ARM00087909,GHCN,ghcn_ftp,San Julian,58,-49.307,-67.803,,,,,1973-06-01,2018-02-01,7361,-
+FRM00061998,GHCN,ghcn_ftp,Port-Aux-Francais (Iles Kergu,30,-49.35,70.25,,,,,1973-06-17,2018-02-02,12331,-
+ARM00087904,GHCN,ghcn_ftp,El Calafate Aero,204,-50.267,-72.05,,,,,2003-03-30,2018-02-01,2038,-
+ARM00087903,GHCN,ghcn_ftp,Lago Argentino Arpt,220,-50.333,-72.3,,,,,1967-07-22,2000-10-14,3299,-
+NZM00093929,GHCN,ghcn_ftp,Enderby Island Aws,40,-50.483,166.3,,,,,1992-04-01,2018-02-02,7423,-
+AR000087925,GHCN,ghcn_ftp,Rio Gallegos Aero,19,-51.617,-69.283,,,,,1967-08-05,2018-02-02,9581,-
+FKM00088889,GHCN,ghcn_ftp,Mount Pleasant,74,-51.823,-58.447,,,,,1991-08-09,2018-02-02,7632,-
+NZ000939450,GHCN,ghcn_ftp,Campbell Island Aws,19,-52.55,169.167,,,,,1995-06-02,2018-02-02,6926,-
+ASM00095997,GHCN,ghcn_ftp,Heard Island (Atlas Cove),4,-53.017,73.4,,,,,2002-07-11,2002-07-12,2,-
+ARM00087934,GHCN,ghcn_ftp,Rio Grande,20,-53.778,-67.749,,,,,1976-11-17,2008-03-18,2496,-
+SXM00088903,GHCN,ghcn_ftp,Grytviken,3,-54.283,-36.5,,,,,1973-01-04,1982-03-31,568,-
+ASM00094998,GHCN,ghcn_ftp,Macquarie Island,8,-54.499,158.937,,,,,1973-07-27,2018-01-23,12488,-
+ARM00087938,GHCN,ghcn_ftp,Ushuaia Malvinas Argentinas,22,-54.843,-68.296,,,,,1965-03-09,2018-02-02,7783,-
+AYM00088968,GHCN,ghcn_ftp,Base Orcadas,8,-60.733,-44.733,,,,,1973-01-22,2018-02-02,8890,-
+AYM00089054,GHCN,ghcn_ftp,Dinamet-Uruguay,17,-62.183,-58.85,,,,,1985-03-09,2016-10-15,4645,-
+AYM00089050,GHCN,ghcn_ftp,Bellingshausen Aws,14,-62.183,-58.883,,,,,1973-06-22,2018-02-02,5451,-
+AYM00089056,GHCN,ghcn_ftp,Centro Met. Antartico Pdte. E,48,-62.183,-58.983,,,,,1985-04-09,2018-02-02,7013,-
+AYM00089251,GHCN,ghcn_ftp,King Sejong,11,-62.217,-58.75,,,,,1991-02-08,2016-06-20,1006,-
+AYM00089058,GHCN,ghcn_ftp,Great Wall,10,-62.217,-58.967,,,,,1986-05-03,2018-01-30,3958,-
+AYM00089053,GHCN,ghcn_ftp,Base Jubany,11,-62.233,-58.633,,,,,1981-01-04,2018-02-02,7067,-
+AYM00089057,GHCN,ghcn_ftp,Base Arturo Prat,5,-62.5,-59.683,,,,,1985-07-02,2018-02-01,5788,-
+AYM00089059,GHCN,ghcn_ftp,Base Bernardo O'Higgins,10,-63.317,-56.683,,,,,1985-07-02,2018-02-02,5726,-
+AYM00088963,GHCN,ghcn_ftp,Base Esperanza,24,-63.4,-56.983,,,,,1973-08-24,2018-02-02,6881,-
+AYM00089055,GHCN,ghcn_ftp,Base Marambio,198,-64.233,-56.717,,,,,1979-03-13,2017-12-21,6556,-
+AYM00089061,GHCN,ghcn_ftp,Palmer Station,8,-64.766,-64.083,,,,,1981-10-26,2018-02-02,2437,-
+AYM00089063,GHCN,ghcn_ftp,Vernadsky,11,-65.25,-64.267,,,,,1985-11-02,2014-04-26,212,-
+AYW00086101,GHCN,ghcn_ftp,Wilkes,12,-66.2667,110.567,,,,,1957-03-04,1963-12-31,2455,-
+AYM00089611,GHCN,ghcn_ftp,Casey,41,-66.283,110.517,,,,,1973-06-15,2005-07-16,1098,-
+AYM00089592,GHCN,ghcn_ftp,Mirnyj,40,-66.55,93.017,,,,,1973-04-11,2017-05-20,2851,-
+AYM00089642,GHCN,ghcn_ftp,Dumont D'Urville,43,-66.667,140.017,,,,,2002-06-11,2002-07-30,6,-
+AYM00089062,GHCN,ghcn_ftp,Rothera,33,-67.567,-68.117,,,,,1977-10-26,2002-07-12,7,-
+AYM00089564,GHCN,ghcn_ftp,Mawson,16,-67.6,62.867,,,,,1996-12-27,2007-02-28,396,-
+AYM00089542,GHCN,ghcn_ftp,Molodeznaja,50,-67.667,45.85,,,,,1973-09-15,1998-11-10,137,-
+AYM00089066,GHCN,ghcn_ftp,Base San Martin,7,-68.117,-67.133,,,,,1978-04-26,2018-01-26,6434,-
+AYM00089571,GHCN,ghcn_ftp,Davis,13,-68.583,77.95,,,,,1982-02-27,2018-02-02,1911,-
+AYM00089532,GHCN,ghcn_ftp,Syowa,21,-69.0,39.583,,,,,1977-07-12,2002-07-30,6,-
+AYM00089573,GHCN,ghcn_ftp,Zhongshan,18,-69.367,76.367,,,,,1990-03-10,2000-01-11,1130,-
+AYM00089574,GHCN,ghcn_ftp,Progress,64,-69.383,76.383,,,,,1988-04-07,2018-02-02,2426,-
+AYM00089657,GHCN,ghcn_ftp,Leningradskaya,291,-69.5,159.383,,,,,1973-03-12,1990-04-21,799,-
+AYM00089001,GHCN,ghcn_ftp,Sanae Saf-Base,62,-70.3,-2.35,,,,,1980-04-30,1987-01-13,8,-
+AYM00089002,GHCN,ghcn_ftp,Neumayer,50,-70.667,-8.25,,,,,1991-03-08,2002-07-30,8,-
+AYM00089512,GHCN,ghcn_ftp,Novolazarevskaja,119,-70.767,11.833,,,,,1973-06-22,2018-02-02,3193,-
+AYM00089514,GHCN,ghcn_ftp,Maitri,-1000,-70.767,11.75,,,,,1998-02-17,2005-07-16,799,-
+AYM00089004,GHCN,ghcn_ftp,S.A.N.A.E. Aws,817,-71.7,-2.8,,,,,2002-06-11,2005-07-16,549,-
+AYM00089504,GHCN,ghcn_ftp,Troll In Antarktis,1270,-72.017,2.383,,,,,1995-03-20,2015-12-24,5,-
+AYW00087701,GHCN,ghcn_ftp,Adare Hallett,5,-72.3,170.217,,,,,1957-02-01,1973-02-15,3753,-
+AYM00089662,GHCN,ghcn_ftp,Base Baia Terra Nova,92,-74.7,164.1,,,,,2013-11-06,2013-11-06,1,-
+AYW00057701,GHCN,ghcn_ftp,Eights,421,-75.2333,-77.1667,,,,,1961-12-01,1965-11-13,1092,-
+AYM00089022,GHCN,ghcn_ftp,Halley,30,-75.45,-26.217,,,,,1978-07-19,2002-07-30,12,-
+AYW00057801,GHCN,ghcn_ftp,Siple Stn,54,-75.9167,-83.9167,,,,,1979-01-01,1984-01-15,1257,-
+AYW00067402,GHCN,ghcn_ftp,Little Rockford,591,-76.2667,-147.5,,,,,1962-10-11,1963-02-16,129,-
+AYW00087602,GHCN,ghcn_ftp,Marble Point,48,-77.4167,163.683,,,,,1957-12-19,1959-01-28,119,-
+AYW00057401,GHCN,ghcn_ftp,Ellsworth Igy,43,-77.7333,-41.1167,,,,,1957-03-01,1962-11-30,1276,-
+AYM00089034,GHCN,ghcn_ftp,Base Belgrano Ii,256,-77.867,-34.617,,,,,1980-12-03,2018-02-02,4262,-
+AYM00089664,GHCN,ghcn_ftp,Mcmurdo Sound Naf,24,-77.8833,166.733,,,,,1956-03-10,2011-12-22,15546,-
+AYW00067601,GHCN,ghcn_ftp,Little America,32,-78.2,-162.25,,,,,1956-02-03,1958-12-30,1046,-
+AYM00089606,GHCN,ghcn_ftp,Vostok,3488,-78.45,106.867,,,,,1977-12-11,2018-02-02,1964,-
+AYW00067401,GHCN,ghcn_ftp,Little Rockford,651,-79.25,-147.5,,,,,1960-10-10,1962-02-07,241,-
+AYW00077401,GHCN,ghcn_ftp,Plateau Stn,3505,-79.4667,40.5833,,,,,1965-12-14,1968-12-31,1109,-
+AYW00068201,GHCN,ghcn_ftp,Byrd Stn,1543,-80.0167,-119.533,,,,,1957-01-10,1988-01-31,5729,-
+AYW00068701,GHCN,ghcn_ftp,Brockton Stn,101,-80.0167,-178.417,,,,,1966-01-01,1969-12-28,276,-
+AYW00088703,GHCN,ghcn_ftp,Little Jeana Stn,54,-81.3833,170.75,,,,,1964-10-04,1966-01-22,226,-
+AYW00088702,GHCN,ghcn_ftp,Beardmore Camp,59,-83.4,174.75,,,,,1959-10-18,1963-02-28,417,-
+AYW00090001,GHCN,ghcn_ftp,Amundsen-Scott,-1000,-90.0,0.0,,,,,1957-01-09,1996-11-30,13891,-
