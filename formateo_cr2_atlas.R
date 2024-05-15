@@ -80,6 +80,8 @@ write.csv(BaseDatosEstaciones,"BaseDatosEstaciones.csv", row.names=FALSE)
 
 #promedio
 Mediaconcero <- terra::rast("Mediaconcero.tif")
+terra::NAflag(Mediaconcero) <- -999
+
 #raster rcp85
 cr2mma_futuro_cercano <- terra::rast("cr2mma_futuro_cercano-cr2-regcm4-10k-rcp85.tif")
 cr2mma_futuro_intermedio_cr2 <- terra::rast("cr2mma_futuro_intermedio_cr2-regcm4-10k-rcp85.tif")
@@ -88,7 +90,6 @@ cr2mma_futuro_lejano <- terra::rast("cr2mma_futuro_lejano-cr2-regcm4-10k-rcp85.t
 cr2mma_futuro_cercano_25 <- terra::rast("futuro_lejano_rcp26-cimp5.tif")
 cr2mma_futuro_intermedio_cr2_25 <- terra::rast("futuro_intermedio_rcp26-RegCM4-10k.tif")
 cr2mma_futuro_lejano_25 <- terra::rast("futuro_cercano_rcp26-RegCM4-10k.tif")
-
 
 #resample 85
 cr2mma_futuro_cercano <- terra::resample(cr2mma_futuro_cercano, Mediaconcero, method="bilinear")
@@ -112,13 +113,13 @@ cr2mma_futuro_lejano_25 <- cr2mma_futuro_lejano_25/100
 
 #total
 #pp_faltante
-pp_totalcr2mma_futuro_cercano <- Mediaconcero -  cr2mma_futuro_cercano*Mediaconcero
-pp_totalcr2mma_futuro_intermedio_cr2 <- Mediaconcero -  cr2mma_futuro_intermedio_cr2*Mediaconcero
-pp_totalcr2mma_futuro_lejano <- Mediaconcero - cr2mma_futuro_lejano*Mediaconcero
+pp_totalcr2mma_futuro_cercano <- Mediaconcero +  cr2mma_futuro_cercano*Mediaconcero
+pp_totalcr2mma_futuro_intermedio_cr2 <- Mediaconcero +  cr2mma_futuro_intermedio_cr2*Mediaconcero
+pp_totalcr2mma_futuro_lejano <- Mediaconcero + cr2mma_futuro_lejano*Mediaconcero
 
-pp_totalcr2mma_futuro_cercano_25 <- Mediaconcero - cr2mma_futuro_cercano_25*Mediaconcero
-pp_totalcr2mma_futuro_intermedio_cr2_25 <-  Mediaconcero - cr2mma_futuro_intermedio_cr2_25*Mediaconcero
-pp_totalcr2mma_futuro_lejano_25 <-  Mediaconcero - cr2mma_futuro_lejano_25*Mediaconcero
+pp_totalcr2mma_futuro_cercano_25 <- Mediaconcero + cr2mma_futuro_cercano_25*Mediaconcero
+pp_totalcr2mma_futuro_intermedio_cr2_25 <-  Mediaconcero + cr2mma_futuro_intermedio_cr2_25*Mediaconcero
+pp_totalcr2mma_futuro_lejano_25 <-  Mediaconcero + cr2mma_futuro_lejano_25*Mediaconcero
 
 
 #exportar
